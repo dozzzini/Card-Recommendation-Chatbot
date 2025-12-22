@@ -87,7 +87,7 @@ Card-Recommendation-Chatbot
  ├ data/
  │   └ cards/      # 카드 JSON 데이터
  ├ README.md
-
+```
 ---
 ## 9. 팀 커밋 메시지 규칙
 
