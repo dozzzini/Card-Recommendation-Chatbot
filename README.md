@@ -81,7 +81,7 @@
 ## 8. 프로젝트 구조
 ```text
 Card-Recommendation-Chatbot
- ├ crawler/        # 카드 데이터 크롤링
+ ├ crawling/        # 카드 데이터 크롤링
  ├ rag/            # RAG 및 추천 로직
  ├ evaluation/     # 평가 및 실험 코드
  ├ data/
