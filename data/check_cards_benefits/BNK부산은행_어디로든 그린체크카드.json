@@ -1,0 +1,27 @@
+{
+    "card_name": "어디로든 그린체크카드",
+    "company": "BNK부산은행",
+    "cashback": "친환경 자동차 충전 최대\n20% 적립",
+    "benefit_place": "공유 모빌리티\n5% 적립",
+    "discount": "커피전문점\n5% 적립",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "충전소",
+            "content": "친환경 자동차 충전 최대 20% 적립"
+        },
+        {
+            "category": "생활",
+            "content": "공유 모빌리티 5% 적립"
+        },
+        {
+            "category": "카페",
+            "content": "커피전문점 5% 적립"
+        },
+        {
+            "category": "적립",
+            "content": "국내 전 가맹점 0.1% 적립"
+        }
+    ]
+}

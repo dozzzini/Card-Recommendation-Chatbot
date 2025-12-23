@@ -1,0 +1,59 @@
+{
+    "card_name": "모빌리언스카드",
+    "company": "KG모빌리언스",
+    "cashback": "온라인/오프라인 각각\n1%/0.5% 적립",
+    "benefit_place": "편의점, 커피, 외식 최대\n8% 적립",
+    "discount": "KFC\n10% 즉시할인",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "모든가맹점",
+            "content": "온라인 1% / 오프라인 0.5% 무제한 적립"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "모빌마켓 이용 시 2% 무제한 적립"
+        },
+        {
+            "category": "편의점",
+            "content": "CU, GS25, 이마트24 최대 2% 적립"
+        },
+        {
+            "category": "카페",
+            "content": "카페/베이커리 브랜드 최대 7.5% 적립"
+        },
+        {
+            "category": "생활",
+            "content": "대형마트/쇼핑/여가 브랜드 최대 8% 적립"
+        },
+        {
+            "category": "푸드",
+            "content": "외식 브랜드 최대 4.5% 적립"
+        },
+        {
+            "category": "패스트푸드",
+            "content": "KFC 10% 즉시할인"
+        },
+        {
+            "category": "통신",
+            "content": "KG모바일 알뜰폰 결합 시 4.5% 혜택"
+        },
+        {
+            "category": "기타",
+            "content": "다양한 충전수단, 30% 소득공제"
+        },
+        {
+            "category": "기타",
+            "content": "‘휴대폰결제(소액결제)’ 로 충전해서 비상금 만들기"
+        },
+        {
+            "category": "기타",
+            "content": "페이북 및 간편결제 가능, 마이태그 캐시백 혜택 적용"
+        },
+        {
+            "category": "혜택 프로모션",
+            "content": "휴대폰결제로 충전 후 최초 결제 시 2,000P 즉시 지급 + 매월 신규 이벤트 진행 중"
+        }
+    ]
+}

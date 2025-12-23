@@ -1,0 +1,47 @@
+{
+    "card_name": "내가그린카드",
+    "company": "SBI저축은행",
+    "cashback": "소셜커머스\n5% 할인",
+    "benefit_place": "온라인쇼핑\n5% 할인",
+    "discount": "점심식사\n5% 할인",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 20만원 이상",
+    "benefit": [
+        {
+            "category": "소셜커머스",
+            "content": "[할인서비스] 소셜 커머스 5% 할인"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "[할인서비스] 대형 온라인몰 5% 할인"
+        },
+        {
+            "category": "점심",
+            "content": "[할인서비스] 점심식사 5% 할인"
+        },
+        {
+            "category": "카페",
+            "content": "[할인서비스] 커피 10% 할인"
+        },
+        {
+            "category": "영화",
+            "content": "[할인서비스] 영화 3천원 할인"
+        },
+        {
+            "category": "공연/전시",
+            "content": "[할인서비스] 공연 3천원 할인"
+        },
+        {
+            "category": "통신",
+            "content": "[할인서비스] 이동통신요금 2천원 할인"
+        },
+        {
+            "category": "도서",
+            "content": "[할인서비스] 서적 5% 할인"
+        },
+        {
+            "category": "은행사",
+            "content": "금융 수수료 면제"
+        }
+    ]
+}

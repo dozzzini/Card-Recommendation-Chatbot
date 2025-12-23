@@ -1,0 +1,43 @@
+{
+    "card_name": "국민행복 삼성체크카드",
+    "company": "삼성카드",
+    "cashback": "빅포인트\n0.8~0.2% 적립",
+    "benefit_place": "스타벅스\n1,000원 할인",
+    "discount": "CGV\n1,500원 할인",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "국민행복",
+            "content": "국민행복 바우처 서비스"
+        },
+        {
+            "category": "모든가맹점",
+            "content": "업종 및 연간 이용금액에 따라 0.2%~0.8% 빅포인트 적립"
+        },
+        {
+            "category": "패밀리레스토랑",
+            "content": "아웃백스테이크하우스 10% 현장할인"
+        },
+        {
+            "category": "카페",
+            "content": "스타벅스 1,000원 결제일할인"
+        },
+        {
+            "category": "영화",
+            "content": "CGV, 무비존, 메가박스 영화할인"
+        },
+        {
+            "category": "정비",
+            "content": "닥터카서비스"
+        },
+        {
+            "category": "백화점",
+            "content": "신세계백화점 5% 할인 및 신세계포인트 적립"
+        },
+        {
+            "category": "대형마트",
+            "content": "이마트 맘키즈 서비스"
+        }
+    ]
+}

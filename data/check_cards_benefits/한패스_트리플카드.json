@@ -1,0 +1,39 @@
+{
+    "card_name": "트리플카드",
+    "company": "한패스",
+    "cashback": "해외 결제시\n3% 캐시백",
+    "benefit_place": "국내 결제시\n0.3% 캐시백",
+    "discount": "전 세계 ATM\n무료 수수료",
+    "overseas": "해외겸용 10,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "국내외가맹점",
+            "content": "쓸 때마다 무조건 캐시백 해외 3%, 국내 0.3% 지급"
+        },
+        {
+            "category": "캐시백",
+            "content": "국내·외 상관없이 해외 가맹점이면 결제는 3% 즉시 캐시백"
+        },
+        {
+            "category": "무실적",
+            "content": "실적 조건 NO! 결제한 금액만큼 즉시 혜택 제공"
+        },
+        {
+            "category": "해외",
+            "content": "ATM 출금 수수료 무료 혜택"
+        },
+        {
+            "category": "교통",
+            "content": "핸드폰으로 간편하게 충전 가능한 교통카드"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "마스터카드 플래티넘 혜택"
+        },
+        {
+            "category": "선택형",
+            "content": "3/3/3 혜택을 담은 디자인으로 탄생한 한패스 Triple Card"
+        }
+    ]
+}

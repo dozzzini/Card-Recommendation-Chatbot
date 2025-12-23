@@ -1,0 +1,19 @@
+{
+    "card_name": "NH1934 체크카드",
+    "company": "NH농협카드",
+    "cashback": "국내외가맹점\n0.2% 할인",
+    "benefit_place": "주말 국내가맹점\n0.3% 할인",
+    "discount": "정보없음",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "모든가맹점",
+            "content": "국내·외 전 가맹점 0.2~0.3% 청구할인"
+        },
+        {
+            "category": "은행사",
+            "content": "NH1934체크카드 & NH1934우대통장 교차이용 혜택"
+        }
+    ]
+}

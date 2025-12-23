@@ -1,0 +1,39 @@
+{
+    "card_name": "KB국민 우리동네 체크카드",
+    "company": "KB국민카드",
+    "cashback": "세탁소, 정육점\n10% 할인",
+    "benefit_place": "슈퍼마켓\n5% 할인",
+    "discount": "번개장터\n5% 할인",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 20만원 이상",
+    "benefit": [
+        {
+            "category": "생활",
+            "content": "세탁소 10% 할인"
+        },
+        {
+            "category": "기타",
+            "content": "정육점 10% 할인"
+        },
+        {
+            "category": "SSM",
+            "content": "슈퍼마켓 5% 할인"
+        },
+        {
+            "category": "기타",
+            "content": "반찬가게 5% 할인"
+        },
+        {
+            "category": "기타",
+            "content": "야채과일가게 5% 할인"
+        },
+        {
+            "category": "기타",
+            "content": "번개장터(번개페이) 5% 할인"
+        },
+        {
+            "category": "선택형",
+            "content": "카드 디자인 선택 가능"
+        }
+    ]
+}

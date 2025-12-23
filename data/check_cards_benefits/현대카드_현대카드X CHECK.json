@@ -1,0 +1,15 @@
+{
+    "card_name": "현대카드X CHECK",
+    "company": "현대카드",
+    "cashback": "사용금액별\n0.6~0.3% 적립",
+    "benefit_place": "정보없음",
+    "discount": "정보없음",
+    "overseas": "국내전용 2,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "모든가맹점",
+            "content": "사용금액별 X캐시백 적립"
+        }
+    ]
+}

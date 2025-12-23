@@ -1,0 +1,27 @@
+{
+    "card_name": "훈 체크카드",
+    "company": "KB국민카드",
+    "cashback": "학원\n7% 할인",
+    "benefit_place": "서점\n5% 할인",
+    "discount": "대중교통\n5% 할인",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "학원",
+            "content": "문리계·외국어학원 7% 환급할인"
+        },
+        {
+            "category": "도서",
+            "content": "서점업종 5% 환급할인"
+        },
+        {
+            "category": "병원/약국",
+            "content": "동물병원·약국업종 5% 환급할인"
+        },
+        {
+            "category": "대중교통",
+            "content": "버스·지하철 5% 청구할인"
+        }
+    ]
+}

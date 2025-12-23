@@ -1,0 +1,35 @@
+{
+    "card_name": "JYP Fan’s EDM 체크",
+    "company": "신한카드",
+    "cashback": "국내콘서트/공연\n5% 캐시백",
+    "benefit_place": "음원/스트리밍\n5% 캐시백",
+    "discount": "대중교통\n3% 캐시백",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 20만원 이상",
+    "benefit": [
+        {
+            "category": "공연/전시",
+            "content": "국내콘서트/공연 예매 및 팬클럽 가입 이용금액의 5% 캐시백"
+        },
+        {
+            "category": "음원사이트",
+            "content": "음원, 스트리밍(멜론, FLO) 이용금액 5% 캐시백"
+        },
+        {
+            "category": "대중교통",
+            "content": "대중교통(버스-마을, 시내, 시외, 광역, 공항버스/지하철) 이용금액 3% 캐시백"
+        },
+        {
+            "category": "카페",
+            "content": "스타벅스(사이렌오더 포함)/JYP-Soulcup 5% 캐시백"
+        },
+        {
+            "category": "마트/편의점",
+            "content": "편의점(GS25), 올리브영 5% 캐시백"
+        },
+        {
+            "category": "해외이용",
+            "content": "해외 전가맹점(온라인 포함) 이용금액의 1% 캐시백,\n해외인출 1건당 3$ 캐시백"
+        }
+    ]
+}

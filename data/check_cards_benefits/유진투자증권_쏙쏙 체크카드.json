@@ -1,0 +1,15 @@
+{
+    "card_name": "쏙쏙 체크카드",
+    "company": "유진투자증권",
+    "cashback": "온라인 모든가맹점\n10% 캐시백",
+    "benefit_place": "정보없음",
+    "discount": "정보없음",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "캐시백",
+            "content": "온라인 어디서나 10% 캐시백 (통합 월간 캐시백 한도 내)\n가맹점 상관없이 온라인 결제시 어디서나 10% 캐시백 혜택 제공"
+        }
+    ]
+}

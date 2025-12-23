@@ -1,0 +1,23 @@
+{
+    "card_name": "티니 카드",
+    "company": "롯데카드",
+    "cashback": "충전 없이\n교통 이용",
+    "benefit_place": "어디서나\n로카페이 결제",
+    "discount": "정보없음",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "교육/육아",
+            "content": "용돈도 신용카드로"
+        },
+        {
+            "category": "교통",
+            "content": "버스와 지하철 충전 없이 탈 수 있어요"
+        },
+        {
+            "category": "간편결제",
+            "content": "어디서나 간편하게 로카페이로 결제할 수 있어요"
+        }
+    ]
+}

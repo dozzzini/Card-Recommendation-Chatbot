@@ -1,0 +1,55 @@
+{
+    "card_name": "비트윈체크카드",
+    "company": "KB국민카드",
+    "cashback": "패밀리레스토랑\n15~10% 할인",
+    "benefit_place": "영화\n20% 할인",
+    "discount": "GS25\n5% 할인",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 20만원 이상",
+    "benefit": [
+        {
+            "category": "패밀리레스토랑",
+            "content": "아웃백·VIPS·TGIF·세븐스프링스"
+        },
+        {
+            "category": "카페",
+            "content": "커피빈 주중 5%, 주말 10% 환급할인"
+        },
+        {
+            "category": "영화",
+            "content": "CGV·메가박스 20% 환급할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "에버랜드·서울랜드·롯데월드 30% 환급할인"
+        },
+        {
+            "category": "편의점",
+            "content": "GS25 5% 환급할인"
+        },
+        {
+            "category": "대중교통",
+            "content": "버스·지하철 5% 청구할인"
+        },
+        {
+            "category": "도서",
+            "content": "교보문고 3% 환급할인"
+        },
+        {
+            "category": "헤어",
+            "content": "박승철헤어스투디오·올리브영 10% 환급할인"
+        },
+        {
+            "category": "항공권",
+            "content": "제주항공 10% 환급할인"
+        },
+        {
+            "category": "은행사",
+            "content": "금융수수료 면제 서비스"
+        },
+        {
+            "category": "기타",
+            "content": "통합할인한도"
+        }
+    ]
+}

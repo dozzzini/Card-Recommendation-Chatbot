@@ -1,0 +1,43 @@
+{
+    "card_name": "참! 좋은 다이소카드(체크)",
+    "company": "IBK기업은행",
+    "cashback": "다이소\n20% 할인",
+    "benefit_place": "편의점/드럭스토어\n5% 할인",
+    "discount": "소셜커머스\n10% 할인",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 20만원 이상",
+    "benefit": [
+        {
+            "category": "쇼핑",
+            "content": "다이소 결제금액의 20% 청구할인\n다이소 멤버십 포인트 자동적립"
+        },
+        {
+            "category": "소셜커머스",
+            "content": "쿠팡, 티몬, 위메프 10% 할인"
+        },
+        {
+            "category": "헤어",
+            "content": "미용실・이용원 10% 할인"
+        },
+        {
+            "category": "드럭스토어",
+            "content": "올리브영, 랄라블라 5% 할인"
+        },
+        {
+            "category": "편의점",
+            "content": "CU, GS25, 세븐일레븐 5% 할인"
+        },
+        {
+            "category": "영화",
+            "content": "CGV, 롯데시네마 2천원 할인"
+        },
+        {
+            "category": "카페",
+            "content": "주요 커피전문점 10% 할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "주요 놀이공원 할인"
+        }
+    ]
+}

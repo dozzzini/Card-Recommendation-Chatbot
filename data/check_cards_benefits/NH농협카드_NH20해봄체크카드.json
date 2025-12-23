@@ -1,0 +1,31 @@
+{
+    "card_name": "NH20해봄체크카드",
+    "company": "NH농협카드",
+    "cashback": "온라인쇼핑몰\n5% 할인",
+    "benefit_place": "배달앱\n5% 할인",
+    "discount": "커피\n20% 할인",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 20만원 이상",
+    "benefit": [
+        {
+            "category": "선택형",
+            "content": "해봄 선택 서비스_여행해봄/놀이해봄 Type 중 택1"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "[On-Line 서비스]"
+        },
+        {
+            "category": "생활",
+            "content": "[Off-Line 서비스]"
+        },
+        {
+            "category": "멤버십포인트",
+            "content": "GS리테일 POP 서비스"
+        },
+        {
+            "category": "기타",
+            "content": "주요서비스 통합 월 할인한도"
+        }
+    ]
+}

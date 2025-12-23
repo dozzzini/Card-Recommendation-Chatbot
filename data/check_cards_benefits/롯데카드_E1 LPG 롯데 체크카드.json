@@ -1,0 +1,51 @@
+{
+    "card_name": "E1 LPG 롯데 체크카드",
+    "company": "롯데카드",
+    "cashback": "E1 LPG 충전소\n리터당 47포인트 적립",
+    "benefit_place": "자동차\n정비 서비스 제공",
+    "discount": "정보없음",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 20만원 이상",
+    "benefit": [
+        {
+            "category": "멤버십포인트",
+            "content": "E1 LPG 충전소 리터당 47 오렌지포인트 적립"
+        },
+        {
+            "category": "정비",
+            "content": "E1 오렌지카드 서비스"
+        },
+        {
+            "category": "연회비지원",
+            "content": "연회비 면제 및 SMS 무료 서비스"
+        },
+        {
+            "category": "헤어",
+            "content": "미용실 최대 20% 할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "놀이공원 최대 50% 할인"
+        },
+        {
+            "category": "경기관람",
+            "content": "롯데 자이언츠 20% 할인"
+        },
+        {
+            "category": "쇼핑",
+            "content": "롯데백화점, 롯데ON, 롯데마트, 롯데슈퍼, 토이저러스 혜택"
+        },
+        {
+            "category": "영화",
+            "content": "롯데시네마 할인"
+        },
+        {
+            "category": "푸드",
+            "content": "보네스뻬, 보네스뻬브레드, T.G.I.F, 롯데리아, 엔제리너스커피, 나뚜루 할인"
+        },
+        {
+            "category": "멤버십포인트",
+            "content": "L.POINT"
+        }
+    ]
+}

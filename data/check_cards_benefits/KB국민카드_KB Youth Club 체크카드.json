@@ -1,0 +1,19 @@
+{
+    "card_name": "KB Youth Club 체크카드",
+    "company": "KB국민카드",
+    "cashback": "[A팩] 6개 영역(OTT, APP 등)\n최대 50% 할인",
+    "benefit_place": "[B팩] 6개 영역(멤버십, 통신 등)\n최대 50% 할인",
+    "discount": "Mastercard\n플래티늄 기본서비스 제공",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 15만원 이상",
+    "benefit": [
+        {
+            "category": "선택형",
+            "content": "[A팩] 6개 영역 최대 50% 할인\nOTT, APP, 여가, 교통, 편의점, 영화관"
+        },
+        {
+            "category": "선택형",
+            "content": "[B팩] 6개 영역 최대 50% 할인\n쇼핑 멤버십, 통신요금, 패션/라이프, 배달, 편의점, 데이트"
+        }
+    ]
+}

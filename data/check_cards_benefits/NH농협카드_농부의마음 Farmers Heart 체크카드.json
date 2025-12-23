@@ -1,0 +1,15 @@
+{
+    "card_name": "농부의마음 Farmers Heart 체크카드",
+    "company": "NH농협카드",
+    "cashback": "일상생활영역\n1% 적립",
+    "benefit_place": "농협계통업종\n1% 적립",
+    "discount": "농업관련업종\n1% 적립",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "적립",
+            "content": "일상생활, 농협계통업종, 농업관련업종 NH포인트 적립"
+        }
+    ]
+}

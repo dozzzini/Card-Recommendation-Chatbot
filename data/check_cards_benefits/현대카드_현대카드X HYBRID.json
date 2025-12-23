@@ -1,0 +1,19 @@
+{
+    "card_name": "현대카드X HYBRID",
+    "company": "현대카드",
+    "cashback": "이용금액별\n0.6~0.3% 적립",
+    "benefit_place": "정보없음",
+    "discount": "정보없음",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "모든가맹점",
+            "content": "당월 이용금액별 X캐시백 제공"
+        },
+        {
+            "category": "하이브리드",
+            "content": "체크결제와 신용결제 서비스를 한번에"
+        }
+    ]
+}

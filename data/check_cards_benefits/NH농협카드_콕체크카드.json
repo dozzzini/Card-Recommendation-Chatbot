@@ -1,0 +1,23 @@
+{
+    "card_name": "콕체크카드",
+    "company": "NH농협카드",
+    "cashback": "국내외 전 가맹점\n최대 0.5% 적립",
+    "benefit_place": "에코머니\n최대 5% 적립",
+    "discount": "정보없음",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "모든가맹점",
+            "content": "국내·외 가맹점 이용금액 최대 0.5% 적립"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "6차 산업 우수 상품에 대해 10% 청구할인"
+        },
+        {
+            "category": "멤버십포인트",
+            "content": "에코머니 제휴가맹점 에코머니 포인트 적립"
+        }
+    ]
+}

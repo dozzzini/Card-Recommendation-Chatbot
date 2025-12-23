@@ -1,0 +1,23 @@
+{
+    "card_name": "케이뱅크 플러스 체크카드",
+    "company": "케이뱅크",
+    "cashback": "모든가맹점\n0.3% 캐시백",
+    "benefit_place": "ATM수수료\n무료 서비스",
+    "discount": "언택트 업종\n3% 특별캐시백",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "모든가맹점",
+            "content": "모든 가맹점에서 0.3% 캐시백"
+        },
+        {
+            "category": "기타",
+            "content": "최대 2만원 3% 특별 캐시백"
+        },
+        {
+            "category": "금융",
+            "content": "모든 은행, GS25 ATM 수수료 무료"
+        }
+    ]
+}

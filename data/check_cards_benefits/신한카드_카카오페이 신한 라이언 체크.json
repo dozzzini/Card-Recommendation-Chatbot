@@ -1,0 +1,31 @@
+{
+    "card_name": "카카오페이 신한 라이언 체크",
+    "company": "신한카드",
+    "cashback": "카카오페이결제\n2%+2% 적립",
+    "benefit_place": "커피전문점\n5% 적립",
+    "discount": "대중교통\n5% 적립",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "카카오페이",
+            "content": "카카오페이 이용 시 적립"
+        },
+        {
+            "category": "카페",
+            "content": "커피전문점 업종 이용금액에 5% 카카오페이포인트 적립"
+        },
+        {
+            "category": "대중교통",
+            "content": "대중교통 이용금액에 5% 카카오페이포인트 적립(버스/지하철)"
+        },
+        {
+            "category": "해외",
+            "content": "해외(온라인 포함) 이용금액에 1% 카카오페이포인트 적립"
+        },
+        {
+            "category": "프리미엄",
+            "content": "VISA Platinum"
+        }
+    ]
+}

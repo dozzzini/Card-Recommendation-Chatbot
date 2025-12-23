@@ -1,0 +1,23 @@
+{
+    "card_name": "LG U+ 체크카드",
+    "company": "KB국민카드",
+    "cashback": "LGU+ 이동통신요금\n6,000원~4,000원 할인",
+    "benefit_place": "스타벅스\n10% 할인",
+    "discount": "CGV\n10% 할인",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "통신",
+            "content": "LG U+ 이동통신요금 자동납부 시 4~6천원 환급할인"
+        },
+        {
+            "category": "카페",
+            "content": "스타벅스 10% 환급할인"
+        },
+        {
+            "category": "영화",
+            "content": "CGV 10% 환급할인"
+        }
+    ]
+}

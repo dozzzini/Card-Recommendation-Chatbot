@@ -1,0 +1,27 @@
+{
+    "card_name": "NC다이노스체크카드",
+    "company": "NH농협카드",
+    "cashback": "NC다이노스 입장권\n2,000원 할인",
+    "benefit_place": "온라인쇼핑\n5% 할인",
+    "discount": "커피\n10% 할인",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "경기관람",
+            "content": "NC다이노스 홈구장 입장료 현장 할인"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "온라인쇼핑 5% 할인"
+        },
+        {
+            "category": "카페",
+            "content": "영화 · 커피 10%할인"
+        },
+        {
+            "category": "기타",
+            "content": "기타 서비스"
+        }
+    ]
+}

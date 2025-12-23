@@ -1,0 +1,27 @@
+{
+    "card_name": "다드림 체크카드",
+    "company": "우체국",
+    "cashback": "국내가맹점\n0.3% 적립",
+    "benefit_place": "우체국서비스\n5% 적립",
+    "discount": "통신서비스\n10% 적립",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "적립",
+            "content": "국내 전 가맹점 이용금액의 0.3% 우체국 포인트 적립,\n우편·우체국쇼핑 이용금액의 5% 우체국 포인트 적립"
+        },
+        {
+            "category": "통신",
+            "content": "우체국 알뜰폰 통신료 10% 우체국 포인트 적립"
+        },
+        {
+            "category": "멤버십포인트",
+            "content": "전국 Oh! point 가맹점에서 적립 또는 사용 가능"
+        },
+        {
+            "category": "금융",
+            "content": "우체국 다드림 통장 우대서비스"
+        }
+    ]
+}

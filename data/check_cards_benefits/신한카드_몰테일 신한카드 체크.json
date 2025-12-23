@@ -1,0 +1,35 @@
+{
+    "card_name": "몰테일 신한카드 체크",
+    "company": "신한카드",
+    "cashback": "몰테일\n3천원 캐시백",
+    "benefit_place": "해외전가맹점\n1.2% 캐시백",
+    "discount": "쿠팡,티몬\n9% 캐시백",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "해외직구",
+            "content": "몰테일(malltail) 배송비 결제 시 3천원 캐시백\n테일리스트(taillist), 비타트라(Vitatra) 5% 즉시 할인 (최대 US $2 할인)"
+        },
+        {
+            "category": "해외이용",
+            "content": "해외 전 가맹점 이용액 (온라인 포함) 1.2% 캐시백"
+        },
+        {
+            "category": "수수료우대",
+            "content": "해외 인출 1건당 US $3 캐시백"
+        },
+        {
+            "category": "소셜커머스",
+            "content": "쿠팡, 티몬 9% 캐시백"
+        },
+        {
+            "category": "편의점",
+            "content": "CU 9% 캐시백"
+        },
+        {
+            "category": "카페",
+            "content": "스타벅스 9% 캐시백"
+        }
+    ]
+}

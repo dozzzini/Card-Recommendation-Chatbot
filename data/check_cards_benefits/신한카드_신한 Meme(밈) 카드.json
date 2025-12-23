@@ -1,0 +1,15 @@
+{
+    "card_name": "신한 Meme(밈) 카드",
+    "company": "신한카드",
+    "cashback": "음원사이트\n5% 적립",
+    "benefit_place": "앱스토어\n5% 적립",
+    "discount": "편의점\n5% 적립",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "적립",
+            "content": "음원/앱스토어/편의점 5% 리워드 적립에 쓸때마다 0.1% 적립"
+        }
+    ]
+}

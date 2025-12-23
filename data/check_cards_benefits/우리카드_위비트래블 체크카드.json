@@ -1,0 +1,31 @@
+{
+    "card_name": "위비트래블 체크카드",
+    "company": "우리카드",
+    "cashback": "해외\n5% 캐시백",
+    "benefit_place": "푸드\n5% 캐시백",
+    "discount": "해외 가맹점\n이용 수수료 면제",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "수수료우대",
+            "content": "해외 수수료 면제 서비스"
+        },
+        {
+            "category": "해외",
+            "content": "해외 5% 캐시백"
+        },
+        {
+            "category": "쇼핑",
+            "content": "쇼핑 5% 캐시백"
+        },
+        {
+            "category": "푸드",
+            "content": "푸드 5% 캐시백"
+        },
+        {
+            "category": "생활",
+            "content": "일상 5% 캐시백"
+        }
+    ]
+}

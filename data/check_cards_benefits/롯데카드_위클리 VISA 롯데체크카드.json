@@ -1,0 +1,31 @@
+{
+    "card_name": "위클리 VISA 롯데체크카드",
+    "company": "롯데카드",
+    "cashback": "최대\n2% 캐시백",
+    "benefit_place": "놀이공원 최대\n50% 현장할인",
+    "discount": "T.G.I.FRIDAY'S\n10% 현장할인",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "캐시백",
+            "content": "Weekly 캐시백 서비스"
+        },
+        {
+            "category": "쇼핑",
+            "content": "쇼핑"
+        },
+        {
+            "category": "테마파크",
+            "content": "놀이공원 최대 50% 현장할인"
+        },
+        {
+            "category": "영화",
+            "content": "롯데시네마 1,500원 할인"
+        },
+        {
+            "category": "푸드",
+            "content": "외식"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "card_name": "Point Plan 체크(SOL 모임)",
+    "company": "신한카드",
+    "cashback": "일상 생활비\n최대 1% 적립",
+    "benefit_place": "주말 배달앱\n1천 포인트 적립",
+    "discount": "편의점\n5% 적립",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "생활",
+            "content": "[일상 생활비 적립] 국내 건당 결제금액별 0.2~1% 포인트 적립"
+        },
+        {
+            "category": "배달앱",
+            "content": "[주말 배달앱 적립] 필수 생활비 - 주말 배달앱 적립"
+        },
+        {
+            "category": "편의점",
+            "content": "[편의점 적립] 필수 생활비 - 편의점 적립"
+        }
+    ]
+}

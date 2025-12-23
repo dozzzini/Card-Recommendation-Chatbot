@@ -1,0 +1,19 @@
+{
+    "card_name": "VIVA+ 체크카드",
+    "company": "하나카드",
+    "cashback": "해외이용수수료\n0.5% 면제",
+    "benefit_place": "해외인출수수료\n3% 면제",
+    "discount": "점심시간\n7% 캐시백",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "수수료우대",
+            "content": "해외 이용 수수료 면제 서비스\n해외 인출 수수료 우대 서비스"
+        },
+        {
+            "category": "점심",
+            "content": "Lunch Time 7% 캐쉬백 서비스"
+        }
+    ]
+}

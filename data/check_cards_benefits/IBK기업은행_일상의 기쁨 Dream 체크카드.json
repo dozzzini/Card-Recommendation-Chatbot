@@ -1,0 +1,35 @@
+{
+    "card_name": "일상의 기쁨 Dream 체크카드",
+    "company": "IBK기업은행",
+    "cashback": "버스,지하철 건당\n100원 할인",
+    "benefit_place": "편의점\n5% 할인",
+    "discount": "커피\n10% 할인",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "대중교통",
+            "content": "버스, 지하철 이용건당 100원 할인"
+        },
+        {
+            "category": "편의점",
+            "content": "GS25, CU, 세븐일레븐 5% 할인\n쿠팡, 티몬, 위메프 10% 할인"
+        },
+        {
+            "category": "영화",
+            "content": "CGV, 롯데시네마, 메가박스 4천원 할인"
+        },
+        {
+            "category": "카페",
+            "content": "주요 커피전문점 10% 할인"
+        },
+        {
+            "category": "금융",
+            "content": "금융우대서비스"
+        },
+        {
+            "category": "테마파크",
+            "content": "주요 놀이공원 할인"
+        }
+    ]
+}

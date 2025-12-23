@@ -1,0 +1,23 @@
+{
+    "card_name": "음 체크카드",
+    "company": "KB국민카드",
+    "cashback": "한식업종\n5% 할인",
+    "benefit_place": "커피전문점\n5% 할인",
+    "discount": "대중교통\n5% 할인",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "일반음식점",
+            "content": "한식 업종 5% 평일 환급할인"
+        },
+        {
+            "category": "카페",
+            "content": "커피전문점, 베이커리, 아이스크림전문점 5% 평일 환급할인"
+        },
+        {
+            "category": "교통",
+            "content": "버스·지하철 5% 청구할인"
+        }
+    ]
+}

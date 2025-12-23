@@ -1,0 +1,39 @@
+{
+    "card_name": "카카오페이 신한 체크카드",
+    "company": "신한카드",
+    "cashback": "카카오페이\n2% 적립",
+    "benefit_place": "대중교통\n3% 적립",
+    "discount": "CGV 최대\n3천원 적립",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "선택형",
+            "content": "플레이트 디자인 선택 가능"
+        },
+        {
+            "category": "카카오페이",
+            "content": "카카오페이 결제 시 2% 적립"
+        },
+        {
+            "category": "대중교통",
+            "content": "대중교통 3% 적립"
+        },
+        {
+            "category": "통신",
+            "content": "이동통신요금 3% 적립"
+        },
+        {
+            "category": "영화",
+            "content": "CGV 영화 최대 3천원 적립"
+        },
+        {
+            "category": "해외",
+            "content": "해외 전가맹점(온라인 포함) 이용금액 1% 적립,\n해외 인출 1건당 US $3 적립 제공"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "Master 플래티늄 서비스"
+        }
+    ]
+}

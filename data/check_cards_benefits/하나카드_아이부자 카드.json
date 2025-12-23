@@ -1,0 +1,19 @@
+{
+    "card_name": "아이부자 카드",
+    "company": "하나카드",
+    "cashback": "교통기능\n사용 가능",
+    "benefit_place": "소득공제\n30% 혜택",
+    "discount": "정보없음",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "대중교통",
+            "content": "교통카드 사용 가능"
+        },
+        {
+            "category": "공과금/렌탈",
+            "content": "30% 소득공제 혜택 제공"
+        }
+    ]
+}

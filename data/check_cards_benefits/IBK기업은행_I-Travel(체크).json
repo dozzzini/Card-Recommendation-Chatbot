@@ -1,0 +1,27 @@
+{
+    "card_name": "I-Travel(체크)",
+    "company": "IBK기업은행",
+    "cashback": "대한항공 마일리지\n3천원당 1마일리지 적립",
+    "benefit_place": "해외가맹점\n이용 수수료 면제",
+    "discount": "해외ATM\n인출 수수료 월 3회 면제",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "해외",
+            "content": "우대 환율(매매기준율) 적용"
+        },
+        {
+            "category": "해외이용",
+            "content": "[해외가맹점 이용] 국제브랜드수수료(1%) 및 해외이용 수수료(0.18%) 면제"
+        },
+        {
+            "category": "수수료우대",
+            "content": "[해외ATM 인출] 국제브랜드수수료(1%) 및 해외ATM 이용 수수료(USD 3.0) 월 3회 면제"
+        },
+        {
+            "category": "대한항공",
+            "content": "[대한항공 마일리지] 건당 3만원 이상 결제 시 3천원당 1마일리지 적립"
+        }
+    ]
+}

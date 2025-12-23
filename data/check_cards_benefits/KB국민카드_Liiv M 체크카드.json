@@ -1,0 +1,27 @@
+{
+    "card_name": "Liiv M 체크카드",
+    "company": "KB국민카드",
+    "cashback": "통신요금\n5% 할인",
+    "benefit_place": "야놀자\n3% 할인",
+    "discount": "CU편의점\n3% 할인",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "통신",
+            "content": "이동통신요금 5% 환급할인"
+        },
+        {
+            "category": "소셜커머스",
+            "content": "11번가 3% 환급할인"
+        },
+        {
+            "category": "여행/숙박",
+            "content": "야놀자 3% 환급할인"
+        },
+        {
+            "category": "편의점",
+            "content": "CU편의점 3% 환급할인"
+        }
+    ]
+}

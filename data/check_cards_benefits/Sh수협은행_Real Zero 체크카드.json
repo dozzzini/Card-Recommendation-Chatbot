@@ -1,0 +1,15 @@
+{
+    "card_name": "Real Zero 체크카드",
+    "company": "Sh수협은행",
+    "cashback": "금융\n수수료 면제",
+    "benefit_place": "정보없음",
+    "discount": "정보없음",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "기타",
+            "content": "금융우대 서비스"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "card_name": "제주항공 트래블제로카드",
+    "company": "코나카드",
+    "cashback": "해외 가맹점\n결제 수수료 0%",
+    "benefit_place": "환전 수수료\n0% (환율 100% 우대)",
+    "discount": "실적/한도 제한 없이\n0.2% 캐시백",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "해외",
+            "content": "해외 혜택"
+        },
+        {
+            "category": "할인",
+            "content": "국내 혜택"
+        },
+        {
+            "category": "제주항공",
+            "content": "전용 혜택"
+        },
+        {
+            "category": "기타",
+            "content": "소득공제·부가기능"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "card_name": "페이북 머니 체크카드",
+    "company": "BC 바로카드",
+    "cashback": "전월실적 없이\n최대 1만원 페이북 머니 적립",
+    "benefit_place": "페이북 결제시\n1% 페이북 머니 적립",
+    "discount": "일반가맹점 결제시\n0.2% 페이북 머니 적립",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "모든가맹점",
+            "content": "[SUPER MONEY] 페이북 결제 시 1% 페이북 머니 적립"
+        },
+        {
+            "category": "적립",
+            "content": "[SPECIAL MONEY] 3대 카테고리 결제 시 0.5% 페이북 머니 적립"
+        },
+        {
+            "category": "모든가맹점",
+            "content": "[STANDARD MONEY] 일반 가맹점 결제 시 0.2% 페이북 머니 적립"
+        }
+    ]
+}

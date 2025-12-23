@@ -1,0 +1,35 @@
+{
+    "card_name": "CJ ONE 신한카드 체크",
+    "company": "신한카드",
+    "cashback": "CJ ONE포인트\n5% 추가적립",
+    "benefit_place": "CGV\n7,000원 캐시백",
+    "discount": "투썸플레이스\n10% 캐시백",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 20만원 이상",
+    "benefit": [
+        {
+            "category": "영화",
+            "content": "CGV 영화 예매 시 최대 7,000원 캐시백"
+        },
+        {
+            "category": "드럭스토어",
+            "content": "올리브영 10% 캐시백"
+        },
+        {
+            "category": "CJ ONE",
+            "content": "CJ ONE 5% 포인트 추가 적립"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "CJ mall 5% 캐시백"
+        },
+        {
+            "category": "패스트푸드",
+            "content": "VIPS / 계절밥상 10% 캐시백"
+        },
+        {
+            "category": "카페/디저트",
+            "content": "투썸플레이스 / 뚜레쥬르 10% 캐시백"
+        }
+    ]
+}

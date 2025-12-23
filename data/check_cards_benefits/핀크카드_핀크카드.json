@@ -1,0 +1,23 @@
+{
+    "card_name": "핀크카드",
+    "company": "핀크카드",
+    "cashback": "이용실적에 따라\n최대1% 적립",
+    "benefit_place": "연말정산\n30% 공제",
+    "discount": "정보없음",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 10만원 이상",
+    "benefit": [
+        {
+            "category": "적립",
+            "content": "이용 실적에 따라 최대 1% 적립"
+        },
+        {
+            "category": "기타",
+            "content": "내 소비생활의 중심 핀크계좌 + 핀크카드\nAI핀고의정확한 소비 분석"
+        },
+        {
+            "category": "선택형",
+            "content": "디자인 선택의 즐거움 망설이다 품절주의!\n핀크에만 있는 한정판 디자인"
+        }
+    ]
+}

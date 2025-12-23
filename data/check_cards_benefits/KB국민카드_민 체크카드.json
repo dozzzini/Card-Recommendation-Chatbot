@@ -1,0 +1,43 @@
+{
+    "card_name": "민 체크카드",
+    "company": "KB국민카드",
+    "cashback": "대형마트\n5% 할인",
+    "benefit_place": "SK에너지\n60원/L 할인",
+    "discount": "대중교통\n5% 할인",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "대형마트",
+            "content": "이마트·롯데마트·홈플러스 5% 환급할인"
+        },
+        {
+            "category": "주유소",
+            "content": "SK에너지 리터당 60원 환급할인"
+        },
+        {
+            "category": "정비",
+            "content": "스피드메이트 엔진오일교환 2만원 현장할인 및 정비 할인"
+        },
+        {
+            "category": "패스트푸드",
+            "content": "패스트푸드 10% 환급할인"
+        },
+        {
+            "category": "통신",
+            "content": "이동통신요금 2,500원 환급할인"
+        },
+        {
+            "category": "대중교통",
+            "content": "버스·지하철 5% 청구할인"
+        },
+        {
+            "category": "편의점",
+            "content": "CU편의점 3% CU포인트 적립"
+        },
+        {
+            "category": "기타",
+            "content": "통합할인한도"
+        }
+    ]
+}

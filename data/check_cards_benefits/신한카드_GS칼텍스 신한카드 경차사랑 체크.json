@@ -1,0 +1,23 @@
+{
+    "card_name": "GS칼텍스 신한카드 경차사랑 체크",
+    "company": "신한카드",
+    "cashback": "경차\n유류세 환급",
+    "benefit_place": "GS칼텍스\n15원~30원/L 할인",
+    "discount": "자동차보험\n2만~3만원 할인",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "자동차",
+            "content": "경차 유류세 환급 서비스"
+        },
+        {
+            "category": "주유",
+            "content": "GS칼텍스 주유할인 서비스(LPG포함)"
+        },
+        {
+            "category": "보험",
+            "content": "DB손해보험 다이렉트 자동차보험 할인"
+        }
+    ]
+}

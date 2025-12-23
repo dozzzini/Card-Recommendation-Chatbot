@@ -1,0 +1,19 @@
+{
+    "card_name": "해피리워드 체크카드",
+    "company": "KB국민카드",
+    "cashback": "해피오더 결제 시\n1천원 할인",
+    "benefit_place": "해피마켓 결제 시\n1천원 할인",
+    "discount": "해피가맹점 결제 시\n1천원 할인",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 10만원 이상",
+    "benefit": [
+        {
+            "category": "해피포인트",
+            "content": "[Reward ON]\n해피오더/해피마켓/해피페이 결제 시 1,000원 환급할인"
+        },
+        {
+            "category": "해피포인트",
+            "content": "[Reward OFF]\n해피가맹점(파리바게뜨, 던킨도너츠, 배스킨라빈스, 파스쿠찌) 결제 시 1,000원 환급할인"
+        }
+    ]
+}

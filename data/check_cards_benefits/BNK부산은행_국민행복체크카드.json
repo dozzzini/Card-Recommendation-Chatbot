@@ -1,0 +1,39 @@
+{
+    "card_name": "국민행복체크카드",
+    "company": "BNK부산은행",
+    "cashback": "임신/출산\n진료비 지원",
+    "benefit_place": "의료비\n3% 할인",
+    "discount": "커피전문점\n10% 할인",
+    "overseas": "국내전용 1,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "국민행복",
+            "content": "국민행복 특화서비스"
+        },
+        {
+            "category": "병원",
+            "content": "의료비 3% 할인"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "온라인 쇼핑몰 3% 청구 할인"
+        },
+        {
+            "category": "패밀리레스토랑",
+            "content": "패밀리 레스토랑 5% 청구 할인"
+        },
+        {
+            "category": "카페",
+            "content": "커피 전문점 10% 청구 할인"
+        },
+        {
+            "category": "통신",
+            "content": "통신비 1천원 청구 할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "키즈 파크 할인"
+        }
+    ]
+}

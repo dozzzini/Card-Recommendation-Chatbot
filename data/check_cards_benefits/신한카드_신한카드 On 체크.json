@@ -1,0 +1,27 @@
+{
+    "card_name": "신한카드 On 체크",
+    "company": "신한카드",
+    "cashback": "간편결제\n2% 적립",
+    "benefit_place": "생활편의\n2% 적립",
+    "discount": "해외 이용금액\n1.3% 적립",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 20만원 이상",
+    "benefit": [
+        {
+            "category": "간편결제",
+            "content": "간편결제(Pay) 이용 시 최대 2% 적립"
+        },
+        {
+            "category": "생활",
+            "content": "생활편의영역 이용 시 최대 2% 적립"
+        },
+        {
+            "category": "해외",
+            "content": "해외 이용금액에 대해 1.3% 적립"
+        },
+        {
+            "category": "선택형",
+            "content": "카드 플레이트 선택 가능"
+        }
+    ]
+}

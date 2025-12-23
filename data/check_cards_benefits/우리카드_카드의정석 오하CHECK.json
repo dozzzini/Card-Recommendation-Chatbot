@@ -1,0 +1,55 @@
+{
+    "card_name": "카드의정석 오하CHECK",
+    "company": "우리카드",
+    "cashback": "온라인 쇼핑\n5% 캐시백",
+    "benefit_place": "간편결제\n5% 캐시백",
+    "discount": "스타벅스\n5% 캐시백",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 20만원 이상",
+    "benefit": [
+        {
+            "category": "온라인쇼핑",
+            "content": "[오늘 하루 SHOPPING] 온라인 쇼핑 5% 캐시백"
+        },
+        {
+            "category": "간편결제",
+            "content": "[오늘 하루 SHOPPING] 간편결제 5% 캐시백"
+        },
+        {
+            "category": "생활",
+            "content": "[오늘 하루 SHOPPING] 안경/렌즈 5% 캐시백"
+        },
+        {
+            "category": "카페",
+            "content": "[오늘 하루 EAT] 커피 5% 캐시백"
+        },
+        {
+            "category": "배달앱",
+            "content": "[오늘 하루 EAT] 배달/주문 5% 캐시백"
+        },
+        {
+            "category": "대중교통",
+            "content": "[오늘 하루 LIFE] 대중교통(버스/지하철) 5% 캐시백"
+        },
+        {
+            "category": "통신",
+            "content": "[오늘 하루 LIFE] 이동통신 5% 캐시백"
+        },
+        {
+            "category": "해외",
+            "content": "[오늘 하루 LIFE] 해외 5% 캐시백"
+        },
+        {
+            "category": "생활",
+            "content": "[오늘 하루 LIFE] 어학시험 5% 캐시백"
+        },
+        {
+            "category": "디지털구독",
+            "content": "[오늘 하루 PLAY] OTT 5% 캐시백"
+        },
+        {
+            "category": "공연/전시",
+            "content": "[오늘 하루 PLAY] 공연티켓 5% 캐시백"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "card_name": "LGU+ 라서즐거운 체크카드",
+    "company": "우리카드",
+    "cashback": "LG U+ 최대\n5천원 할인",
+    "benefit_place": "패밀리레스토랑\n10% 할인",
+    "discount": "커피\n10% 할인",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "LGU+",
+            "content": "LG U+ 통신요금 최대 5천원 할인"
+        },
+        {
+            "category": "패밀리레스토랑",
+            "content": "패밀리레스토랑 10% 캐시백 할인"
+        },
+        {
+            "category": "카페",
+            "content": "스타벅스, 커피빈 10% 캐시백 할인"
+        },
+        {
+            "category": "영화",
+            "content": "전국 영화관 2천원 캐시백 할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "주요 놀이공원 자유이용권 50% 현장할인"
+        }
+    ]
+}

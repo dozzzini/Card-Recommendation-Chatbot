@@ -1,0 +1,35 @@
+{
+    "card_name": "더담은 체크카드",
+    "company": "MG새마을금고",
+    "cashback": "교육\n2천원 할인",
+    "benefit_place": "주유\n1천원 할인",
+    "discount": "음식점\n1천원 할인",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "학원",
+            "content": "대상가맹점 결제 시 2천원 할인"
+        },
+        {
+            "category": "주유",
+            "content": "전국 주유소 및 충전소, 전기차충전소 결제 시 1천원 할인캐시백"
+        },
+        {
+            "category": "일반음식점",
+            "content": "음식점 업종 결제 시 1천원 할인캐시백"
+        },
+        {
+            "category": "쇼핑",
+            "content": "대상가맹점 결제 시 1천원 할인"
+        },
+        {
+            "category": "편의점",
+            "content": "GS25, CU, 세븐일레븐, 이마트24 결제 시 500원 할인캐시백"
+        },
+        {
+            "category": "해외",
+            "content": "해외 서비스수수료, 현금(예금)인출수수료, 예금잔액조회수수료 면제"
+        }
+    ]
+}

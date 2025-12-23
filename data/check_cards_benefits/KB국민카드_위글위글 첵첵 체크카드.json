@@ -1,0 +1,47 @@
+{
+    "card_name": "위글위글 첵첵 체크카드",
+    "company": "KB국민카드",
+    "cashback": "네이버페이,카카오페이\n2~4천원 할인",
+    "benefit_place": "스타벅스\n2~4천원 할인",
+    "discount": "텐바이텐\n2~4천원 할인",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "간편결제",
+            "content": "네이버페이.카카오페이.SSG페이 최대 4천원 할인"
+        },
+        {
+            "category": "대중교통",
+            "content": "버스.지하철 최대 4천원 할인"
+        },
+        {
+            "category": "편의점",
+            "content": "CU편의점 최대 4천원 할인"
+        },
+        {
+            "category": "카페",
+            "content": "스타벅스(사이렌오더 포함) 최대 4천원 할인"
+        },
+        {
+            "category": "영화",
+            "content": "CGV 최대 4천원 할인"
+        },
+        {
+            "category": "기타",
+            "content": "텐바이텐 최대 4천원 할인"
+        },
+        {
+            "category": "드럭스토어",
+            "content": "올리브영,안경(렌즈)점 최대 4천원 할인"
+        },
+        {
+            "category": "도서",
+            "content": "YES24, 교보문고 최대 4천원 할인"
+        },
+        {
+            "category": "공연/전시",
+            "content": "인터파크티켓 최대 4천원 할인"
+        }
+    ]
+}

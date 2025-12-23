@@ -1,0 +1,19 @@
+{
+    "card_name": "신한카드 SOL글로벌U 체크",
+    "company": "신한카드",
+    "cashback": "교통\n10% 캐시백",
+    "benefit_place": "편의점\n10% 캐시백",
+    "discount": "배달앱\n10% 캐시백",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "캐시백",
+            "content": "[필수 생활비 영역 캐시백] 대중교통, 이동통신요금 10% 캐시백"
+        },
+        {
+            "category": "캐시백",
+            "content": "[일상 생활비 영역 캐시백] 커피/편의점 10% 캐시백, 배달앱 10% 캐시백"
+        }
+    ]
+}

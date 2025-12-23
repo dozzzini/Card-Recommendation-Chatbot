@@ -1,0 +1,23 @@
+{
+    "card_name": "신한 S-Choice체크카드",
+    "company": "신한카드",
+    "cashback": "버스/지하철/택시\n10% 할인(캐시백)",
+    "benefit_place": "커피전문점\n20% 할인(캐시백)",
+    "discount": "백화점\n10% 할인(캐시백)",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 20만원 이상",
+    "benefit": [
+        {
+            "category": "교통",
+            "content": "버스,지하철,택시 이용금액의 10% 할인 (캐시백)"
+        },
+        {
+            "category": "카페",
+            "content": "모든 커피 전문점 이용 금액의 20% 할인 (캐시백)"
+        },
+        {
+            "category": "백화점",
+            "content": "4대 백화점 및 3대 할인점 이용 금액의 10% 할인 (캐시백)"
+        }
+    ]
+}

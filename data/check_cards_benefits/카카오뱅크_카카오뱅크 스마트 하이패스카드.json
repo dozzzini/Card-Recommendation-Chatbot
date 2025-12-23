@@ -1,0 +1,19 @@
+{
+    "card_name": "카카오뱅크 스마트 하이패스카드",
+    "company": "카카오뱅크",
+    "cashback": "출퇴근 통행료\n최대 50% 자동할인",
+    "benefit_place": "카드 발급비\n할인",
+    "discount": "정보없음",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "하이패스",
+            "content": "카카오뱅크 스마트 하이패스카드 소개"
+        },
+        {
+            "category": "하이패스",
+            "content": "하이패스 할인 안내"
+        }
+    ]
+}

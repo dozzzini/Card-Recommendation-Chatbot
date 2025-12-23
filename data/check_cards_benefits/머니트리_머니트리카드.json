@@ -1,0 +1,27 @@
+{
+    "card_name": "머니트리카드",
+    "company": "머니트리",
+    "cashback": "연회비・발급비\n무료 신청",
+    "benefit_place": "소득공제\n30% 혜택",
+    "discount": "정보없음",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "기타",
+            "content": "머니트리카드는 연회비 무료!"
+        },
+        {
+            "category": "공과금/렌탈",
+            "content": "소득공제 30% 혜택"
+        },
+        {
+            "category": "기타",
+            "content": "현금이 없을 때 비상용 카드로 추천"
+        },
+        {
+            "category": "기타",
+            "content": "머니트리카드 사용 tip!"
+        }
+    ]
+}

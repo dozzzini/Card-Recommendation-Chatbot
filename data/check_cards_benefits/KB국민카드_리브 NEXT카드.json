@@ -1,0 +1,27 @@
+{
+    "card_name": "리브 NEXT카드",
+    "company": "KB국민카드",
+    "cashback": "편의점\n5% 환급할인",
+    "benefit_place": "올리브영\n5% 환급할인",
+    "discount": "구글 플레이/앱스토어\n5% 환급할인",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "푸드",
+            "content": "[YUMMY!] 편의점(GS25/CU), 커피/음료 전문점 5% 환급할인"
+        },
+        {
+            "category": "생활",
+            "content": "[Enjoy!] 올리브영, 다이소 결제 시 5% 환급할인"
+        },
+        {
+            "category": "게임",
+            "content": "구글 플레이스토어, 앱스토어 결제 시 5% 환급할인"
+        },
+        {
+            "category": "선택형",
+            "content": "다양한 플레이트 선택 가능"
+        }
+    ]
+}

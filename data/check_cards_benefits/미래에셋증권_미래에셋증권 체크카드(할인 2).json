@@ -1,0 +1,23 @@
+{
+    "card_name": "미래에셋증권 체크카드(할인 2)",
+    "company": "미래에셋증권",
+    "cashback": "커피전문점\n10% 할인",
+    "benefit_place": "편의점\n10% 할인",
+    "discount": "디지털구독 건당\n5,000원 할인",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "카페",
+            "content": "커피전문점 10% 할인"
+        },
+        {
+            "category": "마트/편의점",
+            "content": "편의점 10% 할인\n마트 5% 할인"
+        },
+        {
+            "category": "디지털구독",
+            "content": "디지털구독 10% 할인"
+        }
+    ]
+}

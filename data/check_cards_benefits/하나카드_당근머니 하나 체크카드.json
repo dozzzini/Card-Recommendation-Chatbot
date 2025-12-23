@@ -1,0 +1,15 @@
+{
+    "card_name": "당근머니 하나 체크카드",
+    "company": "하나카드",
+    "cashback": "지역 가맹점\n3.0% 적립",
+    "benefit_place": "당근 앱 내 결제\n5.0% 적립",
+    "discount": "국내 전 가맹점\n0.5% 적립",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "적립",
+            "content": "당근머니 적립 서비스"
+        }
+    ]
+}

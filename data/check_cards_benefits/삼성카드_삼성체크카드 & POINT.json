@@ -1,0 +1,23 @@
+{
+    "card_name": "삼성체크카드 & POINT",
+    "company": "삼성카드",
+    "cashback": "빅포인트\n0.8~0.2% 적립",
+    "benefit_place": "CGV\n3,000원 할인",
+    "discount": "놀이공원\n50% 할인",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "모든가맹점",
+            "content": "업종 및 연간 이용금액에 따라 0.2%~0.8% 빅포인트 적립"
+        },
+        {
+            "category": "영화",
+            "content": "CGV 3,000원 할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "놀이공원 자유이용권 50%·워터파크 입장권 30% 현장할인"
+        }
+    ]
+}

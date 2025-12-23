@@ -1,0 +1,31 @@
+{
+    "card_name": "IBK 국민행복 체크카드",
+    "company": "IBK기업은행",
+    "cashback": "어린이집/유치원\n3% 할인",
+    "benefit_place": "병/의원\n3% 할인",
+    "discount": "커피\n10% 할인",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 20만원 이상",
+    "benefit": [
+        {
+            "category": "국민행복",
+            "content": "신청 및 바우처 안내"
+        },
+        {
+            "category": "모든가맹점",
+            "content": "선택서비스 : for Green Life Service(C-Type)"
+        },
+        {
+            "category": "어린이집",
+            "content": "선택서비스 : for Children Service(B-Type)"
+        },
+        {
+            "category": "병원",
+            "content": "선택서비스 : for Baby Service(A-Type)"
+        },
+        {
+            "category": "멤버십포인트",
+            "content": "그린카드 멤버십서비스"
+        }
+    ]
+}

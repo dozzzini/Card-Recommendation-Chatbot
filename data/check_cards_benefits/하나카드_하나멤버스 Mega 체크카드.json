@@ -1,0 +1,19 @@
+{
+    "card_name": "하나멤버스 Mega 체크카드",
+    "company": "하나카드",
+    "cashback": "생활업종 2만원당\n200하나머니 적립",
+    "benefit_place": "통신요금\n3천~5천머니 적립",
+    "discount": "전가맹점 2만원당\n100하나머니 적립",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 25만원 이상",
+    "benefit": [
+        {
+            "category": "멤버십포인트",
+            "content": "요식/마트/백화점/온라인쇼핑/주유/병원/ 2만원당 200 하나머니 적립\nSKT/KT/LGU+ 자동이체 적립(월1회) 3천~5천 하나머니 적립"
+        },
+        {
+            "category": "카드사",
+            "content": "하나멤버스 서비스"
+        }
+    ]
+}

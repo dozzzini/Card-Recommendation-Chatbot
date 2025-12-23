@@ -1,0 +1,35 @@
+{
+    "card_name": "신한카드 Deep Dream 체크(미니언즈)",
+    "company": "신한카드",
+    "cashback": "모두드림\n0.2% 적립",
+    "benefit_place": "더해드림\n0.6% 적립",
+    "discount": "챙겨드림\n1.0% 적립",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "적립",
+            "content": "[모두드림] 국내/외 일시불+할부 이용 가맹점 0.2% 기본 포인트 적립"
+        },
+        {
+            "category": "생활",
+            "content": "[더해드림] 자주 가는 DREAM영역은 기본의 3배 (총 0.6%) 포인트 적립"
+        },
+        {
+            "category": "생활",
+            "content": "[챙겨드림] DREAM영역 중 가장 많이 이용한 영역은 기본의 5배 (총 1.0%) 포인트 자동적립"
+        },
+        {
+            "category": "주유소",
+            "content": "주말(토,일) 전 주유소 리터당 40원 적립"
+        },
+        {
+            "category": "택시",
+            "content": "택시 3,6,9번째 1천원 할인"
+        },
+        {
+            "category": "적립",
+            "content": "[반겨드림] 반겨드림 3천 포인트 적립"
+        }
+    ]
+}

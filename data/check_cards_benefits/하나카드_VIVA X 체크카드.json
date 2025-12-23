@@ -1,0 +1,23 @@
+{
+    "card_name": "VIVA X 체크카드",
+    "company": "하나카드",
+    "cashback": "해외가맹점 수수료\n면제 서비스",
+    "benefit_place": "해외ATM 수수료\n면제 서비스",
+    "discount": "국내가맹점\n0.3% 캐쉬백",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "해외이용",
+            "content": "해외 가맹점 이용 수수료 면제 서비스"
+        },
+        {
+            "category": "수수료우대",
+            "content": "해외 ATM 인출 수수료 면제 서비스"
+        },
+        {
+            "category": "할인",
+            "content": "국내 가맹점 0.3% 캐쉬백"
+        }
+    ]
+}

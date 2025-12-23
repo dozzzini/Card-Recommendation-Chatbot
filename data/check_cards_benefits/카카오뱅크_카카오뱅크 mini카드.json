@@ -1,0 +1,23 @@
+{
+    "card_name": "카카오뱅크 mini카드",
+    "company": "카카오뱅크",
+    "cashback": "전국ATM 수수료\n무료 서비스",
+    "benefit_place": "CU에서는\n현금없이 T머니충전",
+    "discount": "정보없음",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "온라인쇼핑",
+            "content": "오프라인은 물론 온라인에서도 결제"
+        },
+        {
+            "category": "대중교통",
+            "content": "CU에서는 현금없이 카드로 티머니 간편충전!"
+        },
+        {
+            "category": "기타",
+            "content": "전국 ATM 어디서나 수수료 무료!"
+        }
+    ]
+}

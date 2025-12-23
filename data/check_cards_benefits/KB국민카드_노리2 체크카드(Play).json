@@ -1,0 +1,59 @@
+{
+    "card_name": "노리2 체크카드(Play)",
+    "company": "KB국민카드",
+    "cashback": "커피·모바일·문화\n10% 할인",
+    "benefit_place": "뷰티·편의점\n5% 할인",
+    "discount": "에버랜드·롯데월드\n15,000원 할인",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 20만원 이상",
+    "benefit": [
+        {
+            "category": "카페",
+            "content": "[일상] 스타벅스, 커피빈 10% 할인"
+        },
+        {
+            "category": "게임",
+            "content": "[일상] 구글플레이스토어, 앱스토어 10% 할인"
+        },
+        {
+            "category": "공연/전시",
+            "content": "[일상] 인터파크 티켓 10% 할인"
+        },
+        {
+            "category": "헤어",
+            "content": "[일상] 올리브영, 미용실 업종 5% 할인"
+        },
+        {
+            "category": "편의점",
+            "content": "[일상] GS25, CU 5% 할인"
+        },
+        {
+            "category": "디지털구독",
+            "content": "[일상] 넷플릭스, 유튜브프리미엄 1,000원 할인"
+        },
+        {
+            "category": "배달앱",
+            "content": "[일상] 배달의민족, 요기요 1,000원 할인"
+        },
+        {
+            "category": "통신",
+            "content": "[일상] SKT, KT, LG U+, Liiv M 2,500원 할인"
+        },
+        {
+            "category": "영화",
+            "content": "[일상] CGV 4,000원 할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "[일상] 에버랜드, 롯데월드 15,000원 할인"
+        },
+        {
+            "category": "게임",
+            "content": "[Play] PC방 업종 10% 할인"
+        },
+        {
+            "category": "패스트푸드",
+            "content": "[Play] 패스트푸드 업종 1,000원 할인"
+        }
+    ]
+}

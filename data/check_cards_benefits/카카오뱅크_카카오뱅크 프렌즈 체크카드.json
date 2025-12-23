@@ -1,0 +1,27 @@
+{
+    "card_name": "카카오뱅크 프렌즈 체크카드",
+    "company": "카카오뱅크",
+    "cashback": "국내외 가맹점\n0.2~0.4% 캐시백",
+    "benefit_place": "학원 업종\n1만원 캐시백",
+    "discount": "배달의민족\n1천원 캐시백",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "모든가맹점",
+            "content": "조건 없이 캐시백, 평일 0.2% 주말/공휴일 0.4%"
+        },
+        {
+            "category": "생활",
+            "content": "카카오뱅크 프렌즈 체크카드 캐시백 프로모션 2025"
+        },
+        {
+            "category": "대중교통",
+            "content": "부릉부릉 K-패스 혜택 카드"
+        },
+        {
+            "category": "선택형",
+            "content": "내 마음에 드는 디자인 선택의 즐거움"
+        }
+    ]
+}

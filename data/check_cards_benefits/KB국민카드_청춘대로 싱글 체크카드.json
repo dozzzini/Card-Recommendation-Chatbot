@@ -1,0 +1,35 @@
+{
+    "card_name": "청춘대로 싱글 체크카드",
+    "company": "KB국민카드",
+    "cashback": "편의점\n10~5% 할인",
+    "benefit_place": "다이소/소셜커머스\n10~5% 할인",
+    "discount": "동물병원\n10% 할인",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "편의점",
+            "content": "편의점 업종 5~10% 환급할인"
+        },
+        {
+            "category": "소셜커머스",
+            "content": "다이소/소셜커머스 5~10% 환급할인"
+        },
+        {
+            "category": "교통",
+            "content": "대중교통, 택시 5% 환급할인"
+        },
+        {
+            "category": "애완동물",
+            "content": "올리브영·박승철헤어스투디오/동물병원 10% 환급할인"
+        },
+        {
+            "category": "해외이용",
+            "content": "해외이용/해외직구 할인캐시백"
+        },
+        {
+            "category": "여행/숙박",
+            "content": "라이프샵 여행 해외패키지 3% 현장할인"
+        }
+    ]
+}

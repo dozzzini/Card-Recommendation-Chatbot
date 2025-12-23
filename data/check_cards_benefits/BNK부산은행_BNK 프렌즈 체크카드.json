@@ -1,0 +1,19 @@
+{
+    "card_name": "BNK 프렌즈 체크카드",
+    "company": "BNK부산은행",
+    "cashback": "국내이용금액\n0.2~0.4% 캐시백",
+    "benefit_place": "해외이용금액\n1% 캐시백",
+    "discount": "정보없음",
+    "overseas": "해외겸용 1,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "모든가맹점",
+            "content": "국내 이용금액 0.2~0.4% 캐시백"
+        },
+        {
+            "category": "해외이용",
+            "content": "해외 이용금액 1% 캐시백"
+        }
+    ]
+}

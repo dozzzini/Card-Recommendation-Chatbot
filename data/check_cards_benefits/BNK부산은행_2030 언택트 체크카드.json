@@ -1,0 +1,27 @@
+{
+    "card_name": "2030 언택트 체크카드",
+    "company": "BNK부산은행",
+    "cashback": "스타벅스\n최대 3천원 할인",
+    "benefit_place": "배달의 민족, 요기요\n최대 3천원 할인",
+    "discount": "디지털구독\n20% 할인",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 20만원 이상",
+    "benefit": [
+        {
+            "category": "카페",
+            "content": "스타벅스 최대 3,000원 할인"
+        },
+        {
+            "category": "배달앱",
+            "content": "배달의 민족, 요기요 최대 3,000원 할인"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "쿠팡, 마켓컬리, SSG닷컴 최대 3,000원 할인"
+        },
+        {
+            "category": "디지털구독",
+            "content": "넷플릭스, 유튜브프리미엄, 멜론 20% 청구할인"
+        }
+    ]
+}

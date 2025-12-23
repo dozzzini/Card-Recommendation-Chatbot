@@ -1,0 +1,31 @@
+{
+    "card_name": "포미 하이브리드 체크카드",
+    "company": "우체국",
+    "cashback": "편의점\n10% 캐시백",
+    "benefit_place": "간편결제\n10% 캐시백",
+    "discount": "통신료\n3천원 캐시백",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "마트/편의점",
+            "content": "GS25, CU 10% 캐시백,\n이마트, 롯데마트, 홈플러스 10% 캐시백"
+        },
+        {
+            "category": "간편결제",
+            "content": "삼성페이, 카카오페이, 네이버페이 10% 캐시백"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "G마켓, 11번가, 쿠팡 10% 캐시백"
+        },
+        {
+            "category": "통신",
+            "content": "통신료(SKT, KT, LG U+) 3천원 캐시백"
+        },
+        {
+            "category": "배달앱",
+            "content": "배달의 민족 10% 캐시백"
+        }
+    ]
+}

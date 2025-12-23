@@ -1,0 +1,43 @@
+{
+    "card_name": "트래블러스 체크카드",
+    "company": "KB국민카드",
+    "cashback": "해외 이용 수수료\n면제",
+    "benefit_place": "철도\n5,000원 할인",
+    "discount": "전국맛집\n5,000원 할인",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 20만원 이상",
+    "benefit": [
+        {
+            "category": "해외",
+            "content": "[해외 혜택] 해외 가맹점, ATM 이용 수수료 면제"
+        },
+        {
+            "category": "할인",
+            "content": "[국내 혜택] KB Pay 200원 추가 할인"
+        },
+        {
+            "category": "카페",
+            "content": "[국내 혜택] 카페 1,000원 할인"
+        },
+        {
+            "category": "베이커리",
+            "content": "[국내 혜택] 빵집 2,000원 할인"
+        },
+        {
+            "category": "기차",
+            "content": "[국내 혜택] 철도 5,000원 할인"
+        },
+        {
+            "category": "고속버스",
+            "content": "[국내 혜택] 고속버스 2,000원 할인"
+        },
+        {
+            "category": "자동차",
+            "content": "[국내 혜택] 주차장 500원 할인"
+        },
+        {
+            "category": "푸드",
+            "content": "[국내 혜택] 전국맛집 5,000원 할인"
+        }
+    ]
+}

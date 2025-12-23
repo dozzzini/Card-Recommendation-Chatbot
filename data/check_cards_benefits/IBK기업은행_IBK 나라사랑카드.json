@@ -1,0 +1,55 @@
+{
+    "card_name": "IBK 나라사랑카드",
+    "company": "IBK기업은행",
+    "cashback": "대중교통\n10% 할인",
+    "benefit_place": "철도/고속버스\n5% 할인",
+    "discount": "CU\n5% 현장할인",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 8만원 이상",
+    "benefit": [
+        {
+            "category": "교통",
+            "content": "전국 시내버스/지하철, KTX(철도)/SRT/고속버스 할인"
+        },
+        {
+            "category": "통신",
+            "content": "군 공중전화요금 자동이체 시 10% 할인"
+        },
+        {
+            "category": "편의점",
+            "content": "CU 및 군마트(PX)할인"
+        },
+        {
+            "category": "화장품",
+            "content": "이니스프리 온/오프라인 매장 상시 10% 할인"
+        },
+        {
+            "category": "영화",
+            "content": "CGV 3천원 현장할인(동반1인 포함 시)"
+        },
+        {
+            "category": "패밀리레스토랑",
+            "content": "아웃백스테이크 20% 현장할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "주요 놀이공원 본인 자유이용권 50% 현장할인"
+        },
+        {
+            "category": "여행/숙박",
+            "content": "여기어때 결제금액 매월 최대 1만원 청구할인"
+        },
+        {
+            "category": "도서",
+            "content": "인터넷 토익시험 접수(결제) 및 온라인서적(교보문고) 구매시 2천원 청구할인"
+        },
+        {
+            "category": "은행사",
+            "content": "군 복무 중 은행 ATM 출금수수료 무제한 면제"
+        },
+        {
+            "category": "멤버십포인트",
+            "content": "그린카드 멤버십 서비스 및 Syrup 통합 멤버십 서비스"
+        }
+    ]
+}

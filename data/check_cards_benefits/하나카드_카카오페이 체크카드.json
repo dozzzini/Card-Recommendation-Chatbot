@@ -1,0 +1,19 @@
+{
+    "card_name": "카카오페이 체크카드",
+    "company": "하나카드",
+    "cashback": "카카오페이\n7% 캐시백",
+    "benefit_place": "대중교통\n5% 캐시백",
+    "discount": "스타벅스\n5% 캐시백",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 25만원 이상",
+    "benefit": [
+        {
+            "category": "캐시백",
+            "content": "카카오페이, 통신요금자동이체, 커피, 대중교통 캐시백"
+        },
+        {
+            "category": "선택형",
+            "content": "카드플레이트 디자인 선택 가능"
+        }
+    ]
+}

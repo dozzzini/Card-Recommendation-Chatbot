@@ -1,0 +1,15 @@
+{
+    "card_name": "한국투자 the More 체크카드",
+    "company": "한국투자증권",
+    "cashback": "국내가맹점\n0.3% 캐시백",
+    "benefit_place": "정보없음",
+    "discount": "정보없음",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "할인",
+            "content": "전월 실적 제한없이 국내 가맹점 이용금액의 0.3% 캐시백"
+        }
+    ]
+}

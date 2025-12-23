@@ -1,0 +1,31 @@
+{
+    "card_name": "행복한 체크카드",
+    "company": "우체국",
+    "cashback": "마트\n10% 캐시백",
+    "benefit_place": "병·의원/약국\n10% 캐시백",
+    "discount": "학원\n10% 캐시백",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "병원/약국",
+            "content": "병원·의원, 모든 약국 10% 캐시백"
+        },
+        {
+            "category": "학원",
+            "content": "학원 10% 캐시백"
+        },
+        {
+            "category": "대형마트",
+            "content": "마트 10% 캐시백"
+        },
+        {
+            "category": "공연/전시",
+            "content": "문화 10% 캐시백"
+        },
+        {
+            "category": "기타",
+            "content": "순수 우편서비스 12% · 우체국쇼핑 10% 캐시백\n지자체 시설 무료입장 및 할인, 에코머니 적립 등"
+        }
+    ]
+}

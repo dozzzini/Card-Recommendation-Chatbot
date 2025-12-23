@@ -1,0 +1,23 @@
+{
+    "card_name": "리틀프렌즈 체크카드",
+    "company": "하나카드",
+    "cashback": "편의점\n1천원 캐시백",
+    "benefit_place": "서점\n1천원 캐시백",
+    "discount": "푸드\n1천원 캐시백",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 10만원 이상",
+    "benefit": [
+        {
+            "category": "편의점",
+            "content": "편의점(CU, GS25, 세븐일레븐) 1천원 캐시백"
+        },
+        {
+            "category": "도서",
+            "content": "서점(영풍문고, 반디앤루니스, 교보문고) 1천원 캐시백"
+        },
+        {
+            "category": "베이커리",
+            "content": "베이커리(뚜레쥬르, 파리바게뜨, 던킨도너츠) 1천원 캐시백"
+        }
+    ]
+}

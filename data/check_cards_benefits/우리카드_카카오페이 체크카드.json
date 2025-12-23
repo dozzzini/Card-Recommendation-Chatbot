@@ -1,0 +1,27 @@
+{
+    "card_name": "카카오페이 체크카드",
+    "company": "우리카드",
+    "cashback": "카카오페이 가맹점\n5% 캐쉬백",
+    "benefit_place": "온라인쇼핑몰\n5% 캐쉬백",
+    "discount": "편의점/드럭스토어\n5% 캐쉬백",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 20만원 이상",
+    "benefit": [
+        {
+            "category": "카카오페이",
+            "content": "카카오페이 가맹점 이용금액 5% 캐쉬백"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "온라인 쇼핑몰 이용금액 5% 캐쉬백"
+        },
+        {
+            "category": "편의점",
+            "content": "오프라인 쇼핑 이용금액 5% 캐쉬백"
+        },
+        {
+            "category": "기타",
+            "content": "월간 통합 캐쉬백 한도"
+        }
+    ]
+}

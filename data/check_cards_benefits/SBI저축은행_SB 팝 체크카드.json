@@ -1,0 +1,35 @@
+{
+    "card_name": "SB 팝 체크카드",
+    "company": "SBI저축은행",
+    "cashback": "GS리테일\nGS&POINT 할인,적립, 사용",
+    "benefit_place": "GS25\n10% 할인",
+    "discount": "스타벅스\n20% 할인",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "기타",
+            "content": "GS 제휴 혜택 GS&POINT 할인 및 적립, 사용"
+        },
+        {
+            "category": "편의점",
+            "content": "[쇼핑할인혜택] GS25 10% 할인"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "[쇼핑할인혜택] 온라인쇼핑 5% 할인"
+        },
+        {
+            "category": "대형마트",
+            "content": "[쇼핑할인혜택] 오프라인쇼핑 5% 할인"
+        },
+        {
+            "category": "카페",
+            "content": "[쇼핑할인혜택] 스타벅스 20% 할인"
+        },
+        {
+            "category": "기타",
+            "content": "추가 금융 혜택"
+        }
+    ]
+}

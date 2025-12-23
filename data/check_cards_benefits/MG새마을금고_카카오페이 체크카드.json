@@ -1,0 +1,39 @@
+{
+    "card_name": "카카오페이 체크카드",
+    "company": "MG새마을금고",
+    "cashback": "카카오페이\n15% 할인",
+    "benefit_place": "편의점\n5% 할인",
+    "discount": "온라인쇼핑\n10% 할인",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 15만원 이상",
+    "benefit": [
+        {
+            "category": "카카오페이",
+            "content": "카카오페이 15% 할인"
+        },
+        {
+            "category": "편의점",
+            "content": "편의점 5% 할인"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "온라인쇼핑 10% 할인"
+        },
+        {
+            "category": "기타",
+            "content": "어학시험 2천원 할인"
+        },
+        {
+            "category": "영화",
+            "content": "영화 2천원 할인"
+        },
+        {
+            "category": "카페",
+            "content": "커피 10% 할인"
+        },
+        {
+            "category": "패스트푸드",
+            "content": "패스트푸드 10% 할인"
+        }
+    ]
+}

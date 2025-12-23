@@ -1,0 +1,47 @@
+{
+    "card_name": "OK캐쉬백 썸(SUM)타는 우리체크카드",
+    "company": "우리카드",
+    "cashback": "G마켓,옥션\n10% 할인",
+    "benefit_place": "스타벅스\n20% 할인",
+    "discount": "버거,피자\n10% 할인",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 25만원 이상",
+    "benefit": [
+        {
+            "category": "OK캐쉬백",
+            "content": "OK캐쉬백 멤버십 서비스"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "G마켓, 옥션 10% 할인"
+        },
+        {
+            "category": "카페/디저트",
+            "content": "스타벅스 20% 할인(사이렌오더 포함)\n파리바게뜨, 배스킨라빈스, 던킨도너츠 10% 할인"
+        },
+        {
+            "category": "푸드",
+            "content": "맥도날드, 롯데리아, 버거킹, 피자헛, 미스터피자, 도미노피자 10% 할인"
+        },
+        {
+            "category": "마트/편의점",
+            "content": "편의점(CU), 올리브영 5% 할인"
+        },
+        {
+            "category": "영화",
+            "content": "CGV, 롯데시네마, 메가박스 10% 할인"
+        },
+        {
+            "category": "대중교통",
+            "content": "전국 시내버스, 지하철 2천원 할인"
+        },
+        {
+            "category": "교육/육아",
+            "content": "YBM시사(토익응시료 포함), 파고다, 해커스어학원 10% 할인"
+        },
+        {
+            "category": "통신",
+            "content": "휴대전화 요금 3천원 할인"
+        }
+    ]
+}

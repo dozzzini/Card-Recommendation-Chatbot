@@ -1,0 +1,31 @@
+{
+    "card_name": "토스 USS NEXT 체크카드",
+    "company": "KB국민카드",
+    "cashback": "커피\n100원 할인",
+    "benefit_place": "편의점\n200원 할인",
+    "discount": "대중교통\n1,000원 할인",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 20만원 이상",
+    "benefit": [
+        {
+            "category": "카페",
+            "content": "커피 업종 100원 할인"
+        },
+        {
+            "category": "편의점",
+            "content": "편의점 200원 할인"
+        },
+        {
+            "category": "게임",
+            "content": "모바일 200원 할인"
+        },
+        {
+            "category": "배달앱",
+            "content": "배달음식 500원 할인"
+        },
+        {
+            "category": "대중교통",
+            "content": "대중교통 1,000원 할인"
+        }
+    ]
+}

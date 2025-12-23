@@ -1,0 +1,15 @@
+{
+    "card_name": "참! 좋은 글로벌 체크카드",
+    "company": "IBK기업은행",
+    "cashback": "해외가맹점\n1.5% 캐시백",
+    "benefit_place": "국내가맹점\n0.1% 캐시백",
+    "discount": "정보없음",
+    "overseas": "국내전용 없음 / 해외겸용 3,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "무실적",
+            "content": "국내/해외 가맹점 이용금액 캐시백 제공"
+        }
+    ]
+}

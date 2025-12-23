@@ -1,0 +1,19 @@
+{
+    "card_name": "카드의정석 APT CHECK",
+    "company": "우리카드",
+    "cashback": "아파트관리비\n최대1만원 캐시백",
+    "benefit_place": "유튜브정기권\n30% 캐시백",
+    "discount": "정보없음",
+    "overseas": "국내전용 9,000원 / 해외겸용 9,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "공과금",
+            "content": "아파트관리비(공공 임대료) 3천~10천원 캐시백"
+        },
+        {
+            "category": "기타",
+            "content": "유튜브 프리미엄 정기권 30% 캐시백"
+        }
+    ]
+}

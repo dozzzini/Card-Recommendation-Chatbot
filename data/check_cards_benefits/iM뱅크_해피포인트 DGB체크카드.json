@@ -1,0 +1,43 @@
+{
+    "card_name": "해피포인트 DGB체크카드",
+    "company": "iM뱅크",
+    "cashback": "해피포인트\n20% 캐시백",
+    "benefit_place": "해피포인트\n5% 적립",
+    "discount": "이동통신요금\n3% 캐시백",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 20만원 이상",
+    "benefit": [
+        {
+            "category": "해피포인트",
+            "content": "해피포인트 가맹점 할인 및 적립"
+        },
+        {
+            "category": "통신",
+            "content": "이동통신요금 자동이체 금액의 3% 결제일 캐시백"
+        },
+        {
+            "category": "영화",
+            "content": "인터넷 영화 예매시 2,000원 결제일 캐시백"
+        },
+        {
+            "category": "교육/육아",
+            "content": "토익응시료 2천원 결제일 캐시백"
+        },
+        {
+            "category": "테마파크",
+            "content": "전국 주요놀이공원 무료입장 및 자유이용권 50% 할인"
+        },
+        {
+            "category": "면세점",
+            "content": "국내면세점 할인쿠폰 서비스"
+        },
+        {
+            "category": "BC TOP",
+            "content": "TOP가맹점 이용시 TOP 포인트 적립"
+        },
+        {
+            "category": "교통",
+            "content": "대경교통카드 서비스 (선택사항)"
+        }
+    ]
+}

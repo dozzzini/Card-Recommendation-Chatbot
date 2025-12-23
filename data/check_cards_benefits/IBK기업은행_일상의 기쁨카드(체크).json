@@ -1,0 +1,47 @@
+{
+    "card_name": "일상의 기쁨카드(체크)",
+    "company": "IBK기업은행",
+    "cashback": "버스/지하철\n건당 100원 할인",
+    "benefit_place": "편의점\n5% 할인",
+    "discount": "영화\n4,000원 할인",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "대중교통",
+            "content": "버스, 지하철 이용건당 100원 할인"
+        },
+        {
+            "category": "편의점",
+            "content": "GS25, CU, 세븐일레븐 5% 할인"
+        },
+        {
+            "category": "드럭스토어",
+            "content": "올리브영 5% 할인"
+        },
+        {
+            "category": "소셜커머스",
+            "content": "쿠팡, 티켓몬스터, 위메프 10% 할인"
+        },
+        {
+            "category": "영화",
+            "content": "CGV, 롯데시네마, 메가박스 4천원 할인"
+        },
+        {
+            "category": "카페",
+            "content": "주요 커피전문점 10% 할인"
+        },
+        {
+            "category": "은행사",
+            "content": "금융우대서비스"
+        },
+        {
+            "category": "테마파크",
+            "content": "주요 놀이공원 무료입장 또는 입장료/자유이용권 할인"
+        },
+        {
+            "category": "기타",
+            "content": "통합할인한도"
+        }
+    ]
+}

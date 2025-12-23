@@ -1,0 +1,23 @@
+{
+    "card_name": "롯데 플래티넘 체크카드",
+    "company": "롯데카드",
+    "cashback": "이용금액\n0.2% L.POINT 적립",
+    "benefit_place": "VISA\n플래티넘 서비스",
+    "discount": "정보없음",
+    "overseas": "해외겸용 1,000원",
+    "performance": "전월실적 10만원 이상",
+    "benefit": [
+        {
+            "category": "모든가맹점",
+            "content": "이용금액의 0.2% L.POINT 적립"
+        },
+        {
+            "category": "해외",
+            "content": "해외이용 안내"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "VISA Platinum 국제브랜드 서비스"
+        }
+    ]
+}

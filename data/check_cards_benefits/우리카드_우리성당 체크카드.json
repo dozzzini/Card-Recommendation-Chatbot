@@ -1,0 +1,35 @@
+{
+    "card_name": "우리성당 체크카드",
+    "company": "우리카드",
+    "cashback": "대중교통\n1,500원 할인",
+    "benefit_place": "병원,약국\n5% 할인",
+    "discount": "영화\n3천원 할인",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "대중교통",
+            "content": "전국 시내버스, 지하철 1,500원 할인"
+        },
+        {
+            "category": "병원/약국",
+            "content": "병원(동물병원 포함), 약국 5% 할인"
+        },
+        {
+            "category": "영화",
+            "content": "모든 영화관 3천원 할인"
+        },
+        {
+            "category": "패밀리레스토랑",
+            "content": "아웃백, TGIF 20% 현장 할인"
+        },
+        {
+            "category": "카페",
+            "content": "스타벅스, 투썸플레이스 20% 할인"
+        },
+        {
+            "category": "주유",
+            "content": "GS칼텍스 40원/L 할인"
+        }
+    ]
+}

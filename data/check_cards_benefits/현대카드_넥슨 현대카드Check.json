@@ -1,0 +1,19 @@
+{
+    "card_name": "넥슨 현대카드Check",
+    "company": "현대카드",
+    "cashback": "국내외 가맹점\n0.5% 포인트 적립",
+    "benefit_place": "정보없음",
+    "discount": "정보없음",
+    "overseas": "국내전용 2,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "모든가맹점",
+            "content": "월 이용금액 50만원 한도까지 실적 조건 없이 0.5% 넥슨 현대카드 포인트 적립"
+        },
+        {
+            "category": "선택형",
+            "content": "넥슨 현대카드 CHECK의특별한 디자인을 소개합니다"
+        }
+    ]
+}

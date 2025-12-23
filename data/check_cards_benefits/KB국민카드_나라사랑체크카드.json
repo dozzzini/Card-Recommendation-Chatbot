@@ -1,0 +1,39 @@
+{
+    "card_name": "나라사랑체크카드",
+    "company": "KB국민카드",
+    "cashback": "P.X / GS25해군마트 최대\n20% 할인",
+    "benefit_place": "대중교통\n20% 할인",
+    "discount": "영화\n35% 할인",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 10만원 이상",
+    "benefit": [
+        {
+            "category": "기타",
+            "content": "군마트(P.X) 및 GS25 해군마트 환급할인\n군 KT공중전화 할인"
+        },
+        {
+            "category": "쇼핑",
+            "content": "GS리테일 팝서비스"
+        },
+        {
+            "category": "대중교통",
+            "content": "대중교통(전국 버스/지하철) 20% 청구할인"
+        },
+        {
+            "category": "OTT/영화/문화",
+            "content": "CGV 35% / 스타벅스 20% / 아웃백, VIPS 20%\n/ 에버랜드, 롯데월드 현장예매 50% 환급할인"
+        },
+        {
+            "category": "교육/육아",
+            "content": "교보문고 5% 환급할인\nTOEIC, JPT 응시료 2,000원 환급할인"
+        },
+        {
+            "category": "통신",
+            "content": "이동통신 자동납부 2,500원 환급할인"
+        },
+        {
+            "category": "쇼핑",
+            "content": "GS홈쇼핑, CJ홈쇼핑, G마켓, 옥션 5% 환급할인"
+        }
+    ]
+}

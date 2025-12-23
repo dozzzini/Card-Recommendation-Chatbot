@@ -1,0 +1,23 @@
+{
+    "card_name": "K-패스 하나 체크카드",
+    "company": "하나카드",
+    "cashback": "대중교통\n10% 캐시백",
+    "benefit_place": "드럭스토어\n1% 캐시백",
+    "discount": "커피\n1% 캐시백",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "대중교통",
+            "content": "버스/지하철 10% 캐시백 (월 3천원, 월 6천원)"
+        },
+        {
+            "category": "드럭스토어",
+            "content": "다이소/올리브영 1% 캐시백 (월 1만원)"
+        },
+        {
+            "category": "카페",
+            "content": "스타벅스/커피빈 1% 캐시백 (월 5천원)"
+        }
+    ]
+}

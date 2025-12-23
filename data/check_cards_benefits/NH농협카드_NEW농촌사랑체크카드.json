@@ -1,0 +1,27 @@
+{
+    "card_name": "NEW농촌사랑체크카드",
+    "company": "NH농협카드",
+    "cashback": "NH포인트\n최대0.5% 적립",
+    "benefit_place": "GS칼텍스\n40원/L 할인",
+    "discount": "놀이공원\n연6회 할인",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 20만원 이상",
+    "benefit": [
+        {
+            "category": "적립",
+            "content": "[Point Pack] NH포인트 최대 0.5% 적립"
+        },
+        {
+            "category": "주유소",
+            "content": "[Auto Pack] GS칼텍스 L당 40원 주유할인(LPG제외)"
+        },
+        {
+            "category": "생활",
+            "content": "[Joy Pack] 농협판매장, 놀이공원, 영화, 통신요금 할인"
+        },
+        {
+            "category": "기타",
+            "content": "기타서비스"
+        }
+    ]
+}

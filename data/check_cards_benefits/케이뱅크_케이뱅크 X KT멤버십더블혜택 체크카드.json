@@ -1,0 +1,23 @@
+{
+    "card_name": "케이뱅크 X KT멤버십더블혜택 체크카드",
+    "company": "케이뱅크",
+    "cashback": "KT통신요금\n20~5% 캐시백",
+    "benefit_place": "KT멤버십\n더블 할인",
+    "discount": "해외이용\n수수료 면제",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 20만원 이상",
+    "benefit": [
+        {
+            "category": "KT",
+            "content": "KT통신요금 5~20%캐시백"
+        },
+        {
+            "category": "멤버십포인트",
+            "content": "KT멤버십 제휴가맹점 할인, POP CARD 할인 및 GS&POINT 적립"
+        },
+        {
+            "category": "수수료우대",
+            "content": "모든 은행, GS25 ATM / 해외 결제 및 ATM 인출수수료 무료"
+        }
+    ]
+}

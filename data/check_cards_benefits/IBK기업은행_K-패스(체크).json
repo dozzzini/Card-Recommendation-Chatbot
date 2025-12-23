@@ -1,0 +1,39 @@
+{
+    "card_name": "K-패스(체크)",
+    "company": "IBK기업은행",
+    "cashback": "대중교통\n건당 100원 할인",
+    "benefit_place": "커피\n10% 할인",
+    "discount": "쇼핑\n10% 할인",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "대중교통",
+            "content": "대중교통 건당 100원 할인"
+        },
+        {
+            "category": "카페",
+            "content": "커피 10% 할인"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "쇼핑 10% 할인"
+        },
+        {
+            "category": "편의점",
+            "content": "편의점 5% 할인"
+        },
+        {
+            "category": "영화",
+            "content": "영화 4천원 할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "놀이공원 본인 무료입장 또는 자유이용권 최대 50% 할인"
+        },
+        {
+            "category": "금융",
+            "content": "금융우대서비스"
+        }
+    ]
+}

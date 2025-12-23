@@ -1,0 +1,43 @@
+{
+    "card_name": "NEW현대백화점체크카드",
+    "company": "iM뱅크",
+    "cashback": "현대백화점\n5% 할인",
+    "benefit_place": "현대아울렛\n5% 할인",
+    "discount": "현대오일뱅크 리터당\n40원 할인",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 20만원 이상",
+    "benefit": [
+        {
+            "category": "백화점",
+            "content": "현대백화점 이용금액 5% 현장힐인\n현대아울렛 이용금액 5% 캐시백할인"
+        },
+        {
+            "category": "진에어",
+            "content": "진에어 항공권 구입금액 5% 캐시백할인"
+        },
+        {
+            "category": "캐시백",
+            "content": "연간 보너스 캐시백 할인"
+        },
+        {
+            "category": "주유",
+            "content": "현대오일뱅크 리터당 40원 캐시백할인(LPG 포함)"
+        },
+        {
+            "category": "카페",
+            "content": "스타벅스, 커피빈, 엔제리너스 10% 캐시백 할인"
+        },
+        {
+            "category": "영화",
+            "content": "CGV 3천원 ~ 6천원 캐시백 할인"
+        },
+        {
+            "category": "도서",
+            "content": "교보문고/토익응시료 2천원 캐시백할인"
+        },
+        {
+            "category": "푸드",
+            "content": "아웃백스테이크하우스 , TGIF 1만원 캐시백 할인"
+        }
+    ]
+}

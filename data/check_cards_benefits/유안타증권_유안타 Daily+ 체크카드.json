@@ -1,0 +1,15 @@
+{
+    "card_name": "유안타 Daily+ 체크카드",
+    "company": "유안타증권",
+    "cashback": "대형마트 최대\n20% 할인",
+    "benefit_place": "편의점 최대\n20% 할인",
+    "discount": "정보없음",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "할인",
+            "content": "전월 실적에 따라 5% ~ 최대 20% 다양한 할인"
+        }
+    ]
+}

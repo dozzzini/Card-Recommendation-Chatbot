@@ -1,0 +1,23 @@
+{
+    "card_name": "현대백화점 체크카드",
+    "company": "BNK부산은행",
+    "cashback": "현대백화점\n5% 캐시백",
+    "benefit_place": "모든가맹점\n0.2% 캐시백",
+    "discount": "정보없음",
+    "overseas": "해외겸용 1,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "모든가맹점",
+            "content": "모든 가맹점 0.2% 캐시백\n특정업종 추가로 0.2% 캐시백"
+        },
+        {
+            "category": "공연/전시",
+            "content": "문화할인 서비스"
+        },
+        {
+            "category": "백화점",
+            "content": "현대백화점 5% 현장할인"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "card_name": "카카오뱅크 개인사업자 체크카드",
+    "company": "카카오뱅크",
+    "cashback": "생활업종\n0.3% 캐시백",
+    "benefit_place": "사업업종\n3% 캐시백",
+    "discount": "정보없음",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "생활",
+            "content": "매일 가는 곳은 혜택 고민 없이 0.3% 캐시백"
+        },
+        {
+            "category": "비즈니스",
+            "content": "사업운영에 꼭 필요한 곳에서 3% 캐시백"
+        }
+    ]
+}

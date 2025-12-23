@@ -1,0 +1,35 @@
+{
+    "card_name": "청소년 후불교통 체크카드",
+    "company": "BNK부산은행",
+    "cashback": "편의점\n10% 할인",
+    "benefit_place": "커피/베이커리\n10% 할인",
+    "discount": "영화관\n4천원 할인",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 20만원 이상",
+    "benefit": [
+        {
+            "category": "편의점",
+            "content": "편의점 10% 할인"
+        },
+        {
+            "category": "카페/디저트",
+            "content": "베이커리 업종 10% 할인\n커피전문점 10% 할인"
+        },
+        {
+            "category": "패스트푸드",
+            "content": "맥도날드, 롯데리아 10% 할인"
+        },
+        {
+            "category": "쇼핑",
+            "content": "온/오프라인 쇼핑 할인"
+        },
+        {
+            "category": "OTT/영화/문화",
+            "content": "영화관 4천원 할인\n도서 2천원 할인"
+        },
+        {
+            "category": "교통",
+            "content": "후불교통기능"
+        }
+    ]
+}

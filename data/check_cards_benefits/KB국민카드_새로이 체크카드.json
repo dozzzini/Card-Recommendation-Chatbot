@@ -1,0 +1,31 @@
+{
+    "card_name": "새로이 체크카드",
+    "company": "KB국민카드",
+    "cashback": "편의점\n5% 할인",
+    "benefit_place": "이동통신요금\n5% 할인",
+    "discount": "정기구독\n5% 할인",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "편의점",
+            "content": "GS25 편의점 5% 할인"
+        },
+        {
+            "category": "생활",
+            "content": "쏘카, 야놀자, LiivM 이동통신 5% 할인"
+        },
+        {
+            "category": "카페",
+            "content": "스타벅스, 파리바게뜨 5% 할인"
+        },
+        {
+            "category": "디지털구독",
+            "content": "멜론, 지니, 넷플릭스, 웨이브 월정액 결제시 5% 할인"
+        },
+        {
+            "category": "도서",
+            "content": "교보문고, 어학시험응시료(온라인접수) 5% 할인"
+        }
+    ]
+}

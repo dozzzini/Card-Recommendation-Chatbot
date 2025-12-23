@@ -1,0 +1,19 @@
+{
+    "card_name": "해피포인트 체크카드",
+    "company": "전북은행",
+    "cashback": "해피포인트 가맹업종\n최대 20% 캐시백",
+    "benefit_place": "영화\n2,000원 캐시백",
+    "discount": "대중교통\n10% 캐시백",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "해피포인트",
+            "content": "해피포인트 가맹점 할인 서비스"
+        },
+        {
+            "category": "생활",
+            "content": "영화(CGV, 메가박스, 롯데시네마) 2천원 청구할인\n대중교통(버스/지하철) 및 편의점 10% 청구할인"
+        }
+    ]
+}

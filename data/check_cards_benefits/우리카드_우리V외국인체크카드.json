@@ -1,0 +1,31 @@
+{
+    "card_name": "우리V외국인체크카드",
+    "company": "우리카드",
+    "cashback": "외환 환전 송금\n최대 50% 환율 우대",
+    "benefit_place": "CGV\n최대 4천원 청구할인",
+    "discount": "대형마트\n5% 청구할인",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "금융",
+            "content": "외환 환전 송금 최대 50% 환율 우대\n우리원송금클럽"
+        },
+        {
+            "category": "영화",
+            "content": "CGV 최대 4천원 청구할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "놀이공원 및 테마파크 30~50% 할인"
+        },
+        {
+            "category": "대형마트",
+            "content": "대형마트 5% 청구할인"
+        },
+        {
+            "category": "은행사",
+            "content": "수수료 면제"
+        }
+    ]
+}

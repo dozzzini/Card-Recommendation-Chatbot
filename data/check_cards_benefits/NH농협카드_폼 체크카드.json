@@ -1,0 +1,15 @@
+{
+    "card_name": "폼 체크카드",
+    "company": "NH농협카드",
+    "cashback": "외식\n200원 할인",
+    "benefit_place": "뷰티\n500원 할인",
+    "discount": "쇼핑\n0.2% 온라인간편결제 할인",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "할인",
+            "content": "외식 200원 할인・뷰티 500원 할인・대중교통 5% 할인・NH페이 0.2% 할인"
+        }
+    ]
+}

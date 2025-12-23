@@ -1,0 +1,51 @@
+{
+    "card_name": "포인트리체크카드",
+    "company": "KB국민카드",
+    "cashback": "GS칼텍스\n60~50점/L 포인트리 적립",
+    "benefit_place": "CGV\n3,000원 포인트리 적립",
+    "discount": "이동통신요금\n2,500점 포인트리 적립",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 20만원 이상",
+    "benefit": [
+        {
+            "category": "주유소",
+            "content": "GS칼텍스 리터당 주중 50점, 주말 60점 포인트리 적립"
+        },
+        {
+            "category": "패밀리레스토랑",
+            "content": "아웃백·VIPS 10% 포인트리 적립"
+        },
+        {
+            "category": "영화",
+            "content": "CGV 3,000원 포인트리 적립"
+        },
+        {
+            "category": "대중교통",
+            "content": "버스·지하철 5% 포인트리 적립"
+        },
+        {
+            "category": "통신",
+            "content": "이동통신요금 2,500점 포인트리 적립"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "G마켓·옥션 3% 포인트리 적립"
+        },
+        {
+            "category": "도서",
+            "content": "교보문고 3% 포인트리 적립"
+        },
+        {
+            "category": "드럭스토어",
+            "content": "올리브영 5% 포인트리 적립"
+        },
+        {
+            "category": "테마파크",
+            "content": "에버랜드 50% 포인트리 적립"
+        },
+        {
+            "category": "기타",
+            "content": "통합적립한도"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "card_name": "네이버페이 머니 하나 체크카드",
+    "company": "하나카드",
+    "cashback": "네이버페이\n1.2% 포인트 적립",
+    "benefit_place": "정보없음",
+    "discount": "정보없음",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 25만원 이상",
+    "benefit": [
+        {
+            "category": "적립",
+            "content": "네이버페이 포인트 적립 서비스"
+        },
+        {
+            "category": "선택형",
+            "content": "플레이트 디자인 선택 가능"
+        }
+    ]
+}

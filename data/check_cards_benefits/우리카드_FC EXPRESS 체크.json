@@ -1,0 +1,19 @@
+{
+    "card_name": "FC EXPRESS 체크",
+    "company": "우리카드",
+    "cashback": "해외이용금액\n외화결제 서비스",
+    "benefit_place": "해외가맹점\n이용수수료 면제",
+    "discount": "국내가맹점\n0.3% 적립",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "해외",
+            "content": "해외이용금액 외화결제계좌 달러 인출\n해외가맹점(해외직구 포함) 이용 시 이용수수료 면제"
+        },
+        {
+            "category": "모든가맹점",
+            "content": "국내 전가맹점 0.3% 모아포인트 적립"
+        }
+    ]
+}

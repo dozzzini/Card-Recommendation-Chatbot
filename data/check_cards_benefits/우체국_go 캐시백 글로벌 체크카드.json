@@ -1,0 +1,43 @@
+{
+    "card_name": "go 캐시백 글로벌 체크카드",
+    "company": "우체국",
+    "cashback": "해외전가맹점\n7% 캐시백",
+    "benefit_place": "간편결제\n5% 캐시백",
+    "discount": "배달앱\n5% 캐시백",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "해외",
+            "content": "해외 전 가맹점 7% 캐시백"
+        },
+        {
+            "category": "간편결제",
+            "content": "3대 간편결제 5% 캐시백"
+        },
+        {
+            "category": "배달앱",
+            "content": "온라인 식품배달 5% 캐시백"
+        },
+        {
+            "category": "대형마트",
+            "content": "대형마트 5% 캐시백"
+        },
+        {
+            "category": "기타",
+            "content": "우체국 5% 캐시백"
+        },
+        {
+            "category": "면세점",
+            "content": "면세점 5% 캐시백"
+        },
+        {
+            "category": "공항라운지",
+            "content": "공항라운지 서비스(연1회 캐시백)"
+        },
+        {
+            "category": "카페",
+            "content": "커피전문점 5% 캐시백"
+        }
+    ]
+}

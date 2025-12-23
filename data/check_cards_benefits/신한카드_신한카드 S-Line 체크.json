@@ -1,0 +1,35 @@
+{
+    "card_name": "신한카드 S-Line 체크",
+    "company": "신한카드",
+    "cashback": "전 가맹점\n0.2%~0.5% 적립",
+    "benefit_place": "요식업종\n5% 할인",
+    "discount": "버스,지하철\n5% 할인",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "적립",
+            "content": "전 가맹점 이용금액의 0.2% ~ 0.5% 마이신한포인트 적립"
+        },
+        {
+            "category": "푸드",
+            "content": "요식업종 이용금액의 5% 할인"
+        },
+        {
+            "category": "교통",
+            "content": "버스, 지하철 이용금액의 5% 할인(후불교통 카드 선택 시)\nSK주유소 주유 시 리터당 40원 할인(후불교통카드 미 선택 시)"
+        },
+        {
+            "category": "쇼핑",
+            "content": "홈쇼핑 이용금액의 5% 할인\n해외 이용금액의 5% 할인"
+        },
+        {
+            "category": "금융",
+            "content": "금융 우대 서비스"
+        },
+        {
+            "category": "할인",
+            "content": "신한카드 S-Line 체크 할인한도"
+        }
+    ]
+}

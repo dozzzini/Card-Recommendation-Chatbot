@@ -1,0 +1,43 @@
+{
+    "card_name": "락스타 체크카드",
+    "company": "KB국민카드",
+    "cashback": "대중교통\n10% 청구할인",
+    "benefit_place": "이동통신요금\n2,500원 환급할인",
+    "discount": "CGV\n35% 환급할인",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 20만원 이상",
+    "benefit": [
+        {
+            "category": "대중교통",
+            "content": "버스·지하철 10% 청구할인"
+        },
+        {
+            "category": "통신",
+            "content": "이동통신요금 2,500원 환급할인"
+        },
+        {
+            "category": "영화",
+            "content": "CGV 35% 환급할인"
+        },
+        {
+            "category": "푸드",
+            "content": "아웃백, VIPS / 스타벅스 20% 환급할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "에버랜드·롯데월드 50% 환급할인"
+        },
+        {
+            "category": "금융",
+            "content": "금융수수료 면제 서비스"
+        },
+        {
+            "category": "생활",
+            "content": "GS25/교보문고 5% 환급할인"
+        },
+        {
+            "category": "기타",
+            "content": "통합할인한도"
+        }
+    ]
+}

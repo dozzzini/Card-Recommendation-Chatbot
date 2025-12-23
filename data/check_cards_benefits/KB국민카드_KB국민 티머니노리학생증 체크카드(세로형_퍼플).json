@@ -1,0 +1,47 @@
+{
+    "card_name": "KB국민 티머니노리학생증 체크카드(세로형_퍼플)",
+    "company": "KB국민카드",
+    "cashback": "이동통신요금\n2,500원 환급할인",
+    "benefit_place": "스타벅스\n20% 환급할인",
+    "discount": "GS25\n5% 환급할인",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 20만원 이상",
+    "benefit": [
+        {
+            "category": "통신",
+            "content": "이동통신요금 2,500원 환급할인"
+        },
+        {
+            "category": "영화",
+            "content": "CGV 35% 환급할인"
+        },
+        {
+            "category": "패밀리레스토랑",
+            "content": "아웃백, VIPS 20% 환급할인"
+        },
+        {
+            "category": "카페",
+            "content": "스타벅스 20% 환급할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "에버랜드·롯데월드 50% 환급할인"
+        },
+        {
+            "category": "금융",
+            "content": "금융수수료 면제 서비스"
+        },
+        {
+            "category": "편의점",
+            "content": "GS25 5% 환급할인"
+        },
+        {
+            "category": "도서",
+            "content": "교보문고 5% 환급할인"
+        },
+        {
+            "category": "기타",
+            "content": "KB국민 티머니 체크카드\n(체크카드 혜택 + 티머니서비스 + 멤버십서비스)"
+        }
+    ]
+}

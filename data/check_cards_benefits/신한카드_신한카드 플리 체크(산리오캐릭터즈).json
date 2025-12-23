@@ -1,0 +1,27 @@
+{
+    "card_name": "신한카드 플리 체크(산리오캐릭터즈)",
+    "company": "신한카드",
+    "cashback": "국내 이용금액\n최대 0.3% 할인",
+    "benefit_place": "해외 이용금액\n0.2% 할인",
+    "discount": "매 월 2회\n할인쿠폰 제공",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "모든가맹점",
+            "content": "[Daily 할인] 국내 이용금액 최대 0.3% 할인, 해외 이용금액 0.2% 할인"
+        },
+        {
+            "category": "기타",
+            "content": "[Weekly 할인 쿠폰] 매월 2회 국내 이용 할인 쿠폰 제공"
+        },
+        {
+            "category": "적립",
+            "content": "[Monthly 단골 적립] My Pick 가맹점 월 3, 6, 9번째 이용 건에 대해 마이신한포인트 1,000포인트 적립"
+        },
+        {
+            "category": "선택형",
+            "content": "카드 플레이트 선택 가능"
+        }
+    ]
+}

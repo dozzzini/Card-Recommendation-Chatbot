@@ -1,0 +1,35 @@
+{
+    "card_name": "한화생명 Family 체크카드",
+    "company": "우리카드",
+    "cashback": "SK주유소\n40원/L 할인",
+    "benefit_place": "버스,지하철\n1천원 할인",
+    "discount": "휴대폰요금\n3% 할인",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 20만원 이상",
+    "benefit": [
+        {
+            "category": "주유",
+            "content": "SK주유소(LPG포함) 40원/L 청구할인"
+        },
+        {
+            "category": "대중교통",
+            "content": "전국 버스, 지하철 건당 50원 청구할인"
+        },
+        {
+            "category": "통신",
+            "content": "휴대폰 요금 3% 청구할인"
+        },
+        {
+            "category": "렌터카",
+            "content": "롯데렌터카 35% 현장할인"
+        },
+        {
+            "category": "카페/디저트",
+            "content": "커피/베이커리 5% 청구할인"
+        },
+        {
+            "category": "기타",
+            "content": "한화그룹 계열사 서비스"
+        }
+    ]
+}

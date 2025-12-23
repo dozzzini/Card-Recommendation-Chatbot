@@ -1,0 +1,39 @@
+{
+    "card_name": "꿀카드",
+    "company": "MG새마을금고",
+    "cashback": "쿠팡 로켓와우 최대\n2,900원 할인",
+    "benefit_place": "OTT 서비스\n2천원 할인",
+    "discount": "음원 스트리밍\n1천원 할인",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "디지털구독",
+            "content": "쿠팡 로켓와우 멤버십 최대 2,900원 할인"
+        },
+        {
+            "category": "디지털구독",
+            "content": "OTT 서비스 2천원 할인"
+        },
+        {
+            "category": "음원사이트",
+            "content": "음원 스트리밍 1천원 할인"
+        },
+        {
+            "category": "간편결제",
+            "content": "UNTACT 결제 1천원 할인(간편결제)"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "UNTACT 결제 1천원 할인(쇼핑)"
+        },
+        {
+            "category": "배달앱",
+            "content": "UNTACT 결제 1천원 할인(배달앱)"
+        },
+        {
+            "category": "수수료우대",
+            "content": "해외이용 수수료 면제"
+        }
+    ]
+}

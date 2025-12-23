@@ -1,0 +1,31 @@
+{
+    "card_name": "AK KB국민 체크카드",
+    "company": "KB국민카드",
+    "cashback": "AK플라자\n5% 할인",
+    "benefit_place": "제주항공\n5% 할인",
+    "discount": "커피전문점\n5% 할인",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "백화점",
+            "content": "AK특화 서비스"
+        },
+        {
+            "category": "항공권",
+            "content": "제주항공 할인"
+        },
+        {
+            "category": "카페",
+            "content": "커피전문점 할인"
+        },
+        {
+            "category": "영화",
+            "content": "영화 할인"
+        },
+        {
+            "category": "해피포인트",
+            "content": "해피포인트 할인"
+        }
+    ]
+}

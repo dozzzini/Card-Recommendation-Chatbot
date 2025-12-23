@@ -1,0 +1,15 @@
+{
+    "card_name": "유안타 CMA+ 체크카드",
+    "company": "유안타증권",
+    "cashback": "카드이용금액\n연 최대 5% 캐시백",
+    "benefit_place": "정보없음",
+    "discount": "정보없음",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 10만원 이상",
+    "benefit": [
+        {
+            "category": "캐시백",
+            "content": "카드이용금액의 최대 연 5% 캐시백 제공"
+        }
+    ]
+}

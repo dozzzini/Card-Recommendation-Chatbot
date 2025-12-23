@@ -1,0 +1,43 @@
+{
+    "card_name": "KB 틴업 체크카드",
+    "company": "KB국민카드",
+    "cashback": "편의점\n5% 할인",
+    "benefit_place": "다이소, 올리브영\n5% 할인",
+    "discount": "PC방, 모바일\n5% 할인",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "APP",
+            "content": "[공통] KB Pay 오프라인 결제 2% 할인"
+        },
+        {
+            "category": "편의점",
+            "content": "[공통] CU, 세븐일레븐 5% 할인"
+        },
+        {
+            "category": "쇼핑",
+            "content": "[공통] 다이소, 올리브영, KB Pay 쇼핑 5% 할인"
+        },
+        {
+            "category": "할인",
+            "content": "[공통] 독서실 업종 5% 할인"
+        },
+        {
+            "category": "도서",
+            "content": "[공통] 서점 업종, 문구점 업종 5% 할인"
+        },
+        {
+            "category": "게임",
+            "content": "[놀이 | 2~3구간 혜택] PC방 5% 할인"
+        },
+        {
+            "category": "할인",
+            "content": "[놀이 | 2~3구간 혜택] 구글 플레이스토어, 애플 앱스토어 5% 할인"
+        },
+        {
+            "category": "패밀리레스토랑",
+            "content": "[외식 | 3구간 혜택] 패밀리레스토랑 업종 10% 할인"
+        }
+    ]
+}

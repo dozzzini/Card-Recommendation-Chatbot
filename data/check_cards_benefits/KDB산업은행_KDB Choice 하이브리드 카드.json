@@ -1,0 +1,59 @@
+{
+    "card_name": "KDB Choice 하이브리드 카드",
+    "company": "KDB산업은행",
+    "cashback": "선택한 2개 업종\n5% 캐시백",
+    "benefit_place": "후불교통 건당\n100원 청구할인",
+    "discount": "정보없음",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "선택형",
+            "content": "10대 주거래 업종 중 고객이 직접 선택한 2개 혜택업종의 전가맹점 5% 캐시백"
+        },
+        {
+            "category": "대형마트",
+            "content": "[선택] 대형마트 5% 캐시백"
+        },
+        {
+            "category": "기타",
+            "content": "[선택] 슈퍼 5% 캐시백"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "[선택] 온라인쇼핑 5% 캐시백"
+        },
+        {
+            "category": "기타",
+            "content": "[선택] 통신 5% 캐시백"
+        },
+        {
+            "category": "백화점",
+            "content": "[선택] 백화점 5% 캐시백"
+        },
+        {
+            "category": "기타",
+            "content": "[선택] 레저 5% 캐시백"
+        },
+        {
+            "category": "기타",
+            "content": "[선택] 병의원/약국 5% 캐시백"
+        },
+        {
+            "category": "홈쇼핑",
+            "content": "[선택] 홈쇼핑 5% 캐시백"
+        },
+        {
+            "category": "호텔",
+            "content": "[선택] 숙박 5% 캐시백"
+        },
+        {
+            "category": "카페",
+            "content": "[선택] 커피 5% 캐시백"
+        },
+        {
+            "category": "대중교통",
+            "content": "후불교통 청구할인"
+        }
+    ]
+}

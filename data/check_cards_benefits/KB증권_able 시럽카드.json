@@ -1,0 +1,27 @@
+{
+    "card_name": "able 시럽카드",
+    "company": "KB증권",
+    "cashback": "Syrup멤버십포인트\n적립 서비스",
+    "benefit_place": "모바일쿠폰 최대\n3만원 제공",
+    "discount": "호텔 최대\n50% 할인",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "멤버십포인트",
+            "content": "통합멤버십서비스"
+        },
+        {
+            "category": "바우처",
+            "content": "모바일쿠폰서비스 최대 3만원"
+        },
+        {
+            "category": "할인",
+            "content": "현장할인서비스\n높은 할인율과 다양한 제휴처!"
+        },
+        {
+            "category": "금융",
+            "content": "able 금융서비스\n언제 어디서나 수수료 면제!"
+        }
+    ]
+}

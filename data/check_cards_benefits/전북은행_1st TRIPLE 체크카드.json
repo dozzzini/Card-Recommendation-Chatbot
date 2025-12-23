@@ -1,0 +1,19 @@
+{
+    "card_name": "1st TRIPLE 체크카드",
+    "company": "전북은행",
+    "cashback": "특정 업종 최대\n5% 캐시백",
+    "benefit_place": "정보없음",
+    "discount": "정보없음",
+    "overseas": "없음",
+    "performance": "전월실적 20만원 이상",
+    "benefit": [
+        {
+            "category": "캐시백",
+            "content": "TRIPLE 캐시백 서비스"
+        },
+        {
+            "category": "기타",
+            "content": "전북은행 ATM 출금수수료 면제 (월5회)\n카드디자인"
+        }
+    ]
+}

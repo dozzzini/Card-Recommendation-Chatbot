@@ -1,0 +1,23 @@
+{
+    "card_name": "NH 무럭이 체크카드",
+    "company": "NH농협카드",
+    "cashback": "전가맹점\n0.2% 적립",
+    "benefit_place": "이용금액 1위\n3배 적립",
+    "discount": "국제공항 라운지\n무료 이용",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "국내외가맹점",
+            "content": "[기본 적립] 국내/외 이용가맹점 0.2% NH포인트 적립"
+        },
+        {
+            "category": "적립",
+            "content": "[스마트 적립] 6개 영역 중 이용금액 1위/2위 영역 기본적립의 3배/2배 적립"
+        },
+        {
+            "category": "공항라운지",
+            "content": "국제공항 라운지 무료이용"
+        }
+    ]
+}

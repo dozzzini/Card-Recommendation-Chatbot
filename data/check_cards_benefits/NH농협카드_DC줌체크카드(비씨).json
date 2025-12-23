@@ -1,0 +1,47 @@
+{
+    "card_name": "DC줌체크카드(비씨)",
+    "company": "NH농협카드",
+    "cashback": "온라인쇼핑\n10% 할인",
+    "benefit_place": "커피\n10% 할인",
+    "discount": "대중교통\n10% 할인",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 20만원 이상",
+    "benefit": [
+        {
+            "category": "대중교통",
+            "content": "대중교통(버스, 지하철) 10% 청구할인"
+        },
+        {
+            "category": "카페",
+            "content": "주요 커피 전문점 10% 청구할인"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "주요 온라인쇼핑몰·소셜커머스 10% 청구할인"
+        },
+        {
+            "category": "패밀리레스토랑",
+            "content": "주요 패밀리레스토랑 10% 청구할인"
+        },
+        {
+            "category": "도서",
+            "content": "주요 서점 10% 청구할인"
+        },
+        {
+            "category": "병원",
+            "content": "전국 병원·약국 10% 청구할인"
+        },
+        {
+            "category": "영화",
+            "content": "전국 주요 영화관 1,500원 청구할인"
+        },
+        {
+            "category": "금융",
+            "content": "SMS 휴대폰 바로알림 서비스"
+        },
+        {
+            "category": "기타",
+            "content": "통합할인한도"
+        }
+    ]
+}

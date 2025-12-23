@@ -1,0 +1,23 @@
+{
+    "card_name": "NH1961체크카드",
+    "company": "NH농협카드",
+    "cashback": "전 가맹점\n0.2% 적립",
+    "benefit_place": "범농협판매장\n0.3% 적립",
+    "discount": "언택트 라이프\n최대 20% 적립",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "적립",
+            "content": "[기본적립] 국내/해외 이용가맹점 0.2~0.4% NH포인트 적립"
+        },
+        {
+            "category": "디지털구독",
+            "content": "언택트 라이프영역 5~20% NH포인트 적립"
+        },
+        {
+            "category": "공항라운지",
+            "content": "국제공항 라운지 무료이용 연 1회 제공"
+        }
+    ]
+}

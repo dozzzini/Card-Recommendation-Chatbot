@@ -1,0 +1,39 @@
+{
+    "card_name": "레고랜드 체크카드",
+    "company": "KB국민카드",
+    "cashback": "레고랜드\n5% 환급할인",
+    "benefit_place": "스타벅스\n20% 환급할인",
+    "discount": "대중교통\n10% 환급할인",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "테마파크",
+            "content": "레고랜드 코리아 5% 환급할인"
+        },
+        {
+            "category": "대중교통",
+            "content": "대중교통(버스/지하철) 10% 환급할인"
+        },
+        {
+            "category": "통신",
+            "content": "SKT, KT, LGU+, LiivM 2,500원 환급할인"
+        },
+        {
+            "category": "디지털구독",
+            "content": "멜론, 지니, 넷플릭스, 웨이브 5% 환급할인"
+        },
+        {
+            "category": "카페",
+            "content": "스타벅스 20% 환급할인"
+        },
+        {
+            "category": "도서",
+            "content": "교보문고 5% 환급할인"
+        },
+        {
+            "category": "편의점",
+            "content": "GS25 5% 환급할인"
+        }
+    ]
+}

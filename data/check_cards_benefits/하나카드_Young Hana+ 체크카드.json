@@ -1,0 +1,31 @@
+{
+    "card_name": "Young Hana+ 체크카드",
+    "company": "하나카드",
+    "cashback": "페이결제\n0.5% 캐시백",
+    "benefit_place": "편의점\n5% 캐시백",
+    "discount": "대중교통\n10% 캐시백",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "간편결제",
+            "content": "페이결제 0.5% 캐시백"
+        },
+        {
+            "category": "편의점",
+            "content": "GS25, CU, 이마트24, 세븐일레븐 5% 캐시백"
+        },
+        {
+            "category": "배달앱",
+            "content": "배달의 민족, 요기요 5% 캐시백"
+        },
+        {
+            "category": "대중교통",
+            "content": "버스, 지하철 10% 캐시백"
+        },
+        {
+            "category": "카페",
+            "content": "스타벅스, 투썸플레이스 20% 캐시백"
+        }
+    ]
+}

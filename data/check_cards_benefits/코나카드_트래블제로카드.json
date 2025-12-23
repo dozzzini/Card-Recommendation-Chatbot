@@ -1,0 +1,35 @@
+{
+    "card_name": "트래블제로카드",
+    "company": "코나카드",
+    "cashback": "환전 수수료\nZERO (환율 100% 우대)",
+    "benefit_place": "해외\n결제/ATM 수수료 ZERO",
+    "discount": "국내\n실적/한도없이 캐시백/할인",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "해외이용",
+            "content": "해외 결제 시점, 알아서 자동 환전 + 환전 수수료 면제"
+        },
+        {
+            "category": "수수료우대",
+            "content": "해외 가맹점 결제 수수료 면제\n해외 ATM 출금 수수료 면제"
+        },
+        {
+            "category": "해외직구",
+            "content": "해외 직구도 수수료 면제"
+        },
+        {
+            "category": "적립",
+            "content": "국내 온라인/오프라인 실적 상관없이 무조건 무제한 0.3% 캐시백"
+        },
+        {
+            "category": "할인",
+            "content": "국내 커피빈 / CGV 실적 상관없이 무조건 즉시할인"
+        },
+        {
+            "category": "교통",
+            "content": "국내 대중교통 기능 지원"
+        }
+    ]
+}

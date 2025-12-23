@@ -1,0 +1,47 @@
+{
+    "card_name": "토심이 첵첵 체크카드",
+    "company": "KB국민카드",
+    "cashback": "대중교통\n2~4천원 할인",
+    "benefit_place": "온라인간편결제\n2~4천원 할인",
+    "discount": "스타벅스\n2~4천원 할인",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "대중교통",
+            "content": "버스·지하철 2~4천원 청구할인"
+        },
+        {
+            "category": "편의점",
+            "content": "CU편의점 2~4천원 환급할인"
+        },
+        {
+            "category": "카페",
+            "content": "스타벅스(사이렌오더 포함) 2~4천원 환급할인"
+        },
+        {
+            "category": "영화",
+            "content": "CGV 2~4천원 환급할인"
+        },
+        {
+            "category": "쇼핑",
+            "content": "텐바이텐 2~4천원 환급할인"
+        },
+        {
+            "category": "간편결제",
+            "content": "네이버페이·카카오페이·SSG페이 2~4천원 환급할인 (온라인만)"
+        },
+        {
+            "category": "뷰티/피트니스",
+            "content": "올리브영, 안경(렌즈)점 2~4천원 환급할인"
+        },
+        {
+            "category": "도서",
+            "content": "YES24, 교보문고 2~4천원 환급할인 (온라인만)"
+        },
+        {
+            "category": "공연/전시",
+            "content": "인터파크티켓 2~4천원 환급할인 (온라인만)"
+        }
+    ]
+}

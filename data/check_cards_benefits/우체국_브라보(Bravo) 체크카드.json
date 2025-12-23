@@ -1,0 +1,59 @@
+{
+    "card_name": "브라보(Bravo) 체크카드",
+    "company": "우체국",
+    "cashback": "모든 음식점\n5% 캐시백",
+    "benefit_place": "롯데마트・이마트・홈플러스\n5% 캐시백",
+    "discount": "전기차 충전\n5% 캐시백",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "푸드",
+            "content": "[생활 Life] 모든 음식점 5% 캐시백"
+        },
+        {
+            "category": "대형마트",
+            "content": "[생활 Life] 롯데마트, 이마트, 홈플러스 5% 캐시백"
+        },
+        {
+            "category": "충전소",
+            "content": "[생활 Life] 전기차 충전 5% 캐시백"
+        },
+        {
+            "category": "주유소",
+            "content": "[생활 Life] SK주유 L당 40원 캐시백"
+        },
+        {
+            "category": "약국",
+            "content": "[건강 Life] 모든 약국 10% 캐시백"
+        },
+        {
+            "category": "쇼핑",
+            "content": "[건강 Life] 정관장 10% 캐시백"
+        },
+        {
+            "category": "골프",
+            "content": "[건강 Life] 골프장, 골프연습장, 스크린골프장 10% 캐시백"
+        },
+        {
+            "category": "영화",
+            "content": "[문화 Life] CGV, 메가박스, 롯데시네마 15% 캐시백"
+        },
+        {
+            "category": "도서",
+            "content": "[문화 Life] 교보문고(온・오프라인) 15% 캐시백"
+        },
+        {
+            "category": "여행/숙박",
+            "content": "[문화 Life] 국내 숙박업종 15% 캐시백"
+        },
+        {
+            "category": "기타",
+            "content": "[안전 Life] 해외원화결제(DCC)차단 서비스 기본설정・터치 기능 제공"
+        },
+        {
+            "category": "해외",
+            "content": "[글로벌 Life] 해외 ATM 현금인출 수수료(건당 $3) 면제"
+        }
+    ]
+}

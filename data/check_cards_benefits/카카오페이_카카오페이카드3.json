@@ -1,0 +1,27 @@
+{
+    "card_name": "카카오페이카드3",
+    "company": "카카오페이",
+    "cashback": "MZ라이프팩\n최대 4만 포인트 적립",
+    "benefit_place": "어디서나적립팩\n최대 0.4% 적립",
+    "discount": "정보없음",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "생활",
+            "content": "[MZ 라이프팩] 최대 40,000P 적립\n(2023.7.1~2023.12.31)"
+        },
+        {
+            "category": "적립",
+            "content": "[어디서나 적립팩] 국내 모든 가맹점에서 최대 0.4% 적립\n(2023.7.1 ~ 2023.12.31)"
+        },
+        {
+            "category": "기타",
+            "content": "전국 편의점, 지하철 ATM 수수료 무료"
+        },
+        {
+            "category": "선택형",
+            "content": "마음에 드는 카드를 선택하세요"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "card_name": "이사배 카드",
+    "company": "IBK기업은행",
+    "cashback": "드럭스토어\n2천원 할인",
+    "benefit_place": "화장품업종\n2천원 할인",
+    "discount": "미용실\n2천원 할인",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "드럭스토어",
+            "content": "H&B스토어 최대 2,000원 할인"
+        },
+        {
+            "category": "화장품",
+            "content": "화장품 최대 2,000원 할인"
+        },
+        {
+            "category": "헤어",
+            "content": "미용실, 이용원, 네일샵에서 최대 2,000원 할인"
+        },
+        {
+            "category": "금융",
+            "content": "이체수수료 , ATM 수수료 면제\n환전 시 환율 70% 우대"
+        }
+    ]
+}

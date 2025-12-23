@@ -1,0 +1,27 @@
+{
+    "card_name": "카카오페이 체크카드",
+    "company": "광주은행",
+    "cashback": "카카오페이\n15% 할인",
+    "benefit_place": "온라인쇼핑\n10% 할인",
+    "discount": "편의점\n5% 할인",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "카카오페이",
+            "content": "카카오페이 15% 청구할인"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "[온라인쇼핑] 온라인쇼핑 10% 청구할인"
+        },
+        {
+            "category": "편의점",
+            "content": "[오프라인쇼핑] 편의점 5% 청구할인"
+        },
+        {
+            "category": "드럭스토어",
+            "content": "[오프라인쇼핑] 올리브영, 다이소 5% 청구할인"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "card_name": "함께그린카드",
+    "company": "SBI저축은행",
+    "cashback": "대형마트\n5% 할인",
+    "benefit_place": "전통시장\n5% 할인",
+    "discount": "유치원\n5% 할인",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "대형마트",
+            "content": "[할인서비스] 대형마트 5% 할인"
+        },
+        {
+            "category": "전통시장",
+            "content": "[할인서비스] 전통 시장 5% 할인"
+        },
+        {
+            "category": "유치원",
+            "content": "[할인서비스] 유치원 5% 할인"
+        },
+        {
+            "category": "학원",
+            "content": "[할인서비스] 학원 5% 할인"
+        },
+        {
+            "category": "병원",
+            "content": "[할인서비스] 의료비 5% 할인"
+        },
+        {
+            "category": "패밀리레스토랑",
+            "content": "[할인서비스] 외식 주중 5%, 주말 10% 할인"
+        },
+        {
+            "category": "영화",
+            "content": "[할인서비스] 영화 2,500원 할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "[할인서비스] 그린 서비스"
+        },
+        {
+            "category": "은행사",
+            "content": "금융 수수료 면제"
+        }
+    ]
+}

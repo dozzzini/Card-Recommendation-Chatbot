@@ -1,0 +1,27 @@
+{
+    "card_name": "카드의정석 EVERY CHECK",
+    "company": "우리카드",
+    "cashback": "국내외 가맹점\n0.2% 적립",
+    "benefit_place": "전월실적에 따라\n최대 3천원 추가 적립",
+    "discount": "공연·테마파크·영화·여행 중 한 곳\n1만원 적립",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "무실적",
+            "content": "[기본 적립] 국내외 가맹점 이용금액 0.2% 적립"
+        },
+        {
+            "category": "적립",
+            "content": "[추가 적립] 전월실적에 따라 최대 3천원 추가 적립"
+        },
+        {
+            "category": "적립",
+            "content": "[특별 적립] 4대 일상영역 중 한 곳 1만원 적립"
+        },
+        {
+            "category": "선택형",
+            "content": "플레이트 3종 선택"
+        }
+    ]
+}

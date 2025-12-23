@@ -1,0 +1,27 @@
+{
+    "card_name": "나마네카드",
+    "company": "아이오로라",
+    "cashback": "NAMANE카드\n리워드 제공",
+    "benefit_place": "대중교통\n이용 가능",
+    "discount": "NAMANE\n나만의카드 제작",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "기타",
+            "content": "NAMANE 카드 리워드"
+        },
+        {
+            "category": "공과금/렌탈",
+            "content": "30% 소득공제"
+        },
+        {
+            "category": "선택형",
+            "content": "나만의 카드 제작"
+        },
+        {
+            "category": "기타",
+            "content": "선불카드 충전 방법"
+        }
+    ]
+}

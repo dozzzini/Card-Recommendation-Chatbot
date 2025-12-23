@@ -1,0 +1,51 @@
+{
+    "card_name": "AIA생명 롯데 리얼체크카드",
+    "company": "롯데카드",
+    "cashback": "AIA생명 보험료\n5천원 할인",
+    "benefit_place": "정보없음",
+    "discount": "정보없음",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "보험사",
+            "content": "AIA생명 보험료 결제 시 월 3천원~5천원 할인"
+        },
+        {
+            "category": "연회비지원",
+            "content": "연회비 면제 및 SMS 무료"
+        },
+        {
+            "category": "헤어",
+            "content": "미용실 최대 20% 할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "놀이공원 최대 50% 할인"
+        },
+        {
+            "category": "경기관람",
+            "content": "롯데 자이언츠 20% 할인"
+        },
+        {
+            "category": "쇼핑",
+            "content": "롯데백화점, 롯데ON, 롯데마트, 롯데슈퍼, 토이저러스 혜택"
+        },
+        {
+            "category": "항공권",
+            "content": "여행서비스"
+        },
+        {
+            "category": "영화",
+            "content": "롯데시네마 할인"
+        },
+        {
+            "category": "푸드",
+            "content": "보네스뻬, 보네스뻬브레드, T.G.I.F, 롯데리아, 엔제리너스커피, 나뚜루 할인"
+        },
+        {
+            "category": "멤버십포인트",
+            "content": "L.POINT 적립"
+        }
+    ]
+}

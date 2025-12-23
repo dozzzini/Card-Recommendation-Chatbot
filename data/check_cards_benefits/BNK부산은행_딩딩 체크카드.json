@@ -1,0 +1,43 @@
+{
+    "card_name": "딩딩 체크카드",
+    "company": "BNK부산은행",
+    "cashback": "편의점\n10% 할인",
+    "benefit_place": "베이커리\n10% 할인",
+    "discount": "패스트푸드\n10% 할인",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 20만원 이상",
+    "benefit": [
+        {
+            "category": "편의점",
+            "content": "GS25, CU, 세븐일레븐 10% 할인"
+        },
+        {
+            "category": "베이커리",
+            "content": "파리바게뜨, 뚜레쥬르, 던킨도너츠 10% 할인"
+        },
+        {
+            "category": "패스트푸드",
+            "content": "맥도날드, 롯데리아 10% 할인"
+        },
+        {
+            "category": "카페",
+            "content": "스타벅스, 카페베네, 엔제리너스 10% 할인"
+        },
+        {
+            "category": "쇼핑",
+            "content": "CJ올리브영, 다이소 10% 할인"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "G마켓, 옥션, 11번가 5% 할인"
+        },
+        {
+            "category": "영화",
+            "content": "영화 할인"
+        },
+        {
+            "category": "도서",
+            "content": "교보, 영풍, YES24, 영광도서 2천원 할인"
+        }
+    ]
+}
