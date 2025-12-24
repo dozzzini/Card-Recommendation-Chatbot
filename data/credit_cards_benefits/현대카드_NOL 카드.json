@@ -1,0 +1,35 @@
+{
+    "card_name": "NOL 카드",
+    "company": "현대카드",
+    "cashback": "NOL포인트\n10% 적립",
+    "benefit_place": "해외결제\n10% 적립",
+    "discount": "커피·편의점·쇼핑\n10% 적립",
+    "overseas": "국내전용 20,000원 / 해외겸용 20,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "멤버십포인트",
+            "content": "야놀자·인터파크(투어/티켓)·트리플 NOL 포인트 10% 적립"
+        },
+        {
+            "category": "멤버십포인트",
+            "content": "커피전문점·편의점·디지털 콘텐츠 서비스 NOL 포인트 10% 적립"
+        },
+        {
+            "category": "멤버십포인트",
+            "content": "쇼핑·영화·골프·대중교통 NOL 포인트 10% 적립"
+        },
+        {
+            "category": "멤버십포인트",
+            "content": "해외 가맹점 NOL 포인트 10% 적립"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "VISA/AMEX 플래티넘 서비스"
+        },
+        {
+            "category": "선택형",
+            "content": "플레이트 6종 선택"
+        }
+    ]
+}

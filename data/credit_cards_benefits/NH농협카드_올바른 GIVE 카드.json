@@ -1,0 +1,35 @@
+{
+    "card_name": "올바른 GIVE 카드",
+    "company": "NH농협카드",
+    "cashback": "기부전용포인트\n0.8% 적립",
+    "benefit_place": "온라인쇼핑\n5% 할인",
+    "discount": "종합건강검진비\n2만원 할인",
+    "overseas": "국내전용 23,000원 / 해외겸용 25,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "기타",
+            "content": "전가맹점 러브포인트 0.8% 적립"
+        },
+        {
+            "category": "생활",
+            "content": "5대 업종 5% 청구할인"
+        },
+        {
+            "category": "통신",
+            "content": "이동통신요금 자동납부건 2천원 청구할인(월 1회)"
+        },
+        {
+            "category": "병원",
+            "content": "종합건강검진비 2만원 청구할인(연 1회)"
+        },
+        {
+            "category": "테마파크",
+            "content": "전국 주요 놀이공원 할인(통합 월 1회, 연 6회)"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "Mastercard 프리미엄 서비스 제공"
+        }
+    ]
+}

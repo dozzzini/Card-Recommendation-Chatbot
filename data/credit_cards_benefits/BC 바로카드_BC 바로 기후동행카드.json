@@ -1,0 +1,39 @@
+{
+    "card_name": "BC 바로 기후동행카드",
+    "company": "BC 바로카드",
+    "cashback": "대중교통\n15% 할인",
+    "benefit_place": "이동통신요금\n5% 할인",
+    "discount": "OTT/스트리밍\n10% 할인",
+    "overseas": "국내전용 7,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "교통",
+            "content": "기후동행카드 안내"
+        },
+        {
+            "category": "교통",
+            "content": "대중교통(버스, 지하철) 15% 결제일 할인"
+        },
+        {
+            "category": "통신",
+            "content": "이동통신요금 5% 결제일 할인"
+        },
+        {
+            "category": "디지털구독",
+            "content": "OTT/스트리밍 10% 결제일 할인"
+        },
+        {
+            "category": "편의점",
+            "content": "편의점 5% 결제일 할인"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "온라인쇼핑 멤버십 10% 결제일 할인"
+        },
+        {
+            "category": "카페",
+            "content": "카페 5% 결제일 할인"
+        }
+    ]
+}

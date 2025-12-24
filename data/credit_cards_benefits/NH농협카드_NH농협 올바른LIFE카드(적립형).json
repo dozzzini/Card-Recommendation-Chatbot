@@ -1,0 +1,23 @@
+{
+    "card_name": "NH농협 올바른LIFE카드(적립형)",
+    "company": "NH농협카드",
+    "cashback": "국내외 가맹점\n0.5% 기본적립",
+    "benefit_place": "생활업종\n0.3~0.5% 추가적립",
+    "discount": "해외이용\n0.3~0.5% 추가적립",
+    "overseas": "해외겸용 10,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "무실적",
+            "content": "국내·외 이용가맹점 0.5% 기본적립"
+        },
+        {
+            "category": "기타",
+            "content": "생활, 여가, 해외업종 0.3%~0.5% 추가적립"
+        },
+        {
+            "category": "멤버십포인트",
+            "content": "리워드 포인트 제공(매년 1회)"
+        }
+    ]
+}

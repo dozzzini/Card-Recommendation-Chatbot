@@ -1,0 +1,27 @@
+{
+    "card_name": "롯데백화점 FLEX카드",
+    "company": "롯데카드",
+    "cashback": "국내외가맹점\n0.5% 적립",
+    "benefit_place": "스트리밍\n30% 할인",
+    "discount": "커피\n50% 할인",
+    "overseas": "국내전용 100,000원 / 해외겸용 100,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "모든가맹점",
+            "content": "국내외 가맹점 L.POINT 0.5% 적립"
+        },
+        {
+            "category": "생활",
+            "content": "커피 50% 할인\n스트리밍 30% 할인"
+        },
+        {
+            "category": "면세점",
+            "content": "롯데면세점 5~15% 현장할인 (정상가 기준)"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "Mastercard World 서비스"
+        }
+    ]
+}

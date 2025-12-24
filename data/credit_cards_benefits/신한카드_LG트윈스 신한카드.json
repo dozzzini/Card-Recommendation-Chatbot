@@ -1,0 +1,27 @@
+{
+    "card_name": "LG트윈스 신한카드",
+    "company": "신한카드",
+    "cashback": "LG트윈스 홈경기\n3천원 할인",
+    "benefit_place": "CGV\n3천원 현장할인",
+    "discount": "테마파크\n30~50% 할인",
+    "overseas": "해외겸용 10,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "경기관람",
+            "content": "LG트윈스 입장권 할인"
+        },
+        {
+            "category": "쇼핑",
+            "content": "LG트윈스 용품 구매 시 10% 현장 할인"
+        },
+        {
+            "category": "영화",
+            "content": "전국 CGV 영화관 3,000원(2매 기준) 현장할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "롯데월드, 서울랜드, 에버랜드 자유이용권 50% 및 캐리비안베이 입장권 30% 할인"
+        }
+    ]
+}

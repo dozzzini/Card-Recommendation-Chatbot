@@ -1,0 +1,55 @@
+{
+    "card_name": "신세계 THE S VIP",
+    "company": "삼성카드",
+    "cashback": "신세계백화점\n1% 결제일할인",
+    "benefit_place": "국내외가맹점\n0.5% 결제일할인",
+    "discount": "모든 영화관\n10,000원 결제일할인",
+    "overseas": "국내전용 47,000원 / 해외겸용 49,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "백화점",
+            "content": "신세계백화점 1% 할인"
+        },
+        {
+            "category": "국내외가맹점",
+            "content": "0.5% 결제일할인"
+        },
+        {
+            "category": "기타",
+            "content": "교육•할인점•이동통신•병원•약국 할인"
+        },
+        {
+            "category": "영화",
+            "content": "모든 영화관 10,000원 결제일할인"
+        },
+        {
+            "category": "카페",
+            "content": "커피전문점 20% 결제일할인"
+        },
+        {
+            "category": "패밀리레스토랑",
+            "content": "VIPS•더플레이스 20,000원 결제일할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "놀이공원•워터파크 할인 서비스"
+        },
+        {
+            "category": "정비",
+            "content": "닥터카 서비스"
+        },
+        {
+            "category": "백화점",
+            "content": "신세계백화점 제휴 서비스"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "Mastercard PLATINUM 등급 서비스"
+        },
+        {
+            "category": "경기관람",
+            "content": "프로스포츠 프로모션 서비스"
+        }
+    ]
+}

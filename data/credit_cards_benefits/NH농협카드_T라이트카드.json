@@ -1,0 +1,23 @@
+{
+    "card_name": "T라이트카드",
+    "company": "NH농협카드",
+    "cashback": "통신료\n최대 17,000원 할인",
+    "benefit_place": "커피\n1천원 할인",
+    "discount": "놀이공원\n50% 할인",
+    "overseas": "해외겸용 10,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "SKT",
+            "content": "SKT라이트할부 및 통신료 할인 서비스"
+        },
+        {
+            "category": "카페/디저트",
+            "content": "생활 할인 서비스"
+        },
+        {
+            "category": "테마파크",
+            "content": "전국 주요 놀이공원 무료입장 또는 할인"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "card_name": "신한카드 Deep Taking",
+    "company": "신한카드",
+    "cashback": "최다이용영역\n2% 적립",
+    "benefit_place": "푸드\n2% 적립",
+    "discount": "생활\n2% 적립",
+    "overseas": "국내전용 20,000원 / 해외겸용 20,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "선택형",
+            "content": "[Taking 10 서비스] 가장 많이 이용한 5개 영역 각 2%씩 적립"
+        },
+        {
+            "category": "쇼핑",
+            "content": "백화점, 마트, 홈쇼핑, 온라인쇼핑, 소셜몰, 패션&뷰티 2% 적립"
+        },
+        {
+            "category": "푸드",
+            "content": "커피전문점, 편의점, 베이커리, 배달앱 2% 적립"
+        },
+        {
+            "category": "해외",
+            "content": "해외, 항공&면세점 2% 적립"
+        },
+        {
+            "category": "생활",
+            "content": "주유, 교육, 병원, 이동통신, 대중교통 2% 적립"
+        },
+        {
+            "category": "적립",
+            "content": "[My Pick 서비스] 마이신한포인트 1,000포인트 적립"
+        }
+    ]
+}

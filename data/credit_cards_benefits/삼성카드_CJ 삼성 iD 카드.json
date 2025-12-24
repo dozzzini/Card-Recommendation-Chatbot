@@ -1,0 +1,51 @@
+{
+    "card_name": "CJ 삼성 iD 카드",
+    "company": "삼성카드",
+    "cashback": "CJ온스타일\n7% 할인",
+    "benefit_place": "올리브영\n10% 할인",
+    "discount": "뚜레쥬르\n10% 할인",
+    "overseas": "국내전용 10,000원 / 해외겸용 10,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "온라인쇼핑",
+            "content": "CJ온스타일 7% 결제일 할인"
+        },
+        {
+            "category": "드럭스토어",
+            "content": "올리브영 10% 결제일할인"
+        },
+        {
+            "category": "베이커리",
+            "content": "뚜레쥬르 10% 결제일할인"
+        },
+        {
+            "category": "패밀리레스토랑",
+            "content": "VIPS 20% 결제일할인"
+        },
+        {
+            "category": "영화",
+            "content": "CGV 4,000원·8,000원 결제일할인"
+        },
+        {
+            "category": "디지털구독",
+            "content": "티빙 30% 결제일할인"
+        },
+        {
+            "category": "배달앱",
+            "content": "배달앱 5% 결제일할인"
+        },
+        {
+            "category": "편의점",
+            "content": "편의점 5% 결제일할인"
+        },
+        {
+            "category": "통신",
+            "content": "이동통신요금 5% 결제일할인"
+        },
+        {
+            "category": "CJ ONE",
+            "content": "CJ ONE 멤버십 기능"
+        }
+    ]
+}

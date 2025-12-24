@@ -1,0 +1,39 @@
+{
+    "card_name": "원더카드 2.0 DAILY",
+    "company": "하나카드",
+    "cashback": "영상 스트리밍\n40% 청구할인",
+    "benefit_place": "하나페이 맛집\n10% 청구할인",
+    "discount": "영역별 월 최대 할인한도\n15,000원",
+    "overseas": "국내전용 19,900원 / 해외겸용 19,900원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "배달앱",
+            "content": "딜리버리 10% 할인"
+        },
+        {
+            "category": "편의점",
+            "content": "편의점 10% 할인"
+        },
+        {
+            "category": "디지털구독",
+            "content": "영상 스트리밍 40% 할인"
+        },
+        {
+            "category": "교통",
+            "content": "택시 10% 할인"
+        },
+        {
+            "category": "대중교통",
+            "content": "대중교통 10% 할인"
+        },
+        {
+            "category": "푸드",
+            "content": "하나페이 맛집 10% 할인"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "온라인식품&쇼핑 10% 할인"
+        }
+    ]
+}

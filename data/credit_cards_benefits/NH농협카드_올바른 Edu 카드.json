@@ -1,0 +1,27 @@
+{
+    "card_name": "올바른 Edu 카드",
+    "company": "NH농협카드",
+    "cashback": "학원비\n5% 할인",
+    "benefit_place": "10대업종\n0.5~1% 할인",
+    "discount": "교육비\n2천원 할인",
+    "overseas": "해외겸용25,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "교육/육아",
+            "content": "학원비 5% 청구할인"
+        },
+        {
+            "category": "교육/육아",
+            "content": "초/중/고교 교육비 자동납부 시 2천원 청구할인"
+        },
+        {
+            "category": "생활",
+            "content": "10대 업종 0.5~1% 청구할인"
+        },
+        {
+            "category": "금융",
+            "content": "전자금융 수수료 면제"
+        }
+    ]
+}

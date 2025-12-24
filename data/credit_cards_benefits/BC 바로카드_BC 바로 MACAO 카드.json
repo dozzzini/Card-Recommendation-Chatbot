@@ -1,0 +1,27 @@
+{
+    "card_name": "BC 바로 MACAO 카드",
+    "company": "BC 바로카드",
+    "cashback": "모든 주유소\n최대 10% 할인",
+    "benefit_place": "장보기\n최대 10% 할인",
+    "discount": "해외 가맹점\n2% 할인",
+    "overseas": "국내전용 12,000원 / 해외겸용 12,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "주유",
+            "content": "모든 주유소에서 많이 넣을수록 크게 할인"
+        },
+        {
+            "category": "대형마트",
+            "content": "장보기 가맹점에서 많이 담을수록 크게 할인"
+        },
+        {
+            "category": "해외",
+            "content": "해외 전 가맹점에서도 전월 실적, 한도 없이 할인"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "MasterCard Platinum/VISA Platinum 기본 서비스"
+        }
+    ]
+}

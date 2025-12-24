@@ -1,0 +1,27 @@
+{
+    "card_name": "모바일101카드",
+    "company": "KB국민카드",
+    "cashback": "삼성페이/Kmotion\n5% 할인",
+    "benefit_place": "소셜커머스\n5% 할인",
+    "discount": "버스/지하철\n5% 할인",
+    "overseas": "해외겸용 1,000원",
+    "performance": "전월실적 20만원 이상",
+    "benefit": [
+        {
+            "category": "간편결제",
+            "content": "삼성페이, Kmotion 오프라인 모바일결제 5% 청구할인"
+        },
+        {
+            "category": "소셜커머스",
+            "content": "위메프, 쿠팡, 티몬 3대 소셜커머스 5% 청구할인"
+        },
+        {
+            "category": "통신",
+            "content": "SKT, KT, LGU+ 이동통신요금 최대 3,000원 청구할인"
+        },
+        {
+            "category": "대중교통",
+            "content": "티머니 후불교통(버스/지하철) 5% 환급할인"
+        }
+    ]
+}

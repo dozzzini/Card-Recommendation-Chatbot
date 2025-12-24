@@ -1,0 +1,15 @@
+{
+    "card_name": "SKYPASS 롯데 아멕스카드",
+    "company": "롯데카드",
+    "cashback": "1,000원당\n국내 1마일 적립",
+    "benefit_place": "1,000원당\n해외 2마일 적립",
+    "discount": "SKYPASS\n회원 할인 서비스",
+    "overseas": "해외겸용 20,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "대한항공",
+            "content": "SKYPASS 1,000원당 1마일, 해외결제는 더블마일 적립"
+        }
+    ]
+}

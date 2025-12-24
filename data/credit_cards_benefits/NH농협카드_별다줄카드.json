@@ -1,0 +1,35 @@
+{
+    "card_name": "별다줄카드",
+    "company": "NH농협카드",
+    "cashback": "쇼핑 최대\n14% 할인",
+    "benefit_place": "통신\n5% 할인",
+    "discount": "커피\n5% 할인",
+    "overseas": "국내전용 12,000원 / 해외겸용 14,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "온라인쇼핑",
+            "content": "[기본할인] 국내 온라인 전 가맹점 7% 청구할인"
+        },
+        {
+            "category": "할인",
+            "content": "[더블할인] FLEX, RE-SELL, FUN 가맹점 14% 청구할인"
+        },
+        {
+            "category": "생활",
+            "content": "[생활할인] 6대 생활업종 5% 청구 할인"
+        },
+        {
+            "category": "공항라운지",
+            "content": "국제공항 라운지 무료이용 연2회 제공"
+        },
+        {
+            "category": "테마파크",
+            "content": "전국 주요 놀이공원 현장할인 최대 50%"
+        },
+        {
+            "category": "선택형",
+            "content": "원하는 플레이트 디자인 선택 가능"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "card_name": "zgm.play카드",
+    "company": "NH농협카드",
+    "cashback": "영화\n5,000원 할인",
+    "benefit_place": "커피\n30% 할인",
+    "discount": "패스트푸드\n20% 할인",
+    "overseas": "국내전용 12,000원 / 해외겸용 12,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "선택형",
+            "content": "[선택 서비스] 온라인-플레이 타입"
+        },
+        {
+            "category": "선택형",
+            "content": "[선택 서비스] 오프라인-플레이 타입"
+        },
+        {
+            "category": "영화",
+            "content": "CGV, 롯데시네마, 메가박스 5천원 청구할인"
+        },
+        {
+            "category": "카페",
+            "content": "스타벅스, 투썸플레이스, 커피빈 30% 청구할인"
+        },
+        {
+            "category": "패스트푸드",
+            "content": "패스트푸드업종 20% 청구할인"
+        },
+        {
+            "category": "생활",
+            "content": "미용실·올리브영·CU/GS25 5% 청구할인 (H&B 편의점 통합 일 1회)"
+        },
+        {
+            "category": "생활",
+            "content": "쇼핑·서점 5% 청구할인 (통합 일 1회)"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "card_name": "CLUB SK 카드",
+    "company": "하나카드",
+    "cashback": "SK텔레콤 요금 최대\n15,000원 청구할인",
+    "benefit_place": "SK주유소 최대\n150원/L 청구할인",
+    "discount": "영역별 월 최대 할인한도\n22,000원",
+    "overseas": "국내전용 6,000원 / 해외겸용 25,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "SKT",
+            "content": "SK텔레콤 이동통신 요금 최대 15,000원 청구할인"
+        },
+        {
+            "category": "주유소",
+            "content": "SK주유소 리터당 최대 150원 청구할인\nSK충전소 리터당 최대 70원 청구할인"
+        },
+        {
+            "category": "생활",
+            "content": "교통, 영화, 외식, 커피 등 최대 10% 청구할인"
+        },
+        {
+            "category": "대형마트",
+            "content": "이마트, 홈플러스, 롯데마트 최대 10% 청구할인"
+        },
+        {
+            "category": "학원",
+            "content": "학원 업종 최대 10% 청구할인"
+        },
+        {
+            "category": "멤버십포인트",
+            "content": "SK멤버십 서비스"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "브랜드 서비스"
+        },
+        {
+            "category": "기타",
+            "content": "면세점/여행 관련 서비스,\n하나은행 결제 계좌 고객 우대 서비스"
+        }
+    ]
+}

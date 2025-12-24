@@ -1,0 +1,39 @@
+{
+    "card_name": "올바른HOMETOWN카드",
+    "company": "NH농협카드",
+    "cashback": "홈쇼핑\n10% 청구할인",
+    "benefit_place": "병의원/약국\n5% 청구할인",
+    "discount": "보이스피싱 보상보험\n무료 가입",
+    "overseas": "국내전용 12,000원 / 해외겸용 12,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "대형마트",
+            "content": "하나로마트/하나로클럽 5% 청구할인"
+        },
+        {
+            "category": "SSM",
+            "content": "슈퍼마켓 5% 청구할인"
+        },
+        {
+            "category": "병원/약국",
+            "content": "병의원/약국 5% 청구할인"
+        },
+        {
+            "category": "홈쇼핑",
+            "content": "홈쇼핑 10% 청구할인"
+        },
+        {
+            "category": "기타",
+            "content": "건강식품 10% 청구할인"
+        },
+        {
+            "category": "대중교통",
+            "content": "대중교통(버스/지하철) 10% 청구할인"
+        },
+        {
+            "category": "보험사",
+            "content": "보이스피싱 보상보험 무료 가입"
+        }
+    ]
+}

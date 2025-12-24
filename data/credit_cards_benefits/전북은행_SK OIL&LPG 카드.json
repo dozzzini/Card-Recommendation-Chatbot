@@ -1,0 +1,19 @@
+{
+    "card_name": "SK OIL&LPG 카드",
+    "company": "전북은행",
+    "cashback": "SK주유소 리터당 최대\n120원 청구할인",
+    "benefit_place": "주차장\n10% 청구할인",
+    "discount": "약국\n5% 청구할인",
+    "overseas": "국내전용 10,000원 / 해외겸용 15,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "주유소",
+            "content": "SK주유소, 충전소 리터당 최대 120원 청구할인"
+        },
+        {
+            "category": "생활",
+            "content": "생활 할인 서비스 5~10% 청구할인"
+        }
+    ]
+}

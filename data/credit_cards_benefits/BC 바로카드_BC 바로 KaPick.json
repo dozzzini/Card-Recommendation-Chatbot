@@ -1,0 +1,39 @@
+{
+    "card_name": "BC 바로 KaPick",
+    "company": "BC 바로카드",
+    "cashback": "쇼핑\n7% 적립",
+    "benefit_place": "커피, 편의점, 배달\n7% 적립",
+    "discount": "생활\n7% 적립",
+    "overseas": "국내전용 15,000원 / 해외겸용 15,000원",
+    "performance": "전월실적 15만원 이상",
+    "benefit": [
+        {
+            "category": "쇼핑",
+            "content": "[바로카드 Pick! 적립] 쇼픽 그룹 7% 적립"
+        },
+        {
+            "category": "푸드",
+            "content": "[바로카드 Pick! 적립] 먹픽 그룹 7% 적립"
+        },
+        {
+            "category": "생활",
+            "content": "[바로카드 Pick! 적립] 생픽 그룹 7% 적립"
+        },
+        {
+            "category": "적립",
+            "content": "[전월 실적, 한도 없는 적립] 국내 카카오페이 결제 1% 적립"
+        },
+        {
+            "category": "해외",
+            "content": "[전월 실적, 한도 없는 적립] 해외 온/오프라인 결제 2% 적립"
+        },
+        {
+            "category": "무이자할부",
+            "content": "전국 모든 가맹점 2~3개월 무이자할부 서비스"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "MasterCard Platinum 기본 서비스"
+        }
+    ]
+}

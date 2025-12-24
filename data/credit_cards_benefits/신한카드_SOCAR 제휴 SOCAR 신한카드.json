@@ -1,0 +1,31 @@
+{
+    "card_name": "SOCAR 제휴 SOCAR 신한카드",
+    "company": "신한카드",
+    "cashback": "SOCAR\n30% 할인",
+    "benefit_place": "KTX/SRT\n10% 할인",
+    "discount": "커피전문점\n20% 할인",
+    "overseas": "해외겸용 13,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "렌터카",
+            "content": "SOCAR 결제 시 30% 결제일 할인"
+        },
+        {
+            "category": "기차",
+            "content": "KTX, SRT 포함 철도 이용 시 10% 결제일 할인"
+        },
+        {
+            "category": "카페",
+            "content": "커피전문점 20% 결제일 할인"
+        },
+        {
+            "category": "편의점",
+            "content": "GS25, CU, 세븐일레븐 편의점 5% 결제일 할인"
+        },
+        {
+            "category": "대형마트",
+            "content": "홈플러스, 이마트, 롯데마트 3대 할인점 3% 결제일 할인"
+        }
+    ]
+}

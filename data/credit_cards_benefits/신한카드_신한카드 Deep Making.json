@@ -1,0 +1,35 @@
+{
+    "card_name": "신한카드 Deep Making",
+    "company": "신한카드",
+    "cashback": "DIY서비스\n17% 적립",
+    "benefit_place": "쇼핑\n1~5% 적립",
+    "discount": "푸드\n1~5% 적립",
+    "overseas": "국내전용 30,000원 / 해외겸용 30,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "선택형",
+            "content": "[Making 17 서비스] 포인트 적립받을 영역과 적립율을 직접 선택하는 DIY 서비스!"
+        },
+        {
+            "category": "쇼핑",
+            "content": "백화점, 마트, 홈쇼핑, 온라인쇼핑, 소셜몰, 패션&뷰티 1~5% 적립"
+        },
+        {
+            "category": "푸드",
+            "content": "커피전문점, 편의점, 베이커리, 배달앱 1~5% 적립"
+        },
+        {
+            "category": "해외",
+            "content": "해외, 항공&면세점 1~5% 적립"
+        },
+        {
+            "category": "생활",
+            "content": "주유, 교육, 병원, 이동통신, 대중교통 1~5% 적립"
+        },
+        {
+            "category": "적립",
+            "content": "[My Pick 서비스] 마이신한포인트 2,000포인트 적립"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "card_name": "신한 햇살론카드",
+    "company": "신한카드",
+    "cashback": "생활쇼핑 가맹점\n7% 할인",
+    "benefit_place": "커피전문점/제과점\n10% 할인",
+    "discount": "쇼핑몰/할인점\n10% 할인",
+    "overseas": "국내전용 5,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "쇼핑",
+            "content": "생활쇼핑 가맹점 7% 결제일 할인"
+        },
+        {
+            "category": "카페/디저트",
+            "content": "커피전문점/제과점 10% 결제일 할인"
+        },
+        {
+            "category": "쇼핑",
+            "content": "주말 복합쇼핑몰 10% 결제일 할인\n주말 3대 할인점 10% 결제일 할인"
+        }
+    ]
+}

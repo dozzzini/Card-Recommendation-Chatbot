@@ -1,0 +1,23 @@
+{
+    "card_name": "zgm shopping카드",
+    "company": "NH농협카드",
+    "cashback": "온라인쇼핑\n최대 40,000P 적립",
+    "benefit_place": "오프라인 쇼핑\n최대 40,000P 적립",
+    "discount": "정보없음",
+    "overseas": "국내전용 50,000원 / 해외겸용 55,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "쇼핑",
+            "content": "[기본적립] 온・오프라인 쇼핑 이용 시 최대 15% NH포인트 적립"
+        },
+        {
+            "category": "적립",
+            "content": "[추가적립] '기본적립'된 포인트의 5% 추가적립 (연 1회)"
+        },
+        {
+            "category": "면세점",
+            "content": "[멤버십혜택] 현대백화점면세점 BLACK 등급 멤버십 제공"
+        }
+    ]
+}

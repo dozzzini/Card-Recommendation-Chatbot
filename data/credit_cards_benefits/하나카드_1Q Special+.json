@@ -1,0 +1,31 @@
+{
+    "card_name": "1Q Special+",
+    "company": "하나카드",
+    "cashback": "지역쇼핑/주유\n5,000 하나머니 적립",
+    "benefit_place": "온라인쇼핑\n5,000 하나머니 적립",
+    "discount": "음식점\n1,000원 청구할인",
+    "overseas": "해외겸용 10,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "쇼핑",
+            "content": "쇼핑 또는 주유 이용금액 스페셜 적립"
+        },
+        {
+            "category": "생활",
+            "content": "온라인쇼핑, 통신/교통/자동이체, 해외 이용금액 플러스적립"
+        },
+        {
+            "category": "일반음식점",
+            "content": "국내 음식업종 할인"
+        },
+        {
+            "category": "카페",
+            "content": "스타벅스, 커피빈 4,000원 할인"
+        },
+        {
+            "category": "공과금/렌탈",
+            "content": "아파트관리비, 4대보험 적립"
+        }
+    ]
+}

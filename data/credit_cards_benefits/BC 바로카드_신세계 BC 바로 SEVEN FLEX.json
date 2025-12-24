@@ -1,0 +1,39 @@
+{
+    "card_name": "신세계 BC 바로 SEVEN FLEX",
+    "company": "BC 바로카드",
+    "cashback": "신세계백화점\n7% 할인",
+    "benefit_place": "간편결제\n7% 할인",
+    "discount": "카페\n7% 할인",
+    "overseas": "국내전용 20,000원 / 해외겸용 20,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "쇼핑",
+            "content": "[FLEX] 신세계백화점·W concept 등 7% 할인"
+        },
+        {
+            "category": "간편결제",
+            "content": "[PAY] 네이버페이·카카오페이 등 7% 할인"
+        },
+        {
+            "category": "생활",
+            "content": "[HEALTH&BEAUTY] 운동·골프·병원·약국·이/미용원 7% 할인"
+        },
+        {
+            "category": "카페/디저트",
+            "content": "[YUMMY] 카페·편의점·제과점 7% 할인"
+        },
+        {
+            "category": "기타",
+            "content": "[DAILY] 통신3사휴대폰요금·대중교통 등 7% 할인"
+        },
+        {
+            "category": "제휴/PLCC",
+            "content": "신세계백화점 제휴 서비스 제공"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "VISA Platinum 서비스 제공"
+        }
+    ]
+}

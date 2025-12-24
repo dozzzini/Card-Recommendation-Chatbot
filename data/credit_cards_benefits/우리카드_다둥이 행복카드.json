@@ -1,0 +1,39 @@
+{
+    "card_name": "다둥이 행복카드",
+    "company": "우리카드",
+    "cashback": "버스, 지하철\n10% 할인",
+    "benefit_place": "모아포인트\n최대0.9% 적립",
+    "discount": "유아출산의류\n10% 할인",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "대중교통",
+            "content": "대중교통요금 10% 할인"
+        },
+        {
+            "category": "적립",
+            "content": "모아포인트 최고 0.9% 적립"
+        },
+        {
+            "category": "주유소",
+            "content": "GS칼텍스 리터당 최대 70원 청구할인"
+        },
+        {
+            "category": "패밀리레스토랑",
+            "content": "패밀리 레스토랑 할인"
+        },
+        {
+            "category": "OTT/영화/문화",
+            "content": "영화, 놀이공원, 콘도 할인"
+        },
+        {
+            "category": "쇼핑",
+            "content": "유명의류, 한국프뢰벨, 현대홈쇼핑, 특별할인서비스"
+        },
+        {
+            "category": "생활",
+            "content": "자동차, 통신 등 생활서비스 제공"
+        }
+    ]
+}

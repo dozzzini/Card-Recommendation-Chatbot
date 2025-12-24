@@ -1,0 +1,23 @@
+{
+    "card_name": "신한카드 Applus",
+    "company": "신한카드",
+    "cashback": "프로그램\niPhone for Life 이용",
+    "benefit_place": "Applus포인트\n0.2% 적립",
+    "discount": "프로그램 미이용시\n3%~5% 적립",
+    "overseas": "국내전용 15,000원 / 해외겸용 15,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "적립",
+            "content": "Applus포인트 기본 적립"
+        },
+        {
+            "category": "기타",
+            "content": "iPhone for Life 프로그램 이용 시"
+        },
+        {
+            "category": "적립",
+            "content": "iPhone for Life 프로그램 미 이용 시 Applus포인트 특별 적립"
+        }
+    ]
+}

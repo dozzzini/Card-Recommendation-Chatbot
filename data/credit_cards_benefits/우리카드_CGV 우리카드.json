@@ -1,0 +1,23 @@
+{
+    "card_name": "CGV 우리카드",
+    "company": "우리카드",
+    "cashback": "CGV영화관람권\n연 12회 제공",
+    "benefit_place": "CGV영화관람권\n5천원 할인",
+    "discount": "CGV매점콤보\n2천원 할인",
+    "overseas": "국내전용 20,000원 / 해외겸용 20,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "영화",
+            "content": "CGV 영화관람권 1매 무료 예매, CGV 영화관람권 5천원 할인\nCGV 매점 콤보 할인"
+        },
+        {
+            "category": "적립",
+            "content": "모아포인트 이용금액의 5% ~ 0.5% 적립"
+        },
+        {
+            "category": "선택형",
+            "content": "원하는 플레이트 선택 가능"
+        }
+    ]
+}

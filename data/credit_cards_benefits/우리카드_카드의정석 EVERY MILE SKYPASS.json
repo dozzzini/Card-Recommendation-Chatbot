@@ -1,0 +1,23 @@
+{
+    "card_name": "카드의정석 EVERY MILE SKYPASS",
+    "company": "우리카드",
+    "cashback": "SKYPASS\n최대 2마일리지 적립",
+    "benefit_place": "해외이용수수료\n0.3% 면제",
+    "discount": "국내 공항라운지\n동반 1인 동시 이용",
+    "overseas": "국내전용 39,000원 / 해외겸용 39,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "대한항공",
+            "content": "SKYPASS 최대 2마일리지 적립"
+        },
+        {
+            "category": "수수료우대",
+            "content": "해외수수료 면제"
+        },
+        {
+            "category": "공항라운지",
+            "content": "국내 공항라운지 동반 1인 동시 이용 가능 (전월실적 50만원 이상 시 제공)"
+        }
+    ]
+}

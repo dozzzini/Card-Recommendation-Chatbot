@@ -1,0 +1,43 @@
+{
+    "card_name": "현대카드 Summit",
+    "company": "현대카드",
+    "cashback": "국내외 가맹점\n1.5% 적립",
+    "benefit_place": "공항라운지\n무료 이용",
+    "discount": "병원・약국\n5% 적립",
+    "overseas": "국내전용 200,000원 / 해외겸용 200,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "적립",
+            "content": "적립한도 제한 없는 1.5% M포인트 적립"
+        },
+        {
+            "category": "유치원",
+            "content": "[추가 혜택] 학원/유치원 업종 5% M포인트 적립"
+        },
+        {
+            "category": "학원",
+            "content": "[추가 혜택] 학원/유치원 업종 5% M포인트 적립"
+        },
+        {
+            "category": "병원/약국",
+            "content": "[추가혜택] 병원/약국 업종 5% M포인트 적립"
+        },
+        {
+            "category": "여행/숙박",
+            "content": "[추가혜택] 국내 항공사/여행사/특급호텔 업종 5% M포인트 적립"
+        },
+        {
+            "category": "바우처",
+            "content": "15만원 상당 선택 제공 기프트 ①~④ 택1 (연1회)"
+        },
+        {
+            "category": "기타",
+            "content": "공항 및 특급호텔 발레파킹 무료 이용"
+        },
+        {
+            "category": "공항라운지",
+            "content": "THE LOUNGE : 공항 라운지 무료 이용 (연5회)"
+        }
+    ]
+}

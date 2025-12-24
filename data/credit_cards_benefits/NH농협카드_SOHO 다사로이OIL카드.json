@@ -1,0 +1,31 @@
+{
+    "card_name": "SOHO 다사로이OIL카드",
+    "company": "NH농협카드",
+    "cashback": "주유\n5% 할인",
+    "benefit_place": "비즈니스\n0.5% 할인",
+    "discount": "카카오T대리\n10% 할인",
+    "overseas": "국내전용 15,000원 / 해외겸용 17,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "주유",
+            "content": "전 주유소 및 LPG·수소차 충전소 5% 청구할인, 전기차 충전소 5% 청구할인"
+        },
+        {
+            "category": "비즈니스",
+            "content": "주요 사업경비업종 0.5% 청구할인"
+        },
+        {
+            "category": "기타",
+            "content": "카카오T대리 자동결제 10% 청구할인"
+        },
+        {
+            "category": "정비",
+            "content": "스피드메이트 엔진오일 및 와이퍼 무료교환 서비스"
+        },
+        {
+            "category": "자동차",
+            "content": "차량 구매액 1% 청구할인"
+        }
+    ]
+}

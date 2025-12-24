@@ -1,0 +1,27 @@
+{
+    "card_name": "국민행복카드",
+    "company": "제주은행",
+    "cashback": "병/의원, 산후조리업종\n5% 청구할인",
+    "benefit_place": "의요,육아업종\n1~4% 에코머니 적립",
+    "discount": "커피전문점\n20% 청구할인",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "국민행복",
+            "content": "A-Type(for Baby)"
+        },
+        {
+            "category": "국민행복",
+            "content": "B-Type(for Children)"
+        },
+        {
+            "category": "국민행복",
+            "content": "C-Type(for Green Life)"
+        },
+        {
+            "category": "기타",
+            "content": "그린카드 멤버십 서비스"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "card_name": "BC 바로 ZONE 카드",
+    "company": "BC 바로카드",
+    "cashback": "커피, 간식, 배달앱\n7% 할인",
+    "benefit_place": "쿠팡, 다이소, 올리브영\n7% 할인",
+    "discount": "디지털구독, 멤버십, 전통시장\n7% 할인",
+    "overseas": "국내전용 19,000원 / 해외겸용 19,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "푸드",
+            "content": "[EAT ZONE] 커피, 간식, 배달앱 7% 할인"
+        },
+        {
+            "category": "생활",
+            "content": "[LIFE ZONE] 온라인몰, 다이소, 올리브영 7% 할인"
+        },
+        {
+            "category": "디지털구독",
+            "content": "[PLAY ZONE] 디지털구독, 쇼핑멤버십 7% 할인"
+        },
+        {
+            "category": "전통시장",
+            "content": "[& ZONE] 전통시장 7% 할인"
+        },
+        {
+            "category": "해외",
+            "content": "[해외 ZONE] 전월 실적, 한도 없이 1% 결제일 할인"
+        },
+        {
+            "category": "무이자할부",
+            "content": "국내 대상 가맹점 2~3개월 상시 무이자 할부"
+        },
+        {
+            "category": "프리미엄",
+            "content": "국제 브랜드 서비스"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "card_name": "올바른 POINT UP 카드",
+    "company": "NH농협카드",
+    "cashback": "기본\n0.7% 적립",
+    "benefit_place": "최대\n1.0% 추가적립",
+    "discount": "국제공항\n라운지 무료이용",
+    "overseas": "해외겸용 12,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "모든가맹점",
+            "content": "적립한도 없이 기본 0.7% 적립+우대 최대0.3% 적립"
+        },
+        {
+            "category": "생활",
+            "content": "생활영역 0.5%~1.0% 추가적립"
+        },
+        {
+            "category": "공항라운지/PP",
+            "content": "국제공항 라운지 무료이용"
+        },
+        {
+            "category": "금융",
+            "content": "전자금융 수수료 면제"
+        }
+    ]
+}

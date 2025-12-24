@@ -1,0 +1,19 @@
+{
+    "card_name": "스카이패스 KB국민카드",
+    "company": "KB국민카드",
+    "cashback": "일시불/할부 1,500원당\n1마일 기본적립",
+    "benefit_place": "GS칼텍스 1,500원당\n1.5마일 적립",
+    "discount": "해외 1,500원당\n0.5마일 적립",
+    "overseas": "해외겸용 15,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "대한항공",
+            "content": "[대한항공 마일리지]\n가맹점 신판입금액 1,500원당 1마일 적립"
+        },
+        {
+            "category": "대한항공",
+            "content": "대한항공 마일리지 적립기준"
+        }
+    ]
+}

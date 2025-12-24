@@ -1,0 +1,23 @@
+{
+    "card_name": "KT수퍼할부카드(비씨)",
+    "company": "NH농협카드",
+    "cashback": "KT\n라이트할부 제공",
+    "benefit_place": "KT통신요금\n9천~1만7천원 할인",
+    "discount": "커피,베이커리\n10% 할인",
+    "overseas": "해외겸용 15,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "KT",
+            "content": "KT라이트할부 서비스\nKT통신요금(자동이체) 할인 서비스"
+        },
+        {
+            "category": "생활",
+            "content": "커피, 베이커리, 아이스크림 10% 청구할인\n영화 CGV 1천원 청구할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "전국 주요 놀이공원 할인"
+        }
+    ]
+}

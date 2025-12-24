@@ -1,0 +1,39 @@
+{
+    "card_name": "디지로카 Monaco",
+    "company": "롯데카드",
+    "cashback": "국내·해외\n1% 할인",
+    "benefit_place": "온라인쇼핑\n최대 5% 할인",
+    "discount": "배달앱/이동통신/스트리밍\n5~50% 할인",
+    "overseas": "국내전용 125,000원 / 해외겸용 125,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "국내외가맹점",
+            "content": "어디서나 1% 결제일 할인"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "온라인 쇼핑 최대 5% 결제일 할인"
+        },
+        {
+            "category": "배달앱",
+            "content": "배달의 민족, 쿠팡이츠, 요기요 5% 결제일 할인"
+        },
+        {
+            "category": "통신",
+            "content": "SKT, KT, LG U+ 5% 결제일 할인"
+        },
+        {
+            "category": "디지털구독",
+            "content": "넷플릭스, 유튜브프리미엄, 왓챠, 멜론, 지니뮤직 50% 결제일 할인"
+        },
+        {
+            "category": "프리미엄",
+            "content": "SPECIAL GIFT 혜택"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "Master Platinum Service"
+        }
+    ]
+}

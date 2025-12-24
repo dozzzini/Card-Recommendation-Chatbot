@@ -1,0 +1,15 @@
+{
+    "card_name": "넥센타이어 신한카드",
+    "company": "신한카드",
+    "cashback": "넥센타이어 렌탈\n최대 2만원 결제일 할인",
+    "benefit_place": "정보없음",
+    "discount": "정보없음",
+    "overseas": "국내전용 15,000원 / 해외겸용 18,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "렌터카",
+            "content": "넥센타이어 렌탈 할인"
+        }
+    ]
+}

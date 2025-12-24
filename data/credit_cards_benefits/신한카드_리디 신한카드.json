@@ -1,0 +1,31 @@
+{
+    "card_name": "리디 신한카드",
+    "company": "신한카드",
+    "cashback": "리디북스\n20% 할인",
+    "benefit_place": "SPA\n10% 할인",
+    "discount": "영화\n4천원 할인",
+    "overseas": "해외겸용 10,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "도서",
+            "content": "리디북스 20% 결제일 할인"
+        },
+        {
+            "category": "SPA브랜드",
+            "content": "SPA 브랜드 10% 결제일 할인"
+        },
+        {
+            "category": "드럭스토어",
+            "content": "H&B Store 10% 결제일 할인"
+        },
+        {
+            "category": "영화",
+            "content": "CGV, 롯데시네마, 메가박스 4천원 결제일 할인"
+        },
+        {
+            "category": "카페",
+            "content": "커피 업종 이용시 20% 결제일 할인"
+        }
+    ]
+}

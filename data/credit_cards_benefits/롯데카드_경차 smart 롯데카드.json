@@ -1,0 +1,51 @@
+{
+    "card_name": "경차 smart 롯데카드",
+    "company": "롯데카드",
+    "cashback": "경차\n유류세 환급",
+    "benefit_place": "주유소\n리터당 80원 할인",
+    "discount": "스피드메이트\n엔진오일 할인",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "기타",
+            "content": "경차 유류세 환급"
+        },
+        {
+            "category": "주유소",
+            "content": "주유 할인 서비스"
+        },
+        {
+            "category": "대중교통",
+            "content": "교통 할인 서비스"
+        },
+        {
+            "category": "쇼핑",
+            "content": "쇼핑 할인 서비스"
+        },
+        {
+            "category": "정비",
+            "content": "정비(엔진오일) 할인 서비스"
+        },
+        {
+            "category": "헤어",
+            "content": "미용실 최대 20% 할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "놀이공원 할인"
+        },
+        {
+            "category": "경기관람",
+            "content": "롯데 자이언츠 20% 할인"
+        },
+        {
+            "category": "영화",
+            "content": "뮤지컬, 연극 등 공연 10~30% 할인"
+        },
+        {
+            "category": "패밀리레스토랑",
+            "content": "외식 할인"
+        }
+    ]
+}

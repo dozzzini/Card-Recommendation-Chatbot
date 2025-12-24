@@ -1,0 +1,23 @@
+{
+    "card_name": "현대백화점 Fit카드",
+    "company": "현대백화점",
+    "cashback": "현대백화점\n5% 할인",
+    "benefit_place": "현대백화점 2시간\n무료 주차",
+    "discount": "H.Point\n20% 추가 적립",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "쇼핑",
+            "content": "현대백화점 5% 할인"
+        },
+        {
+            "category": "백화점",
+            "content": "현대백화점 2시간 무료주차"
+        },
+        {
+            "category": "기타",
+            "content": "H.Point 20% 추가 적립"
+        }
+    ]
+}

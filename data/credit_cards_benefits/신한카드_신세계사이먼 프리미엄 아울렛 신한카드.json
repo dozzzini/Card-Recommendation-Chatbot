@@ -1,0 +1,27 @@
+{
+    "card_name": "신세계사이먼 프리미엄 아울렛 신한카드",
+    "company": "신한카드",
+    "cashback": "신세계아울렛\n10% 할인",
+    "benefit_place": "신세계 계열사\n7% 할인",
+    "discount": "주유\n40원/L 할인",
+    "overseas": "국내전용 20,000원 / 해외겸용 23,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "아울렛",
+            "content": "신세계사이먼 프리미엄 아울렛 10% 할인"
+        },
+        {
+            "category": "쇼핑",
+            "content": "신세계 계열사 7% 할인"
+        },
+        {
+            "category": "주유소",
+            "content": "GS칼텍스, S-OIL 리터 당 40원 할인"
+        },
+        {
+            "category": "멤버십포인트",
+            "content": "신세계 멤버십 혜택"
+        }
+    ]
+}

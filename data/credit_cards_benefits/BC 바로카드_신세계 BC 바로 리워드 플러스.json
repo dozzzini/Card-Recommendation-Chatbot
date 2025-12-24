@@ -1,0 +1,31 @@
+{
+    "card_name": "신세계 BC 바로 리워드 플러스",
+    "company": "BC 바로카드",
+    "cashback": "페이북머니\n최대 1.5% 기본 적립",
+    "benefit_place": "페이북머니\n최대 30% 특별 적립",
+    "discount": "국내 전 가맹점\n2~3개월 무이자 할부",
+    "overseas": "국내전용 10,000원 / 해외겸용 10,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "모든가맹점",
+            "content": "페이북머니 최대 1.5% 기본 적립"
+        },
+        {
+            "category": "적립",
+            "content": "페이북머니 최대 30% 특별 적립"
+        },
+        {
+            "category": "무이자할부",
+            "content": "국내 전 가맹점 2~3개월 무이자 할부"
+        },
+        {
+            "category": "제휴/PLCC",
+            "content": "신세계백화점 제휴 서비스 제공"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "VISA Platinum 서비스 제공"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "card_name": "BeV Ⅲ 카드",
+    "company": "KB국민카드",
+    "cashback": "포인트리\n1.1~1.5% 적립",
+    "benefit_place": "전 주유소/충전소\n100원/L 할인",
+    "discount": "상품권\n15만원 상당 제공",
+    "overseas": "해외겸용 200,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "바우처",
+            "content": "쿠폰서비스"
+        },
+        {
+            "category": "주유",
+            "content": "주유 할인"
+        },
+        {
+            "category": "적립",
+            "content": "포인트리 적립"
+        },
+        {
+            "category": "프리미엄",
+            "content": "BeV Ⅲ카드 우대 서비스"
+        }
+    ]
+}

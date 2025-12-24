@@ -1,0 +1,23 @@
+{
+    "card_name": "신한카드 Air Platinum#",
+    "company": "신한카드",
+    "cashback": "1,500원당\n1마일 적립",
+    "benefit_place": "1,000원당\n1마일 적립",
+    "discount": "정보없음",
+    "overseas": "해외겸용 40,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "항공마일리지",
+            "content": "대한항공 1,500원당 1마일/아시아나항공 1,000원당 1마일"
+        },
+        {
+            "category": "생활",
+            "content": "마이신한포인트 추가 적립"
+        },
+        {
+            "category": "프리미엄",
+            "content": "특급 호텔 발렛파킹/면세점 우대 서비스 (전월실적 30만원 이상)"
+        }
+    ]
+}

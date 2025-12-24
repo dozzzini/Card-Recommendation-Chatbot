@@ -1,0 +1,23 @@
+{
+    "card_name": "디지로카 London",
+    "company": "롯데카드",
+    "cashback": "국내·해외\n최대 0.7% 할인",
+    "benefit_place": "즉시결제\n최대 1% 할인",
+    "discount": "추가수수료없이\n나누어 납부",
+    "overseas": "국내전용 20,000원 / 해외겸용 20,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "국내외가맹점",
+            "content": "어디서나 0.7% 캐시백"
+        },
+        {
+            "category": "캐시백",
+            "content": "즉시 결제 1% 추가 캐시백"
+        },
+        {
+            "category": "무이자할부",
+            "content": "LOCA 나누기 혜택"
+        }
+    ]
+}

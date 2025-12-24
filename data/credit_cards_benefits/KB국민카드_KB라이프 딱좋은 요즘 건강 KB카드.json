@@ -1,0 +1,19 @@
+{
+    "card_name": "KB라이프 딱좋은 요즘 건강 KB카드",
+    "company": "KB국민카드",
+    "cashback": "KB라이프 건강보험료 자동납부\n5~8천원 청구할인",
+    "benefit_place": "병원, 약국업종\n5% 청구할인",
+    "discount": "정보없음",
+    "overseas": "국내전용 20,000원 / 해외겸용 20,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "보험사",
+            "content": "KB라이프 건강보험료 자동납부 할인"
+        },
+        {
+            "category": "병원/약국",
+            "content": "병원/약국 5% 할인"
+        }
+    ]
+}

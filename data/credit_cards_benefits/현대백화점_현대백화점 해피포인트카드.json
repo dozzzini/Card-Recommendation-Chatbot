@@ -1,0 +1,27 @@
+{
+    "card_name": "현대백화점 해피포인트카드",
+    "company": "현대백화점",
+    "cashback": "현대백화점/아울렛\n5% 할인",
+    "benefit_place": "해피포인트 가맹점\n5% 적립",
+    "discount": "3개월\n무이자 할부",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "백화점",
+            "content": "현대백화점/아울렛 5% 할인"
+        },
+        {
+            "category": "해피포인트",
+            "content": "해피포인트 가맹점 5% 적립"
+        },
+        {
+            "category": "백화점",
+            "content": "현대백화점 2시간 무료주차"
+        },
+        {
+            "category": "기타",
+            "content": "3개월 무이자 할부"
+        }
+    ]
+}

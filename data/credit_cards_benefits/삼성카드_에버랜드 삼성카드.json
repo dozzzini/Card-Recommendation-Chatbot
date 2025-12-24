@@ -1,0 +1,39 @@
+{
+    "card_name": "에버랜드 삼성카드",
+    "company": "삼성카드",
+    "cashback": "에버랜드\n50% 할인",
+    "benefit_place": "에버랜드리조트\n3% 솜 적립",
+    "discount": "국내 가맹점\n0.5% 솜 적립",
+    "overseas": "국내전용 20,000원 / 해외겸용 20,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "테마파크",
+            "content": "에버랜드 50%/캐리비안 베이 30% 할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "에버랜드 꿈빛 솜사탕 등급 적용"
+        },
+        {
+            "category": "테마파크",
+            "content": "에버랜드리조트 3% 솜 적립"
+        },
+        {
+            "category": "적립",
+            "content": "국내 가맹점 0.5% 솜 적립"
+        },
+        {
+            "category": "적립",
+            "content": "생활 필수 영역 4.5% 솜 추가 적립"
+        },
+        {
+            "category": "디지털구독",
+            "content": "디지털콘텐츠 50% 솜 추가 적립"
+        },
+        {
+            "category": "해외",
+            "content": "해외 1.5% 솜 적립"
+        }
+    ]
+}

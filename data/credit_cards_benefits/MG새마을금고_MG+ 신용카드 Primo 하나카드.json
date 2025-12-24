@@ -1,0 +1,35 @@
+{
+    "card_name": "MG+ 신용카드 Primo 하나카드",
+    "company": "MG새마을금고",
+    "cashback": "국내외 전 가맹점\n0.5% 청구할인",
+    "benefit_place": "대중교통, 편의점\n5% 청구할인",
+    "discount": "슈퍼마켓, 주유, 생활요금 납부 시\n5% 청구할인",
+    "overseas": "국내전용 12,000원 / 해외겸용 12,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "국내외가맹점",
+            "content": "국내외 전 가맹점 0.5% 청구할인"
+        },
+        {
+            "category": "무이자할부",
+            "content": "무이자 할부 혜택"
+        },
+        {
+            "category": "대중교통",
+            "content": "대중교통 5% 청구할인"
+        },
+        {
+            "category": "마트/편의점",
+            "content": "편의점, 슈퍼마켓 5% 청구할인"
+        },
+        {
+            "category": "주유",
+            "content": "주유 5% 청구할인"
+        },
+        {
+            "category": "공과금",
+            "content": "생활요금(자동납부) 5% 청구할인"
+        }
+    ]
+}

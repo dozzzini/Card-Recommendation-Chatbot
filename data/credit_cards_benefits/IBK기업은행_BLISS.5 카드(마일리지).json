@@ -1,0 +1,39 @@
+{
+    "card_name": "BLISS.5 카드(마일리지)",
+    "company": "IBK기업은행",
+    "cashback": "1,500원당\n1마일 적립",
+    "benefit_place": "바우처 최대\n10만원 제공",
+    "discount": "영화\n2천원 할인",
+    "overseas": "해외겸용 95,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "대한항공",
+            "content": "국내외 일시불, 유이자할부금액에 대해서 1,500원당 1마일 적립\n제휴항공사 | 대한항공"
+        },
+        {
+            "category": "기차",
+            "content": "KTX/SRT 승차권 및 철도 여행상품 3%~10% 할인 서비스"
+        },
+        {
+            "category": "영화",
+            "content": "영화예매 할인 서비스・CGV 콤보 무료 이용 서비스"
+        },
+        {
+            "category": "카페",
+            "content": "카페아티제 본인 음료 구매 시 동반자 1인에게 무료 음료 제공"
+        },
+        {
+            "category": "금융",
+            "content": "바로알림(SMS) 서비스 무료 가입"
+        },
+        {
+            "category": "바우처",
+            "content": "Voucher Service 종류(택1)"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "Premium Service"
+        }
+    ]
+}

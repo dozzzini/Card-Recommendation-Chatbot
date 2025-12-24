@@ -1,0 +1,15 @@
+{
+    "card_name": "IBK-Hybrid(하이브리드)카드",
+    "company": "IBK기업은행",
+    "cashback": "전월실적 관계없이\n신용 0.6% 캐시백",
+    "benefit_place": "국내외 가맹점\n체크 0.3% 캐시백",
+    "discount": "하이브리드 서비스\n체크+신용 결제서비스",
+    "overseas": "해외겸용 10,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "하이브리드",
+            "content": "하이브리드 서비스 (체크+신용 결제서비스)"
+        }
+    ]
+}

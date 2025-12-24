@@ -1,0 +1,23 @@
+{
+    "card_name": "올바른 BAZIC 카드",
+    "company": "NH농협카드",
+    "cashback": "일요일\n최대1.2% 할인",
+    "benefit_place": "해외이용\n1.0% 할인",
+    "discount": "국내공항\n라운지 무료이용",
+    "overseas": "해외겸용 14,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "모든가맹점",
+            "content": "할인한도 없이 0.7%~1.2% 할인"
+        },
+        {
+            "category": "해외",
+            "content": "해외이용가맹점 1.0% 청구할인"
+        },
+        {
+            "category": "공항라운지/PP",
+            "content": "국제공항 라운지 무료이용"
+        }
+    ]
+}

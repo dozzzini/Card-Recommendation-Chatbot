@@ -1,0 +1,23 @@
+{
+    "card_name": "카카오뱅크 롯데카드",
+    "company": "롯데카드",
+    "cashback": "국내외가맹점\n0.5% 캐시백",
+    "benefit_place": "스페셜가맹점\n5% 캐시백",
+    "discount": "정보없음",
+    "overseas": "국내전용 15,000원 / 해외겸용 15,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "모든가맹점",
+            "content": "기본캐시백: 전월 실적조건 없이 0.5% 캐시백\n특별캐시백: 최대 5% 캐시백"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "플래티넘(Platinum) 서비스"
+        },
+        {
+            "category": "멤버십포인트",
+            "content": "L.POINT"
+        }
+    ]
+}

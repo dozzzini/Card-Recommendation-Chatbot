@@ -1,0 +1,31 @@
+{
+    "card_name": "톡톡 with카드",
+    "company": "KB국민카드",
+    "cashback": "스타벅스\n50% 할인",
+    "benefit_place": "온라인 간편결제\n10% 할인",
+    "discount": "구독서비스\n20% 할인",
+    "overseas": "국내전용 12,000원 / 해외겸용 12,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "카페",
+            "content": "스타벅스 50% 할인"
+        },
+        {
+            "category": "디지털구독",
+            "content": "구독(YouTube Premium, 넷플릭스, 웨이브, 티빙) 20% 할인"
+        },
+        {
+            "category": "간편결제",
+            "content": "온라인 간편결제 10% 할인"
+        },
+        {
+            "category": "배달앱",
+            "content": "배달(배달의민족, 요기요) 5% 할인"
+        },
+        {
+            "category": "대중교통",
+            "content": "대중교통(버스, 지하철) 5% 할인"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "card_name": "올바른 FLEX 카드",
+    "company": "NH농협카드",
+    "cashback": "커피\n50% 할인",
+    "benefit_place": "스트리밍\n20% 할인",
+    "discount": "영화\n30% 할인",
+    "overseas": "국내전용 10,000원 / 해외겸용 12,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "카페",
+            "content": "스타벅스(사이렌오더 포함) 50% 청구할인"
+        },
+        {
+            "category": "생활",
+            "content": "유튜브프리미엄, 넷플릭스, 멜론 정기결제 20% 청구할인\n배달의민족, 요기요 10% 청구할인"
+        },
+        {
+            "category": "영화",
+            "content": "CGV, 롯데시네마 30% 청구할인"
+        },
+        {
+            "category": "기타",
+            "content": "지하철, 버스 7% 청구할인\nSKT, KT, LGU+ 7% 청구할인"
+        },
+        {
+            "category": "쇼핑",
+            "content": "쿠팡, G마켓, 11번가, 티몬, 농협몰 5% 청구할인\nCU, GS25 5% 청구할인"
+        },
+        {
+            "category": "간편결제",
+            "content": "올원페이(NH앱카드)로 결제 시 건당 1천원 청구할인"
+        },
+        {
+            "category": "공항라운지",
+            "content": "국제공항 라운지 무료이용 연 1회 제공"
+        }
+    ]
+}

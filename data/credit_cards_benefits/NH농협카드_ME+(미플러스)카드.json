@@ -1,0 +1,31 @@
+{
+    "card_name": "ME+(미플러스)카드",
+    "company": "NH농협카드",
+    "cashback": "전국음식점\n7% 할인",
+    "benefit_place": "전국대중교통\n7% 할인",
+    "discount": "커피전문점\n30% 할인",
+    "overseas": "국내전용 23,000원 / 해외겸용 25,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "푸드",
+            "content": "전국 음식점 7% 청구할인(해외포함)"
+        },
+        {
+            "category": "교통",
+            "content": "전국 대중교통 7% 청구할인(해외포함)"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "국내외 온라인쇼핑 7% 청구할인"
+        },
+        {
+            "category": "카페",
+            "content": "국내외 커피전문점 30% 청구할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "전국 주요 놀이공원 할인"
+        }
+    ]
+}

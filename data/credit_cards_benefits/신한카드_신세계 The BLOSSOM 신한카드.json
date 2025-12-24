@@ -1,0 +1,35 @@
+{
+    "card_name": "신세계 The BLOSSOM 신한카드",
+    "company": "신한카드",
+    "cashback": "신세계백화점\n7% 할인",
+    "benefit_place": "신세계 계열사\n5% 할인",
+    "discount": "생활/쇼핑\n5% 할인",
+    "overseas": "국내전용 45,000원 / 해외겸용 48,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "백화점",
+            "content": "신세계백화점 최대 7% 할인, 마이신한포인트 1% 적립"
+        },
+        {
+            "category": "쇼핑",
+            "content": "신세계 계열사 5% 할인"
+        },
+        {
+            "category": "생활",
+            "content": "커피·배달앱·온라인서점·잡화 5% 할인"
+        },
+        {
+            "category": "멤버십포인트",
+            "content": "신세계 멤버십 혜택 제공"
+        },
+        {
+            "category": "프리미엄",
+            "content": "Platinum 서비스"
+        },
+        {
+            "category": "선택형",
+            "content": "플레이트 디자인 선택가능"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "card_name": "kt SUPER+ 카드",
+    "company": "BC 바로카드",
+    "cashback": "KT통신요금 최대\n25,000원 할인",
+    "benefit_place": "SK 주유소\n1% 할인",
+    "discount": "정보없음",
+    "overseas": "국내전용 15,000원 / 해외겸용 17,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "KT",
+            "content": "kt 통신요금 청구할인\n전월실적 별 월 최대 25,000원 할인"
+        },
+        {
+            "category": "주유소",
+            "content": "SK 주유소 1% 청구할인"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "국제 브랜드 서비스\nVISA Young Premium 서비스"
+        }
+    ]
+}

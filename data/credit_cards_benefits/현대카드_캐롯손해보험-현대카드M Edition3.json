@@ -1,0 +1,19 @@
+{
+    "card_name": "캐롯손해보험-현대카드M Edition3",
+    "company": "현대카드",
+    "cashback": "캐롯손해보험료 납부 시\n최대 24,000원 할인",
+    "benefit_place": "업종별\n0.5~3% 적립",
+    "discount": "현대,기아차 구매 시\n1.5% 특별적립",
+    "overseas": "국내 30,000원 / 해외겸용 30,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "제휴/PLCC",
+            "content": "캐롯손해보험료 청구 할인"
+        },
+        {
+            "category": "적립",
+            "content": "업종별 0.5~3% 적립\n월 100만원 이상 이용 시 1.5배 적립"
+        }
+    ]
+}

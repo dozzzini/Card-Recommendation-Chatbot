@@ -1,0 +1,27 @@
+{
+    "card_name": "the black",
+    "company": "현대카드",
+    "cashback": "단 1,000명에게 선사하는\nVVIP 카드",
+    "benefit_place": "바우처\n200만원 상당 제공",
+    "discount": "마티나 골드 라운지\n무료 이용",
+    "overseas": "국내전용 3,000,000원 / 해외겸용 3,000,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "바우처",
+            "content": "국내 Luxury/Gourmet 영역에서 카테고리 구분 없이 사용 가능한 바우처"
+        },
+        {
+            "category": "적립",
+            "content": "[기본 혜택] 대한항공 마일리지와 M포인트 중 선택 적립"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "[우대 서비스] the Black Concierge"
+        },
+        {
+            "category": "공항라운지",
+            "content": "[우대서비스] 인천국제공항 라운지 서비스·발레파킹 서비스"
+        }
+    ]
+}

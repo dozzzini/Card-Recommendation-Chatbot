@@ -1,0 +1,31 @@
+{
+    "card_name": "신한카드 Simple Platinum# Splendor Plus",
+    "company": "신한카드",
+    "cashback": "국내외 가맹점\n1% 캐시백",
+    "benefit_place": "생활밀착 가맹점\n1.7% 캐시백",
+    "discount": "온라인 영화 예매\n최대 3천원 할인",
+    "overseas": "국내전용 27,000원 / 해외겸용 27,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "캐시백",
+            "content": "국내외 가맹점 1% 캐시백\n생활밀착 가맹점 추가 0.7% 캐시백 (총 1.7% 캐시백)"
+        },
+        {
+            "category": "할인",
+            "content": "생활친화 가맹점 Coin-Save (잔돈할인)"
+        },
+        {
+            "category": "영화",
+            "content": "온라인 영화 예매 최대 3천원 할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "테마파크 서울랜드 50% 할인"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "Platinum# 공통 서비스"
+        }
+    ]
+}

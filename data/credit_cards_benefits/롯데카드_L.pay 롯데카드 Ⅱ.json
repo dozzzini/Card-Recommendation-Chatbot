@@ -1,0 +1,15 @@
+{
+    "card_name": "L.pay 롯데카드 Ⅱ",
+    "company": "롯데카드",
+    "cashback": "플러스가맹점 L.pay결제\n최대 1.5% 적립",
+    "benefit_place": "일반가맹점 결제\n최대 1% 적립",
+    "discount": "정보없음",
+    "overseas": "국내전용 10,000원 / 해외겸용 10,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "간편결제",
+            "content": "지난달 실적 30만원 이상 시, 1.5%~1.0% L.POINT 적립"
+        }
+    ]
+}

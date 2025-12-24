@@ -1,0 +1,35 @@
+{
+    "card_name": "AK KB국민카드",
+    "company": "KB국민카드",
+    "cashback": "AK플라자 최대\n10% 할인",
+    "benefit_place": "제주항공\n10% 할인",
+    "discount": "영화\n3,500원 할인",
+    "overseas": "해외겸용 12,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "백화점",
+            "content": "AK PLAZA 청구할인 최대 10%\nAK 멤버스 서비스"
+        },
+        {
+            "category": "생활",
+            "content": "[생활영역 청구 할인] 학원, 패밀리레스토랑,커피,미용실 5% 할인"
+        },
+        {
+            "category": "해피포인트",
+            "content": "[생활영역 청구 할인] 해피포인트 10% 할인"
+        },
+        {
+            "category": "제주항공",
+            "content": "[생활영역 청구 할인] 제주항공 10% 할인"
+        },
+        {
+            "category": "영화",
+            "content": "인터파크 영화예매 1매당 3,500원 청구 할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "놀이공원 최대 50% 할인"
+        }
+    ]
+}

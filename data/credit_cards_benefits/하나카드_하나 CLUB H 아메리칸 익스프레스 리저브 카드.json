@@ -1,0 +1,31 @@
+{
+    "card_name": "하나 CLUB H 아메리칸 익스프레스 리저브 카드",
+    "company": "하나카드",
+    "cashback": "국내 1,000원당\n1마일리지 적립",
+    "benefit_place": "해외 1,000원당\n2마일리지 적립",
+    "discount": "인천공항 라운지\n무료 입장",
+    "overseas": "해외겸용 150,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "항공마일리지",
+            "content": "국내 이용금액 1천원당 1마일리지 적립"
+        },
+        {
+            "category": "항공마일리지",
+            "content": "해외 이용금액 1천원당 2마일리지 적립"
+        },
+        {
+            "category": "공항라운지",
+            "content": "인천공항 라운지 무료 서비스"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "Special Service 메탈 플레이트 기본 제공"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "국제 브랜드 서비스"
+        }
+    ]
+}

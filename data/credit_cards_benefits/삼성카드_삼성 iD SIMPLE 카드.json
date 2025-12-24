@@ -1,0 +1,31 @@
+{
+    "card_name": "삼성 iD SIMPLE 카드",
+    "company": "삼성카드",
+    "cashback": "국내 외 가맹점\n0.7%·1% 할인",
+    "benefit_place": "온라인쇼핑몰 멤버십\n50% 할인",
+    "discount": "영화\n3,000원 할인",
+    "overseas": "국내전용 7,000원 / 해외겸용 7,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "모든가맹점",
+            "content": "국내외 가맹점 0.7% 할인"
+        },
+        {
+            "category": "모든가맹점",
+            "content": "국내외 가맹점 1% 할인"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "온라인쇼핑몰 멤버십 50% 할인\n전월 이용금액 30만원 이상 시 제공"
+        },
+        {
+            "category": "영화",
+            "content": "영화 3,000원 할인\n전월 이용금액 30만원 이상 시 제공"
+        },
+        {
+            "category": "선택형",
+            "content": "내 마음대로 고르는 디자인!"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "card_name": "신한카드 The CLASSIC-Y",
+    "company": "신한카드",
+    "cashback": "Gift Option\n매년1회 선택이용",
+    "benefit_place": "마이신한포인트\n0.7~5% 적립",
+    "discount": "GS칼텍스\n60원/L 할인",
+    "overseas": "해외겸용 100,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "선택형",
+            "content": "Gift Option Service - 매년 1회 옵션 품목 중 한 가지를 선택하여 이용"
+        },
+        {
+            "category": "모든가맹점",
+            "content": "일시불/할부 이용금액의 0.7% 마이신한포인트 적립\n해외, 명품 아울렛(신세계/롯데), 면세점, 골프 업종 이용 시 5% 마이신한포인트 적립"
+        },
+        {
+            "category": "주유소",
+            "content": "GS칼텍스 주유 시 리터당 60원 결제일 할인"
+        },
+        {
+            "category": "생활",
+            "content": "커피/제과/택시/화장품/영화 5% 할인"
+        },
+        {
+            "category": "면세점",
+            "content": "제주 JDC 면세점 이용 시 8% 할인"
+        },
+        {
+            "category": "진에어",
+            "content": "진에어 국제선 항공권 결제일 할인"
+        },
+        {
+            "category": "공연/전시",
+            "content": "오디오 가이드 및 오페라 글라스 무료 이용 서비스"
+        },
+        {
+            "category": "프리미엄",
+            "content": "국제브랜드사 서비스 공통사항 안내"
+        }
+    ]
+}

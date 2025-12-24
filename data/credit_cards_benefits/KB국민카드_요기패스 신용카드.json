@@ -1,0 +1,23 @@
+{
+    "card_name": "요기패스 신용카드",
+    "company": "KB국민카드",
+    "cashback": "요기패스 구독료\n9,900원 할인",
+    "benefit_place": "넷플릭스, 웨이브\n10% 할인",
+    "discount": "생활업종\n5% 할인",
+    "overseas": "국내전용 15,000원 / 해외겸용 15,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "디지털구독",
+            "content": "요기패스 멤버십 청구할인 9,900원\n넷플릭스, 웨이브 청구할인 10%"
+        },
+        {
+            "category": "생활",
+            "content": "생활업종 청구할인 5%"
+        },
+        {
+            "category": "선택형",
+            "content": "신용카드 디자인 선택"
+        }
+    ]
+}

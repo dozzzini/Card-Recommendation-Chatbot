@@ -1,0 +1,43 @@
+{
+    "card_name": "RAUME O",
+    "company": "삼성카드",
+    "cashback": "RAUME포인트\n0.5~2% 적립",
+    "benefit_place": "프리미엄\n기프트 바우처",
+    "discount": "동반자\n항공권 무료",
+    "overseas": "해외겸용 2,000,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "기타",
+            "content": "RAUME O 카드 소개"
+        },
+        {
+            "category": "기타",
+            "content": "RAUME 회원만을 위한 퍼스널 라이프 케어"
+        },
+        {
+            "category": "바우처",
+            "content": "골프, 호텔, 쇼핑 등 프리미엄 기프트 바우처 제공"
+        },
+        {
+            "category": "골프",
+            "content": "항공 및 골프클럽 우대 서비스 등"
+        },
+        {
+            "category": "프리미엄",
+            "content": "제휴 대상점 할인 및 우대 서비스"
+        },
+        {
+            "category": "멤버십포인트",
+            "content": "RAUME O 포인트 적립 서비스"
+        },
+        {
+            "category": "프리미엄",
+            "content": "RAUME 회원을 위한 특별한 혜택"
+        },
+        {
+            "category": "여행/숙박",
+            "content": "MASTER 서비스"
+        }
+    ]
+}

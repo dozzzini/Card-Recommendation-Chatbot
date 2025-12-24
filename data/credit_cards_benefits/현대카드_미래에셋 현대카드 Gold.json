@@ -1,0 +1,43 @@
+{
+    "card_name": "미래에셋 현대카드 Gold",
+    "company": "현대카드",
+    "cashback": "스탁마일리지\n3% 특별적립",
+    "benefit_place": "바우처 제공\n10만원 상당",
+    "discount": "공항 라운지\n연 2회 무료",
+    "overseas": "국내전용 150,000원 / 해외겸용 150,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "멤버십포인트",
+            "content": "스탁마일리지 3X-특별적립"
+        },
+        {
+            "category": "멤버십포인트",
+            "content": "스탁마일리지 2X-특별적립"
+        },
+        {
+            "category": "멤버십포인트",
+            "content": "스탁마일리지 1X-기본적립"
+        },
+        {
+            "category": "기타",
+            "content": "미래에셋증권 서비스등급 혜택"
+        },
+        {
+            "category": "바우처",
+            "content": "투자/쇼핑/호텔/골프 바우처 중 택1 10만원 상당 바우처 제공 (연 1회)"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "미래에셋 현대카드 Gold 회원만을 위한 프리미엄 서비스"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "VISA 프리미엄 서비스"
+        },
+        {
+            "category": "선택형",
+            "content": "플레이트 3종 선택"
+        }
+    ]
+}

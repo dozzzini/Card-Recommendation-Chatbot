@@ -1,0 +1,23 @@
+{
+    "card_name": "SolSol++(쏠쏠투플러스)카드",
+    "company": "NH농협카드",
+    "cashback": "주요 12대 생활업종\n최대 12% 할인",
+    "benefit_place": "커피\n10% 할인",
+    "discount": "국내선 동반자\n무료 항공권",
+    "overseas": "해외겸용 50,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "생활",
+            "content": "주요 12대 생활업종 3~12% 청구할인"
+        },
+        {
+            "category": "여행/숙박",
+            "content": "인천공항 캡슐호텔 3시간 무료 제공"
+        },
+        {
+            "category": "바우처",
+            "content": "바우처 서비스"
+        }
+    ]
+}

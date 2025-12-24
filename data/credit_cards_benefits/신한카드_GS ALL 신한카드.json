@@ -1,0 +1,23 @@
+{
+    "card_name": "GS ALL 신한카드",
+    "company": "신한카드",
+    "cashback": "GS리테일 결제\n최대 10% 적립",
+    "benefit_place": "GS Pay 결제\n추가 2% 적립",
+    "discount": "국내외 가맹점\n0.1% 적립",
+    "overseas": "국내전용 15,000원 / 해외겸용 18,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "SSM",
+            "content": "GS리테일에서 결제 시 GS ALL 포인트 최대 10% 특별 적립"
+        },
+        {
+            "category": "간편결제",
+            "content": "GS Pay 결제 시 GS ALL 포인트 2% 추가 적립"
+        },
+        {
+            "category": "국내외가맹점",
+            "content": "그 외 국내외 가맹점 이용 시 GS ALL 포인트 0.1% 기본 적립"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "card_name": "현대카드 X",
+    "company": "현대카드",
+    "cashback": "국내외 가맹점\n1% 청구 할인",
+    "benefit_place": "연간 최대\n10만원 캐시백",
+    "discount": "정보없음",
+    "overseas": "국내전용 50,000원 / 해외겸용 50,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "할인",
+            "content": "[기본적립] 국내외 가맹점 1% 청구 할인\n전월 이용 금액 50만원 이상 시"
+        },
+        {
+            "category": "캐시백",
+            "content": "연간 이용 금액에 따라 연간 최대 10만원 캐시백"
+        },
+        {
+            "category": "적립",
+            "content": ""
+        }
+    ]
+}

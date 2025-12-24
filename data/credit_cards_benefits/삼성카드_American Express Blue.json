@@ -1,0 +1,35 @@
+{
+    "card_name": "American Express Blue",
+    "company": "삼성카드",
+    "cashback": "해외\n5% 적립",
+    "benefit_place": "교통·통신\n5% 적립",
+    "discount": "편의점·배달앱\n7% 적립",
+    "overseas": "해외겸용 15,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "생활",
+            "content": "편의점·배달앱 7% 멤버십리워즈 적립"
+        },
+        {
+            "category": "디지털구독",
+            "content": "스트리밍서비스 20% 결제일 할인"
+        },
+        {
+            "category": "카페",
+            "content": "스타벅스·이디야 20% 결제일 할인"
+        },
+        {
+            "category": "통신",
+            "content": "교통·통신 5% 멤버십리워즈 적립"
+        },
+        {
+            "category": "쇼핑",
+            "content": "쇼핑 1.5% 멤버십리워즈 적립"
+        },
+        {
+            "category": "해외이용",
+            "content": "해외 5% 멤버십리워즈 적립"
+        }
+    ]
+}

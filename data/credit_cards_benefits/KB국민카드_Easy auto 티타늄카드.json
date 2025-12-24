@@ -1,0 +1,43 @@
+{
+    "card_name": "Easy auto 티타늄카드",
+    "company": "KB국민카드",
+    "cashback": "영화관\n3천점 적립",
+    "benefit_place": "자동차보험\n1만점 적립",
+    "discount": "SK, GS칼텍스\n150점/L 적립",
+    "overseas": "국내전용 30,000원 / 해외겸용 30,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "주유",
+            "content": "주유 리터당 150점 포인트리 적립"
+        },
+        {
+            "category": "자동차/하이패스",
+            "content": "오토케어 5% 포인트리 적립"
+        },
+        {
+            "category": "보험",
+            "content": "자동차보험 1만점 포인트리 적립"
+        },
+        {
+            "category": "OTT/영화/문화",
+            "content": "영화 3천점 포인트리 적립"
+        },
+        {
+            "category": "카페/디저트",
+            "content": "제과/아이스크림 2천점 포인트리 적립"
+        },
+        {
+            "category": "편의점",
+            "content": "편의점, 올리브영 1천점 포인트리 적립"
+        },
+        {
+            "category": "적립",
+            "content": "국내·외 가맹점 0.2% 포인트리 적립"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "Easy auto 티타늄 서비스"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "card_name": "트래블월렛 우리카드",
+    "company": "우리카드",
+    "cashback": "트래블 포인트\n최대 2.0% 적립",
+    "benefit_place": "해외 이용\n수수료 면제 서비스",
+    "discount": "정보없음",
+    "overseas": "국내전용 20,000원 / 해외겸용 20,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "적립",
+            "content": "트래블 포인트 적립 포인트"
+        },
+        {
+            "category": "수수료우대",
+            "content": "해외 이용 수수료 면제 서비스"
+        }
+    ]
+}

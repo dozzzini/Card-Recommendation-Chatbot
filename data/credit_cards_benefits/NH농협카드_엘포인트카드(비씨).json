@@ -1,0 +1,31 @@
+{
+    "card_name": "엘포인트카드(비씨)",
+    "company": "NH농협카드",
+    "cashback": "롯데쇼핑계열\n3% 적립",
+    "benefit_place": "생활업종\n1% 적립",
+    "discount": "하나로마트\n3% 할인",
+    "overseas": "해외겸용 15,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "멤버십포인트",
+            "content": "롯데 쇼핑계열 특별가맹점 L.POINT 적립"
+        },
+        {
+            "category": "멤버십포인트",
+            "content": "생활편의업종 L.POINT 적립"
+        },
+        {
+            "category": "대형마트",
+            "content": "농협하나로 클럽·마트 3% 청구할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "주요 놀이공원 할인"
+        },
+        {
+            "category": "멤버십포인트",
+            "content": "L.POINT 안내"
+        }
+    ]
+}

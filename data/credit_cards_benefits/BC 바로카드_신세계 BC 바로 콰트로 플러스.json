@@ -1,0 +1,39 @@
+{
+    "card_name": "신세계 BC 바로 콰트로 플러스",
+    "company": "BC 바로카드",
+    "cashback": "쇼핑\n5% 할인",
+    "benefit_place": "교통\n4% 할인",
+    "discount": "온라인몰\n7% 할인",
+    "overseas": "국내전용 5,000원 / 해외겸용 5,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "쇼핑",
+            "content": "[쇼핑] 신세계백화점·이마트 등 5% 할인"
+        },
+        {
+            "category": "교통",
+            "content": "[교통] 주유소·전기차·대중교통·택시 4% 할인"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "[온라인몰] SSG·쿠팡·G마켓·옥션·11번가 7% 할인"
+        },
+        {
+            "category": "생활",
+            "content": "[생활] 병원·약국·통신3사휴대폰요금 5% 할인"
+        },
+        {
+            "category": "푸드",
+            "content": "[커피/외식] 스타벅스·이디야·아웃백 등 10% 할인"
+        },
+        {
+            "category": "제휴/PLCC",
+            "content": "신세계백화점 제휴 서비스 제공"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "VISA Platinum 서비스 제공"
+        }
+    ]
+}

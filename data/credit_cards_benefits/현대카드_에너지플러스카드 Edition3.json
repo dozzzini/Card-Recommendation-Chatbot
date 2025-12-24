@@ -1,0 +1,27 @@
+{
+    "card_name": "에너지플러스카드 Edition3",
+    "company": "현대카드",
+    "cashback": "주유 리터당\n최대 300 M포인트 적립",
+    "benefit_place": "국내외 가맹점\n1% M포인트 한도 없이 적립",
+    "discount": "정보없음",
+    "overseas": "국내전용 30,000원 / 해외겸용 30,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "적립",
+            "content": "GS칼텍스 주유소 및 국내외 가맹점 이용 시 M포인트 적립"
+        },
+        {
+            "category": "바우처",
+            "content": "[우대 서비스] 2만원 바로할인 보너스 카드 제공(6개월마다 1만원씩 총 2만원)"
+        },
+        {
+            "category": "멤버십포인트",
+            "content": "[프로모션] GS칼텍스 주유 시 리터당 최대 150 M포인트 사용"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "VISA 플래티넘 서비스"
+        }
+    ]
+}

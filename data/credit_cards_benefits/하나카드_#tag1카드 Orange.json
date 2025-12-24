@@ -1,0 +1,27 @@
+{
+    "card_name": "#tag1카드 Orange",
+    "company": "하나카드",
+    "cashback": "커피\n25~50% 할인",
+    "benefit_place": "편의점\n5~10% 할인",
+    "discount": "통신요금\n5~10% 할인",
+    "overseas": "해외겸용 12,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "생활",
+            "content": "기본서비스(커피, 편의점, 통신, 영화할인)"
+        },
+        {
+            "category": "선택형",
+            "content": "선택서비스(쇼핑, 주유할인)"
+        },
+        {
+            "category": "대중교통",
+            "content": "우대PLUS서비스(대중교통, 외식할인)"
+        },
+        {
+            "category": "테마파크",
+            "content": "주요 놀이공원 현장할인"
+        }
+    ]
+}

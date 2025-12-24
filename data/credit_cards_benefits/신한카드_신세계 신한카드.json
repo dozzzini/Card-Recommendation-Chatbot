@@ -1,0 +1,27 @@
+{
+    "card_name": "신세계 신한카드",
+    "company": "신한카드",
+    "cashback": "신세계백화점\n5% 할인",
+    "benefit_place": "Life Care가맹점\n5% 할인",
+    "discount": "해외\n5% 캐시백",
+    "overseas": "해외겸용 12,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "백화점",
+            "content": "신세계백화점 5% 결제일 할인"
+        },
+        {
+            "category": "생활",
+            "content": "Life Care가맹점 5% 결제일 할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "롯데월드, 서울랜드 자유이용권 50% 할인"
+        },
+        {
+            "category": "해외",
+            "content": "해외 매출 5% 캐시백"
+        }
+    ]
+}

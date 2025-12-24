@@ -1,0 +1,23 @@
+{
+    "card_name": "넥센타이어 KB국민카드",
+    "company": "KB국민카드",
+    "cashback": "넥센타이어 렌탈료\n최대2만원 할인",
+    "benefit_place": "영화\n3,500원 할인",
+    "discount": "놀이공원 최대\n50% 할인",
+    "overseas": "해외겸용 12,000원 / 해외겸용 14,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "자동차",
+            "content": "넥센타이어 렌탈료 자동이체 시 1만 1천원 ~ 2만원 청구할인"
+        },
+        {
+            "category": "영화",
+            "content": "인터파크 영화예매 시 3,500원 청구할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "놀이공원 최대 50% 할인"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "card_name": "e플래티넘 롯데카드",
+    "company": "롯데카드",
+    "cashback": "스페셜 기프트\n2만원 캐시백",
+    "benefit_place": "스마일페이 가맹점 월 최대\n2만원 할인",
+    "discount": "스마일페이 가맹점 연 최대\n3만원 할인",
+    "overseas": "국내전용 18,000원 / 해외겸용 20,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "바우처",
+            "content": "스페셜기프트 - 매년 2만원 캐시백 지급"
+        },
+        {
+            "category": "간편결제",
+            "content": "e스타일할인 - 매월 스마일페이 및 롯데 제휴사 매장 결제일 할인"
+        },
+        {
+            "category": "간편결제",
+            "content": "e스마일할인 - 매년 스마일페이 가맹점 결제일 할인"
+        },
+        {
+            "category": "생활",
+            "content": "영라이프할인 - 라이프 가맹점 10~12% 결제일 할인"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "VISA Platinum 서비스"
+        }
+    ]
+}

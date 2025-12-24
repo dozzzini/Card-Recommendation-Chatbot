@@ -1,0 +1,19 @@
+{
+    "card_name": "Z:IN 인테리어 신한카드",
+    "company": "신한카드",
+    "cashback": "Z:IN\n장기할부 수수료 혜택",
+    "benefit_place": "Z:IN\n할부캐시백 제공",
+    "discount": "정보없음",
+    "overseas": "국내전용 22,000원 / 해외겸용 25,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "인테리어",
+            "content": "Z:IN 가맹 대리점에서 할부 이용 시 할부 수수료 혜택"
+        },
+        {
+            "category": "캐시백",
+            "content": "Z:IN 가맹 대리점 할부이용 캐시백"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "card_name": "갤러리아 KB국민카드",
+    "company": "KB국민카드",
+    "cashback": "갤러리아 백화점\n5% 현장할인",
+    "benefit_place": "갤러리아 백화점(Mall)\n5% 청구할인",
+    "discount": "갤러리아 백화점(Mall)\n천원당 1마일리지 적립",
+    "overseas": "국내전용 15,000원 / 해외겸용 15,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "백화점",
+            "content": "갤러리아 백화점 5% 현장할인"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "갤러리아 백화점(Mall) 5% 청구할인"
+        },
+        {
+            "category": "멤버십포인트",
+            "content": "갤러리아 마일리지 적립"
+        },
+        {
+            "category": "선택형",
+            "content": "갤러리아 KB국민카드 디자인 선택"
+        }
+    ]
+}

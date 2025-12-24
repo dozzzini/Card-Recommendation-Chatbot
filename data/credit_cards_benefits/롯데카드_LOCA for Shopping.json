@@ -1,0 +1,27 @@
+{
+    "card_name": "LOCA for Shopping",
+    "company": "롯데카드",
+    "cashback": "마트\n10% 할인",
+    "benefit_place": "온라인쇼핑\n10% 할인",
+    "discount": "편의점\n10% 할인",
+    "overseas": "국내전용 20,000원 / 해외겸용 20,000원",
+    "performance": "전월실적 150만원 이상",
+    "benefit": [
+        {
+            "category": "대형마트",
+            "content": "이마트ㆍ홈플러스ㆍ롯데마트 10% 할인"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "쿠팡ㆍ위메프ㆍ티몬ㆍG마켓 ㆍ옥션ㆍ11번가 10% 할인"
+        },
+        {
+            "category": "홈쇼핑",
+            "content": "롯데ㆍ GSㆍNSㆍ현대ㆍCJㆍ홈앤쇼핑 10% 할인"
+        },
+        {
+            "category": "편의점",
+            "content": "세븐일레븐ㆍGS25ㆍCU 10% 할인"
+        }
+    ]
+}

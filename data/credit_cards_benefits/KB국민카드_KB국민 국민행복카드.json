@@ -1,0 +1,31 @@
+{
+    "card_name": "KB국민 국민행복카드",
+    "company": "KB국민카드",
+    "cashback": "쇼핑\n5% 할인",
+    "benefit_place": "교육, 학습지\n5% 할인",
+    "discount": "관리비, 통신비\n5% 할인",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "국민행복",
+            "content": "국가바우처 제공"
+        },
+        {
+            "category": "쇼핑",
+            "content": "대형마트/온라인쇼핑몰/홈쇼핑 5% 할인"
+        },
+        {
+            "category": "교육/육아",
+            "content": "키즈카페/문화센터/학습지 5% 할인"
+        },
+        {
+            "category": "공과금",
+            "content": "통신료/아파트관리비 5% 할인"
+        },
+        {
+            "category": "보험사",
+            "content": "단체보험 무료가입"
+        }
+    ]
+}

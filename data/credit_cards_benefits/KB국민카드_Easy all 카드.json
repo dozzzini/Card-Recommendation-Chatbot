@@ -1,0 +1,23 @@
+{
+    "card_name": "Easy all 카드",
+    "company": "KB국민카드",
+    "cashback": "16개 영역 중\n선택형 할인",
+    "benefit_place": "배달앱\n10% 할인",
+    "discount": "대중교통\n7% 할인",
+    "overseas": "국내전용 20,000원 / 해외겸용 20,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "선택형",
+            "content": "Easy all 선택 서비스(택1)"
+        },
+        {
+            "category": "선택형",
+            "content": "1. Auto 모드 (많이 쓴 영역에서 자동 캐시백)\n2. DIY 모드 (원하는 영역에서 자유롭게 청구할인)"
+        },
+        {
+            "category": "프리미엄",
+            "content": "Visa Young Premium 서비스"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "card_name": "LOCA in MEGACITY",
+    "company": "롯데카드",
+    "cashback": "테마파크\n10% 할인",
+    "benefit_place": "오프라인 쇼핑\n5% 할인",
+    "discount": "온라인 쇼핑\n5% 할인",
+    "overseas": "국내전용 20,000원 / 해외겸용 20,000원",
+    "performance": "전월실적 150만원 이상",
+    "benefit": [
+        {
+            "category": "테마파크",
+            "content": "[지역 특화 서비스]롯데월드 부산, 스카이라인루지 부산 10% 할인"
+        },
+        {
+            "category": "경기관람",
+            "content": "[지역 특화 서비스] 롯데자이언츠 관람권 10% 할인"
+        },
+        {
+            "category": "쇼핑",
+            "content": "[지역 특화 서비스] 오프라인 쇼핑 5% 할인"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "[지역 특화 서비스] 온라인 쇼핑 5% 할인"
+        }
+    ]
+}

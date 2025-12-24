@@ -1,0 +1,19 @@
+{
+    "card_name": "산림조합-현대카드M(청구할인형)",
+    "company": "현대카드",
+    "cashback": "산림조합 납부금액\n최대 17,000원 할인",
+    "benefit_place": "국내외 전 가맹점\n0.2% 적립",
+    "discount": "현대,기아차 구매 시\n1.5% 특별적립",
+    "overseas": "국내 10,000원 / 해외겸용 10,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "제휴/PLCC",
+            "content": "산림조합상조 납부금액 청구 할인"
+        },
+        {
+            "category": "적립",
+            "content": "국내외 가맹점에서 0.2% M포인트 적립"
+        }
+    ]
+}

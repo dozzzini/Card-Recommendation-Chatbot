@@ -1,0 +1,31 @@
+{
+    "card_name": "신한카드 The CLASSIC-S",
+    "company": "신한카드",
+    "cashback": "이용금액\n1% 기본적립",
+    "benefit_place": "이용금액\n0.5% 추가적립",
+    "discount": "해외, 면세점\n2% 추가적립",
+    "overseas": "국내전용 97,000원 / 해외겸용 100,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "모든가맹점",
+            "content": "일시불, 할부 이용금액 마이신한포인트 1% 적립\n전월 300만원 이상 이용 시 일시불, 할부 이용금액 0.5% 추가적립"
+        },
+        {
+            "category": "해외",
+            "content": "[Travel 적립] 해외/면세점 이용금액 2% 추가 적립(전월실적 50만원 이상)"
+        },
+        {
+            "category": "적립",
+            "content": "[Bouns 적립] 분기당 1천만원 이상 이용 시 보너스 포인트 적립"
+        },
+        {
+            "category": "공항라운지",
+            "content": "The Lounge Members 본인+동반 1인 공항 라운지 무료 입장 서비스(전월실적 50만원 이상)"
+        },
+        {
+            "category": "프리미엄",
+            "content": "국제 브랜드사 서비스 (플래티늄 등급 선택 시 제공)"
+        }
+    ]
+}

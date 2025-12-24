@@ -1,0 +1,19 @@
+{
+    "card_name": "올라운드카드",
+    "company": "KB국민카드",
+    "cashback": "전 가맹점\n0.8% 적립",
+    "benefit_place": "선택 서비스\n2개 중 택 1 할인",
+    "discount": "정보없음",
+    "overseas": "해외겸용 15,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "모든가맹점",
+            "content": "전 가맹점 적립 서비스"
+        },
+        {
+            "category": "선택형",
+            "content": "선택 할인서비스 (2종 중 택1)"
+        }
+    ]
+}

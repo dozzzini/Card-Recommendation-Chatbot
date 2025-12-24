@@ -1,0 +1,31 @@
+{
+    "card_name": "삼성 iD STATION 카드 (GS칼텍스)",
+    "company": "삼성카드",
+    "cashback": "GS칼텍스\n10% 할인",
+    "benefit_place": "통신\n5% 할인",
+    "discount": "편의점\n5% 할인",
+    "overseas": "국내전용 15,000원 / 해외겸용 15,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "주유",
+            "content": "GS칼텍스에서 주유 시 10% 결제일할인"
+        },
+        {
+            "category": "통신",
+            "content": "통신요금 정기결제 시 5% 결제일할인"
+        },
+        {
+            "category": "편의점",
+            "content": "편의점 5% 결제일할인"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "온라인쇼핑몰 5% 결제일할인"
+        },
+        {
+            "category": "적립",
+            "content": "GS&POINT 적립 서비스"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "card_name": "LG전자 The 구독케어 신한카드",
+    "company": "신한카드",
+    "cashback": "LG전자 구독요금\n월 최대 2만원 결제일 할인",
+    "benefit_place": "LG전자 구독요금\n1만 포인트 적립 (월 1회)",
+    "discount": "정보없음",
+    "overseas": "국내전용 22,000원 / 해외겸용 25,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "할인",
+            "content": "LG전자 구독요금 결제일 할인"
+        },
+        {
+            "category": "적립",
+            "content": "LG전자 구독요금 포인트 적립"
+        }
+    ]
+}

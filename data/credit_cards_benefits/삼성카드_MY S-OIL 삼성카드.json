@@ -1,0 +1,27 @@
+{
+    "card_name": "MY S-OIL 삼성카드",
+    "company": "삼성카드",
+    "cashback": "S-OIL\n10% 할인",
+    "benefit_place": "스타벅스\n30% 할인",
+    "discount": "고속도로 통행료\n10% 할인",
+    "overseas": "국내전용 20,000원 / 해외겸용 20,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "주유소",
+            "content": "S-OIL 주유 10% 결제일할인"
+        },
+        {
+            "category": "카페",
+            "content": "스타벅스 드라이브스루 30% 결제일할인"
+        },
+        {
+            "category": "하이패스",
+            "content": "고속도로 통행료 10% 결제일할인"
+        },
+        {
+            "category": "기타",
+            "content": "주차장/대리운전 10% 결제일 할인"
+        }
+    ]
+}

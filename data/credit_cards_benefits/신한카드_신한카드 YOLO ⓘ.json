@@ -1,0 +1,43 @@
+{
+    "card_name": "신한카드 YOLO ⓘ",
+    "company": "신한카드",
+    "cashback": "6개가맹점\n할인율 선택",
+    "benefit_place": "스타벅스\n쿠폰 제공",
+    "discount": "정보없음",
+    "overseas": "국내전용 15,000원 / 해외겸용 18,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "선택형",
+            "content": "할인율 선택 서비스"
+        },
+        {
+            "category": "카페",
+            "content": "스타벅스, 커피빈"
+        },
+        {
+            "category": "편의점",
+            "content": "GS25, 세븐일레븐, CU"
+        },
+        {
+            "category": "소셜커머스",
+            "content": "소셜커머스"
+        },
+        {
+            "category": "택시",
+            "content": "택시"
+        },
+        {
+            "category": "베이커리",
+            "content": "파리바게트, 뚜레쥬르"
+        },
+        {
+            "category": "영화",
+            "content": "CGV, 롯데시네마"
+        },
+        {
+            "category": "카페",
+            "content": "스타벅스 모바일쿠폰 보너스 리워드"
+        }
+    ]
+}

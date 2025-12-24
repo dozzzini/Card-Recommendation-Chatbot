@@ -1,0 +1,39 @@
+{
+    "card_name": "MG+ BLACK 하나카드",
+    "company": "MG새마을금고",
+    "cashback": "프리미엄 바우처, 공항라운지\n무료 이용",
+    "benefit_place": "해외여행, 쇼핑, 골프\n10% 청구할인",
+    "discount": "커피, 택시\n50% 청구할인",
+    "overseas": "국내전용 120,000원 / 해외겸용 120,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "바우처",
+            "content": "프리미엄 바우처 제공"
+        },
+        {
+            "category": "해외",
+            "content": "해외여행 10% 청구할인"
+        },
+        {
+            "category": "쇼핑",
+            "content": "쇼핑 10% 청구할인"
+        },
+        {
+            "category": "골프",
+            "content": "골프 10% 청구할인"
+        },
+        {
+            "category": "카페",
+            "content": "커피 50% 청구할인"
+        },
+        {
+            "category": "택시",
+            "content": "택시 50% 청구할인"
+        },
+        {
+            "category": "공항라운지",
+            "content": "전세계 공항라운지 무료이용 (연 3회)"
+        }
+    ]
+}

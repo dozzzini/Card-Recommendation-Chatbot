@@ -1,0 +1,31 @@
+{
+    "card_name": "케이뱅크 ALPHA카드",
+    "company": "케이뱅크",
+    "cashback": "매달 내 맘대로\n5개 혜택 골라 받기",
+    "benefit_place": "교통카드\n기능 지원",
+    "discount": "전국 어디서나\nATM수수료 무료",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "혜택 프로모션",
+            "content": "[2025.05.17~2025.08.31] 매달 내 맘대로 5개 혜택, 최대 5천원 캐시백"
+        },
+        {
+            "category": "교통",
+            "content": "교통카드 기능"
+        },
+        {
+            "category": "수수료우대",
+            "content": "전국 어디서나 ATM 수수료 무료"
+        },
+        {
+            "category": "간편결제",
+            "content": "카드 신청 즉시 Pay 서비스 등록"
+        },
+        {
+            "category": "수수료우대",
+            "content": "친구에게 평생 무료로 송금"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "card_name": "BeV V카드(포인트형)",
+    "company": "KB국민카드",
+    "cashback": "쿠폰 서비스\n연 1회 제공",
+    "benefit_place": "주중 월~목\n1.2~1.5% 적립",
+    "discount": "주말 금~일\n1.5~3% 적립",
+    "overseas": "해외겸용 295,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "바우처",
+            "content": "쿠폰서비스\n(카드 발급 첫해:100만원이상 이용 시, 다음해 이후:전년도 1000만원 이상 이용 시)"
+        },
+        {
+            "category": "적립",
+            "content": "포인트리 적립"
+        },
+        {
+            "category": "프리미엄",
+            "content": "BeV Ⅴ카드 공통 서비스"
+        }
+    ]
+}

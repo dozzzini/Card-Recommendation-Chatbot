@@ -1,0 +1,31 @@
+{
+    "card_name": "신한카드 The BEST-XO",
+    "company": "신한카드",
+    "cashback": "기본 리워드\n1% 적립(마이신한포인트형)",
+    "benefit_place": "기본 리워드\n1,500원 당 1마일 적립(스카이패스형)",
+    "discount": "연 1회\n최대 25만원 기프트 제공",
+    "overseas": "국내전용 297,000원 / 해외겸용 300,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "적립",
+            "content": "[기본 리워드] 이용금액 1% 적립(마이신한포인트형) / 1,500원 당 1마일 적립(스카이패스형)"
+        },
+        {
+            "category": "바우처",
+            "content": "Gift Option 서비스 (연 1회/ 택 1/ 연회비 주기 내 1백만원 이상)"
+        },
+        {
+            "category": "바우처",
+            "content": "Bonus Gift 서비스 (연간 누적실적 3천만원 이상)"
+        },
+        {
+            "category": "생활",
+            "content": "[Life Experience 서비스] 커피전문점 2천원 할인/택시 이용금액 7% 할인 (전월실적 50만원 이상)"
+        },
+        {
+            "category": "공항라운지",
+            "content": "THE LOUNGE 서비스 (전월실적 50만원 이상)"
+        }
+    ]
+}

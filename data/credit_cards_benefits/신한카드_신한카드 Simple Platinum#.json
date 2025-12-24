@@ -1,0 +1,31 @@
+{
+    "card_name": "신한카드 Simple Platinum#",
+    "company": "신한카드",
+    "cashback": "국내외 가맹점\n1% 캐시백",
+    "benefit_place": "생활밀착가맹점\n0.7% 추가캐시백",
+    "discount": "생활친화가맹점\n월 10회 잔돈 할인",
+    "overseas": "해외겸용 30,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "국내외가맹점",
+            "content": "국내외 가맹점 1%, 생활밀착 가맹점 추가 0.7% 캐시백"
+        },
+        {
+            "category": "생활",
+            "content": "잔돈 할인 서비스(Coin-Save)"
+        },
+        {
+            "category": "영화",
+            "content": "온라인 영화 예매 할인 (전월실적 30만원 이상)"
+        },
+        {
+            "category": "테마파크",
+            "content": "서울랜드 50% 할인 (전월실적 30만원 이상)"
+        },
+        {
+            "category": "프리미엄",
+            "content": "Platinum# 서비스 및 국제브랜드사 서비스 (전월실적 30만원 이상)"
+        }
+    ]
+}

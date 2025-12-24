@@ -1,0 +1,15 @@
+{
+    "card_name": "후불하이패스카드(비씨)",
+    "company": "NH농협카드",
+    "cashback": "출퇴근시간\n20~50% 할인",
+    "benefit_place": "정보없음",
+    "discount": "정보없음",
+    "overseas": "해외겸용 2,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "자동차/하이패스",
+            "content": "출퇴근 시간대 통행료 자동할인"
+        }
+    ]
+}

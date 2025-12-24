@@ -1,0 +1,19 @@
+{
+    "card_name": "땡겨요 신한카드",
+    "company": "신한카드",
+    "cashback": "땡겨요앱 이용시\n10% 포인트 적립",
+    "benefit_place": "편의점 이용시\n5% 포인트 적립",
+    "discount": "정보없음",
+    "overseas": "국내전용 15,000원 / 해외겸용 18,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "배달앱",
+            "content": "땡겨요앱 이용금액 마이신한포인트 10% 적립"
+        },
+        {
+            "category": "편의점",
+            "content": "편의점 이용금액 마이신한포인트 5% 적립"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "card_name": "제주항공 Refresh Point 카드",
+    "company": "IBK기업은행",
+    "cashback": "1,000원당\n10~30P 적립",
+    "benefit_place": "국내공항\n라운지 무료이용",
+    "discount": "정보없음",
+    "overseas": "해외겸용 20,000원 / 해외겸용 22,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "제주항공",
+            "content": "JEJU Air Refresh Point 적립 서비스"
+        },
+        {
+            "category": "공항",
+            "content": "JEJU AirCafe 할인 서비스"
+        },
+        {
+            "category": "공항라운지",
+            "content": "공항라운지, 발렛파킹 등 플래티늄 서비스"
+        }
+    ]
+}

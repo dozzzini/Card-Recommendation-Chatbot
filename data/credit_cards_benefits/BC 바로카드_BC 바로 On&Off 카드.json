@@ -1,0 +1,35 @@
+{
+    "card_name": "BC 바로 On&Off 카드",
+    "company": "BC 바로카드",
+    "cashback": "간편결제·온라인\n10% 할인",
+    "benefit_place": "대중교통·택시\n10% 할인",
+    "discount": "해외가맹점\n10% 할인",
+    "overseas": "국내전용 5,000원 / 해외겸용 5,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "간편결제",
+            "content": "온라인/간편결제 10% 결제일 할인"
+        },
+        {
+            "category": "푸드",
+            "content": "음식점/커피 10% 결제일 할인"
+        },
+        {
+            "category": "교통",
+            "content": "버스/지하철/택시 10% 결제일 할인"
+        },
+        {
+            "category": "해외",
+            "content": "해외 10% 결제일 할인"
+        },
+        {
+            "category": "무이자할부",
+            "content": "무이자할부 서비스"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "국제 브랜드 서비스"
+        }
+    ]
+}

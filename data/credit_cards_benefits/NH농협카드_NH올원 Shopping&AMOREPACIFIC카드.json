@@ -1,0 +1,23 @@
+{
+    "card_name": "NH올원 Shopping&AMOREPACIFIC카드",
+    "company": "NH농협카드",
+    "cashback": "뷰티\n5~10% 할인",
+    "benefit_place": "커피\n10% 할인",
+    "discount": "베이커리\n5% 할인",
+    "overseas": "국내전용 10,000원 / 해외겸용 12,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "화장품",
+            "content": "아모레퍼시픽 가맹점 5~10% 청구할인"
+        },
+        {
+            "category": "생활",
+            "content": "커피, 베이커리, 아이스크림, 영화 할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "전국 주요 놀이공원 할인 최대 50%"
+        }
+    ]
+}

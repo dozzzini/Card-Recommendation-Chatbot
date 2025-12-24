@@ -1,0 +1,27 @@
+{
+    "card_name": "LOCA LIKIT Play",
+    "company": "롯데카드",
+    "cashback": "주유소\n60% 할인",
+    "benefit_place": "영화\n60% 할인",
+    "discount": "구독서비스\n60% 할인",
+    "overseas": "국내전용 10,000원 / 해외겸용 10,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "주유소",
+            "content": "SK에너지, S-OIL, GS칼텍스, 현대오일뱅크 60% 결제일 할인"
+        },
+        {
+            "category": "영화",
+            "content": "롯데시네마, CGV, 메가박스 60% 결제일 할인"
+        },
+        {
+            "category": "디지털구독",
+            "content": "넷플릭스, 왓챠, 유튜브, 멜론, 지니 60% 결제일 할인"
+        },
+        {
+            "category": "디지털구독",
+            "content": "쿠팡 로켓와우, 네이버플러스 멤버십 60% 결제일 할인"
+        }
+    ]
+}

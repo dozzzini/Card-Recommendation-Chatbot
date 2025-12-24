@@ -1,0 +1,23 @@
+{
+    "card_name": "LOCA for Health",
+    "company": "롯데카드",
+    "cashback": "병원\n10% 할인",
+    "benefit_place": "쇼핑\n5% 할인",
+    "discount": "대중교통\n10% 할인",
+    "overseas": "국내전용 20,000원 / 해외겸용 20,000원",
+    "performance": "전월실적 150만원 이상",
+    "benefit": [
+        {
+            "category": "병원",
+            "content": "병원ㆍ약국ㆍ동물병원 10% 할인"
+        },
+        {
+            "category": "쇼핑",
+            "content": "백화점, 슈퍼 5% 할인"
+        },
+        {
+            "category": "대중교통",
+            "content": "버스ㆍ지하철 10% 할인"
+        }
+    ]
+}

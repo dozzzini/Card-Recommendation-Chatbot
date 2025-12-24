@@ -1,0 +1,31 @@
+{
+    "card_name": "에버랜드 판다카드(푸바오 에디션)",
+    "company": "KB국민카드",
+    "cashback": "에버랜드\n50% 현장할인",
+    "benefit_place": "SK주유소\n60원/L 청구할인",
+    "discount": "VIPS, 아웃백, TGIF\n20% 청구할인",
+    "overseas": "해외겸용 12,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "테마파크",
+            "content": "에버랜드 종일권(대인 동반 소인 1매) 50% 현장할인\n캐리비안베이 종일권 30% 현장할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "직영 기념품 매장 20% 현장할인\n정기권 10% 현장할인"
+        },
+        {
+            "category": "주유",
+            "content": "SK주유소 리터당 60원 청구할인"
+        },
+        {
+            "category": "패밀리레스토랑",
+            "content": "VIPS, 아웃백, TGIF 20% 청구할인"
+        },
+        {
+            "category": "레저/스포츠",
+            "content": "스타포유㈜와 제휴된 전통고택, 글램핑, 카라반 우대 할인"
+        }
+    ]
+}

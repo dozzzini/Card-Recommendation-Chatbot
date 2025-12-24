@@ -1,0 +1,23 @@
+{
+    "card_name": "I-ALL",
+    "company": "IBK기업은행",
+    "cashback": "국내·외 가맹점\n0.5% 할인",
+    "benefit_place": "홈쇼핑, 배달앱, 대형마트\n최대 1.5% 할인",
+    "discount": "OTT, 온라인멤버십\n최대 7% 할인",
+    "overseas": "국내전용 14,000원 / 해외겸용 15,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "모든가맹점",
+            "content": "ALL - 국내·외 가맹점 0.5% 할인"
+        },
+        {
+            "category": "생활",
+            "content": "LIVING - 1%~1.5% 할인\n온라인쇼핑, 홈쇼핑, 배달앱, 대형마트, 커피, 편의점, 교통, 주유/충전, 통신, 반려동물"
+        },
+        {
+            "category": "디지털구독",
+            "content": "MEMBERSHIP - 5%~7% 할인"
+        }
+    ]
+}

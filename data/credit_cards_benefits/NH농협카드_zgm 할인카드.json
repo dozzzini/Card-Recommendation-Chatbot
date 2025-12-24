@@ -1,0 +1,23 @@
+{
+    "card_name": "zgm 할인카드",
+    "company": "NH농협카드",
+    "cashback": "국내외 가맹점\n최대 2% 할인",
+    "benefit_place": "공과금\n10% 할인",
+    "discount": "디지털 구독\n30% 할인",
+    "overseas": "국내전용 27,000원 / 해외겸용 30,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "할인",
+            "content": "[기본할인] 국내 전 가맹점 1%, NH페이 및 해외 2% 청구할인"
+        },
+        {
+            "category": "생활",
+            "content": "[생활할인] 매월 생활비 10%, 디지털 구독 30% 청구할인"
+        },
+        {
+            "category": "공항라운지",
+            "content": "전세계 공항 라운지 무료 이용 (The Lounge / 더 라운지)"
+        }
+    ]
+}
