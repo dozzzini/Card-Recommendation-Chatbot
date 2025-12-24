@@ -8,3 +8,6 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+
+rag/rag_v1_0.ipynb
+rag/rag_v1_00.ipynb
