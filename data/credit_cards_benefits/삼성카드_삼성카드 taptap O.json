@@ -1,0 +1,31 @@
+{
+    "card_name": "삼성카드 taptap O",
+    "company": "삼성카드",
+    "cashback": "스타벅스\n50% 할인",
+    "benefit_place": "대중교통\n10% 할인",
+    "discount": "CGV, 롯데시네마\n5,000원 할인",
+    "overseas": "국내전용 10,000원 / 해외겸용 10,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "선택형",
+            "content": "라이프스타일 패키지 선택"
+        },
+        {
+            "category": "대중교통",
+            "content": "대중교통·택시 10% 결제일할인"
+        },
+        {
+            "category": "통신",
+            "content": "이동통신요금 10% 결제일할인"
+        },
+        {
+            "category": "영화",
+            "content": "CGV 및 롯데시네마 5,000원 결제일할인"
+        },
+        {
+            "category": "해외",
+            "content": "해외 1.3% 적립"
+        }
+    ]
+}

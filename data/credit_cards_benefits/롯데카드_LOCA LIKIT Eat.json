@@ -1,0 +1,27 @@
+{
+    "card_name": "LOCA LIKIT Eat",
+    "company": "롯데카드",
+    "cashback": "음식점\n60% 할인",
+    "benefit_place": "배달앱\n60% 할인",
+    "discount": "커피\n60% 할인",
+    "overseas": "국내전용 10,000원 / 해외겸용 10,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "일반음식점",
+            "content": "음식점 60% 결제일 할인"
+        },
+        {
+            "category": "배달앱",
+            "content": "배달의 민족, 쿠팡이츠, 요기요 60% 결제일 할인"
+        },
+        {
+            "category": "카페",
+            "content": "스타벅스, 투썸플레이스, 할리스커피, 폴바셋 60% 결제일 할인"
+        },
+        {
+            "category": "디지털구독",
+            "content": "쿠팡 로켓와우, 네이버플러스 멤버십 60% 결제일 할인"
+        }
+    ]
+}

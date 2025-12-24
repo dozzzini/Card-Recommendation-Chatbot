@@ -1,0 +1,19 @@
+{
+    "card_name": "카드의정석 EVERY POINT",
+    "company": "우리카드",
+    "cashback": "국내외 가맹점\n0.8% 적립",
+    "benefit_place": "간편결제\n2% 추가 적립",
+    "discount": "정보없음",
+    "overseas": "국내전용 12,000원 / 해외겸용 12,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "적립",
+            "content": "[기본 적립] 국내외 가맹점 0.8% 적립"
+        },
+        {
+            "category": "간편결제",
+            "content": "[추가 적립] 국내 온라인 간편결제 2% 추가 적립"
+        }
+    ]
+}

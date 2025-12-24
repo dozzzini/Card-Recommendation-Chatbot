@@ -1,0 +1,39 @@
+{
+    "card_name": "American Express Blue KB Kookmin Card",
+    "company": "KB국민카드",
+    "cashback": "온라인 쇼핑\n10% 할인",
+    "benefit_place": "주유\n100원/L 할인",
+    "discount": "패밀리레스토랑\n30% 할인",
+    "overseas": "해외겸용 19,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "온라인쇼핑",
+            "content": "온라인 쇼핑 10% 할인 (KB Pay 결제 시)"
+        },
+        {
+            "category": "주유",
+            "content": "주유 100원/L, 편의점 5% 할인"
+        },
+        {
+            "category": "통신",
+            "content": "이동통신 10%, OTT 30% 할인"
+        },
+        {
+            "category": "패밀리레스토랑",
+            "content": "패밀리레스토랑 30% 할인"
+        },
+        {
+            "category": "해외이용",
+            "content": "해외 가맹점 5% 할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "놀이공원 현장 할인"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "Amex Selects(셀렉츠) 서비스"
+        }
+    ]
+}

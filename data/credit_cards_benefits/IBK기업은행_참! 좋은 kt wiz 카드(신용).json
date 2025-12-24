@@ -1,0 +1,47 @@
+{
+    "card_name": "참! 좋은 kt wiz 카드(신용)",
+    "company": "IBK기업은행",
+    "cashback": "국내가맹점\n0.2~0.4% 적립",
+    "benefit_place": "kt wiz\n입장권/야구용품 할인",
+    "discount": "마트/외식/쇼핑 등\n5~20% 할인",
+    "overseas": "해외겸용 2,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "모든가맹점",
+            "content": "TOP포인트 적립 서비스"
+        },
+        {
+            "category": "주유소",
+            "content": "[부가 서비스] 전 주유소 리터당 60원 할인"
+        },
+        {
+            "category": "대형마트",
+            "content": "[부가 서비스] 마트(대형 할인점) 5% 할인"
+        },
+        {
+            "category": "영화",
+            "content": "[친구 서비스] 전국 영화관 8,000원 할인"
+        },
+        {
+            "category": "소셜커머스",
+            "content": "[친구 서비스] 소셜커머스 20% 할인"
+        },
+        {
+            "category": "카페",
+            "content": "[친구 서비스] 주요 커피전문점 20% 할인"
+        },
+        {
+            "category": "패밀리레스토랑",
+            "content": "[친구 서비스] 외식 업종 20% 할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "[부가 서비스] 주요 놀이공원 무료입장 또는 입장료/자유이용권 할인"
+        },
+        {
+            "category": "경기관람",
+            "content": "[kt wiz 서비스] 입장권 및 야구용품 할인"
+        }
+    ]
+}

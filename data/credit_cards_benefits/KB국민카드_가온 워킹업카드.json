@@ -1,0 +1,19 @@
+{
+    "card_name": "가온 워킹업카드",
+    "company": "KB국민카드",
+    "cashback": "국내가맹점\n0.7% 적립",
+    "benefit_place": "건강관련\n2.3% 추가적립",
+    "discount": "해외이용금액\n3% 캐시백",
+    "overseas": "해외겸용 15,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "모든가맹점",
+            "content": "국내 전 가맹점 0.7% 기본적립"
+        },
+        {
+            "category": "해외",
+            "content": "해외이용금액 3% 할인 캐시백"
+        }
+    ]
+}

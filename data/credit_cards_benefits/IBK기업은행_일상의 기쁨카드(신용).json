@@ -1,0 +1,51 @@
+{
+    "card_name": "일상의 기쁨카드(신용)",
+    "company": "IBK기업은행",
+    "cashback": "대중교통\n200원 할인",
+    "benefit_place": "영화\n10,000원 할인",
+    "discount": "커피전문점\n20% 할인",
+    "overseas": "해외겸용 10,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "대중교통",
+            "content": "대중교통 할인"
+        },
+        {
+            "category": "영화",
+            "content": "영화 할인"
+        },
+        {
+            "category": "카페",
+            "content": "커피전문점 할인"
+        },
+        {
+            "category": "주유소",
+            "content": "주유소 할인"
+        },
+        {
+            "category": "편의점",
+            "content": "편의점 할인"
+        },
+        {
+            "category": "드럭스토어",
+            "content": "올리브영 할인"
+        },
+        {
+            "category": "대형마트",
+            "content": "마트 할인"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "온라인쇼핑 할인"
+        },
+        {
+            "category": "기타",
+            "content": "금융우대서비스"
+        },
+        {
+            "category": "테마파크",
+            "content": "놀이공원 할인"
+        }
+    ]
+}

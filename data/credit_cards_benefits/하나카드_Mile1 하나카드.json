@@ -1,0 +1,23 @@
+{
+    "card_name": "Mile1 하나카드",
+    "company": "하나카드",
+    "cashback": "국내 6대 저비용 항공사\n45 UniMile 적립",
+    "benefit_place": "해외·면세점·여행사\n35 UniMile 적립",
+    "discount": "인천공항 라운지\n무료 이용",
+    "overseas": "국내전용 20,000원 / 해외겸용 20,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "항공마일리지",
+            "content": "UniMile 적립"
+        },
+        {
+            "category": "공항라운지",
+            "content": "[Global 서비스] 인천공항 라운지 무료 입장 및 위탁수화물 서비스"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "UPI 플래티늄 서비스"
+        }
+    ]
+}

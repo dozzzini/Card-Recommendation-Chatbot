@@ -1,0 +1,27 @@
+{
+    "card_name": "국민행복카드(비씨)",
+    "company": "NH농협카드",
+    "cashback": "어린이집/유치원\n5% 할인",
+    "benefit_place": "병·의원\n5% 할인",
+    "discount": "각종\n정부보조금 지원",
+    "overseas": "해외겸용 없음",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "국민행복",
+            "content": "임신출산, 보육료/유아학비 등 지원"
+        },
+        {
+            "category": "멤버십포인트",
+            "content": "그린카드 멤버십 서비스 (공통 서비스)"
+        },
+        {
+            "category": "기타",
+            "content": "공통서비스"
+        },
+        {
+            "category": "바우처",
+            "content": "각종 바우처 제공"
+        }
+    ]
+}

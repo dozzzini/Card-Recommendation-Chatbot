@@ -1,0 +1,35 @@
+{
+    "card_name": "HERITAGE Smart [할인형]",
+    "company": "KB국민카드",
+    "cashback": "할인 쿠폰\n3가지 택 1",
+    "benefit_place": "국내외가맹점\n1~3% 할인",
+    "discount": "특별 영역\n5% 할인",
+    "overseas": "국내전용 200,000원 / 해외겸용 200,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "바우처",
+            "content": "[HERITAGE 전용혜택] 쿠폰서비스(연 1회 제공, 3가지 중 택1)"
+        },
+        {
+            "category": "국내외가맹점",
+            "content": "국내 가맹점 1% 할인\n해외 가맹점 3% 할인"
+        },
+        {
+            "category": "할인",
+            "content": "특별 영역 5% 할인"
+        },
+        {
+            "category": "금융",
+            "content": "[HERITAGE Smart 서비스] 금융서비스"
+        },
+        {
+            "category": "프리미엄",
+            "content": "[HERITAGE Smart 서비스] Mastercard World 서비스"
+        },
+        {
+            "category": "프리미엄",
+            "content": "[HERITAGE Smart 서비스] 전용고객센터"
+        }
+    ]
+}

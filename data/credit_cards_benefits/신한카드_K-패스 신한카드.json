@@ -1,0 +1,23 @@
+{
+    "card_name": "K-패스 신한카드",
+    "company": "신한카드",
+    "cashback": "대중교통\n10% 할인",
+    "benefit_place": "간편결제\n5% 할인",
+    "discount": "생활 부문\n5% 할인",
+    "overseas": "국내전용 7,000원 / 해외겸용 10,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "대중교통",
+            "content": "대중교통(버스, 지하철) 이용 시 10% 결제일 할인"
+        },
+        {
+            "category": "간편결제",
+            "content": "간편결제로 결제 시 5% 결제일 할인"
+        },
+        {
+            "category": "생활",
+            "content": "생활서비스 5% 결제일 할인"
+        }
+    ]
+}

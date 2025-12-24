@@ -1,0 +1,23 @@
+{
+    "card_name": "Mile 1.6 대한항공",
+    "company": "하나카드",
+    "cashback": "해외 1,500원당\n1.8 HANA Mile 적립",
+    "benefit_place": "국내 1,500원당\n1.6 HANA Mile 적립",
+    "discount": "CGV/롯데시네마\n4,000원 할인",
+    "overseas": "해외겸용 45,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "항공마일리지",
+            "content": "HANA Mile 적립"
+        },
+        {
+            "category": "카페",
+            "content": "스타벅스 4,000원 청구할인"
+        },
+        {
+            "category": "영화",
+            "content": "CGV, 롯데시네마 4,000원 청구할인"
+        }
+    ]
+}

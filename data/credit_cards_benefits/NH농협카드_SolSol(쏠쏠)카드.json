@@ -1,0 +1,15 @@
+{
+    "card_name": "SolSol(쏠쏠)카드",
+    "company": "NH농협카드",
+    "cashback": "주요 12대 생활업종\n최대 12% 할인",
+    "benefit_place": "커피\n10% 할인",
+    "discount": "대중교통\n5% 할인",
+    "overseas": "해외겸용 10,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "생활",
+            "content": "주요 12대 생활업종 3~12% 청구할인"
+        }
+    ]
+}

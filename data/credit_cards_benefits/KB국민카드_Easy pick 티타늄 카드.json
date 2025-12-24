@@ -1,0 +1,55 @@
+{
+    "card_name": "Easy pick 티타늄 카드",
+    "company": "KB국민카드",
+    "cashback": "피트니스\n5% 적립",
+    "benefit_place": "학원\n5% 적립",
+    "discount": "골프\n5% 적립",
+    "overseas": "국내전용 30,000원 / 해외겸용 30,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "온라인쇼핑",
+            "content": "[Easy 서비스] 인터넷쇼핑몰 5% 적립"
+        },
+        {
+            "category": "배달앱",
+            "content": "[Easy 서비스] 배달앱 5% 적립"
+        },
+        {
+            "category": "대형마트",
+            "content": "[Easy 서비스] 대형마트 5% 적립"
+        },
+        {
+            "category": "주유",
+            "content": "[Easy 서비스] 주유소/충전소 5% 적립"
+        },
+        {
+            "category": "피트니스",
+            "content": "[Easy 서비스] 피트니스 5% 적립"
+        },
+        {
+            "category": "대중교통",
+            "content": "[Basic 서비스] 대중교통 5% 적립"
+        },
+        {
+            "category": "통신",
+            "content": "[Basic 서비스] 이동통신 5% 적립"
+        },
+        {
+            "category": "APP",
+            "content": "[Basic 서비스] 인터넷 쇼핑몰 앱카드 결제 5% 적립"
+        },
+        {
+            "category": "렌탈",
+            "content": "[Basic 서비스] 정수기 렌탈 5% 적립"
+        },
+        {
+            "category": "선택형",
+            "content": "[Pick 서비스] 선호영역(택1) 5% 적립"
+        },
+        {
+            "category": "프리미엄",
+            "content": "티타늄 서비스"
+        }
+    ]
+}

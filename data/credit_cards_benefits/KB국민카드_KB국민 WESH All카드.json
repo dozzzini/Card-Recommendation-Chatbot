@@ -1,0 +1,23 @@
+{
+    "card_name": "KB국민 WE:SH All카드",
+    "company": "KB국민카드",
+    "cashback": "국내 가맹점\n1% 할인",
+    "benefit_place": "해외 가맹점\n2% 할인",
+    "discount": "쇼핑 멤버십\n50% 할인",
+    "overseas": "국내전용 20,000원 / 해외겸용 20,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "할인",
+            "content": "국내 가맹점 1% 할인"
+        },
+        {
+            "category": "해외",
+            "content": "해외 가맹점 2% 할인"
+        },
+        {
+            "category": "생활",
+            "content": "쇼핑 멤버십 50%, OTT 10%, 이동통신요금 5% 할인(자동납부 할인)"
+        }
+    ]
+}

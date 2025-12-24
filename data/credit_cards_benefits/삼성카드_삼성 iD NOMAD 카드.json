@@ -1,0 +1,35 @@
+{
+    "card_name": "삼성 iD NOMAD 카드",
+    "company": "삼성카드",
+    "cashback": "기프트서비스\n영역별 연 1회 제공",
+    "benefit_place": "국내외가맹점\n최대 2% 적립",
+    "discount": "디지털콘텐츠/멤버십\n50% 할인",
+    "overseas": "국내전용 47,000원 / 해외겸용 49,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "프리미엄 서비스",
+            "content": "GIFT 기프트 서비스"
+        },
+        {
+            "category": "적립",
+            "content": "REWARD 국내외 가맹점 2%/1%/0.5% 빅포인트 적립"
+        },
+        {
+            "category": "디지털구독",
+            "content": "디지털콘텐츠/멤버십 50% 할인"
+        },
+        {
+            "category": "영화",
+            "content": "영화 5,000원 할인"
+        },
+        {
+            "category": "패스트푸드",
+            "content": "쉐이크쉑/써브웨이 30% 할인"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "국제브랜드 서비스(해외겸용카드 전용)"
+        }
+    ]
+}

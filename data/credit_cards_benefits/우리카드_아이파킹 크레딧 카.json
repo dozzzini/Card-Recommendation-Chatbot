@@ -1,0 +1,19 @@
+{
+    "card_name": "아이파킹 크레딧 카",
+    "company": "우리카드",
+    "cashback": "주차비\n최대1만원 할인",
+    "benefit_place": "주유/충전소\n100원/L 할인",
+    "discount": "정보없음",
+    "overseas": "국내전용 15,000원 / 해외겸용 18,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "자동차/하이패스",
+            "content": "i PARKING 주차비 할인"
+        },
+        {
+            "category": "주유",
+            "content": "주유 / 충전 할인"
+        }
+    ]
+}

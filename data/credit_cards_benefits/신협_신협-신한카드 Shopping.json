@@ -1,0 +1,39 @@
+{
+    "card_name": "신협-신한카드 Shopping",
+    "company": "신협",
+    "cashback": "온ㆍ오프라인\n10% 할인",
+    "benefit_place": "생활업종\n10% 할인",
+    "discount": "마켓컬리\n10% 할인",
+    "overseas": "해외겸용 20,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "쇼핑",
+            "content": "오프라인 쇼핑 10% 할인"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "온라인 쇼핑 10% 할인"
+        },
+        {
+            "category": "카페",
+            "content": "스타벅스, 커피빈, 카페베네,엔제리너스, 투썸플레이스 10% 할인"
+        },
+        {
+            "category": "생활",
+            "content": "다이소, 올리브영, 온라인 서점 10% 할인"
+        },
+        {
+            "category": "주유소",
+            "content": "주유소 리터당 60원 할인"
+        },
+        {
+            "category": "해외",
+            "content": "해외이용금액 5% 캐시백"
+        },
+        {
+            "category": "푸드",
+            "content": "마켓컬리, 하이프레시, 집반찬연구소 10% 할인서비스"
+        }
+    ]
+}

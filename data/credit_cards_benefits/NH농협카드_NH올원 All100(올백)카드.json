@@ -1,0 +1,27 @@
+{
+    "card_name": "NH올원 All100(올백)카드",
+    "company": "NH농협카드",
+    "cashback": "백화점\n10% 적립",
+    "benefit_place": "대형마트\n10% 적립",
+    "discount": "병원/약국/동물병원\n10% 적립",
+    "overseas": "국내전용 8,000원 / 해외겸용 8,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "생활",
+            "content": "생활 업종 10% 적립"
+        },
+        {
+            "category": "은행사",
+            "content": "보험 및 금융 서비스"
+        },
+        {
+            "category": "OK캐쉬백",
+            "content": "OK Cashbag 포인트 적립"
+        },
+        {
+            "category": "멤버십포인트",
+            "content": "제휴서비스"
+        }
+    ]
+}

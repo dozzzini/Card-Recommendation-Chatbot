@@ -1,0 +1,19 @@
+{
+    "card_name": "BNK카드",
+    "company": "BNK부산은행",
+    "cashback": "모든가맹점\n0.2%~0.3% 할인",
+    "benefit_place": "최고사용가맹점\n0.5% 추가할인",
+    "discount": "최다이용가맹점\n3.5% 추가할인",
+    "overseas": "해외겸용 10,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "모든가맹점",
+            "content": "모든 가맹점 0.2% ~0.3% 청구할인"
+        },
+        {
+            "category": "모든가맹점",
+            "content": "최고 사용 가맹점 0.5% 추가 청구할인\n최다 이용 가맹점 3.5% 추가 청구할인"
+        }
+    ]
+}

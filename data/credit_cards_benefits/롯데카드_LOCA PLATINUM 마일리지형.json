@@ -1,0 +1,23 @@
+{
+    "card_name": "LOCA PLATINUM 마일리지형",
+    "company": "롯데카드",
+    "cashback": "1,500원당\n1마일 기본적립",
+    "benefit_place": "프리미엄\n서비스 제공",
+    "discount": "바우처\n5만원 제공",
+    "overseas": "국내전용 100,000원 / 해외겸용 100,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "대한항공",
+            "content": "1,500원당 1마일 기본적립\n1,000원당 1마일 특별적립"
+        },
+        {
+            "category": "기타",
+            "content": "SPECIAL GIFT 서비스: 특급호텔 F&B 5만원 이용권"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "Master Platinum 서비스(Master 플래티넘 카드 발급 시 제공)"
+        }
+    ]
+}

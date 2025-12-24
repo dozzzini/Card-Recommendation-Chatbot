@@ -1,0 +1,27 @@
+{
+    "card_name": "W컨셉 삼성카드",
+    "company": "삼성카드",
+    "cashback": "W컨셉\n7% W POINT 적립",
+    "benefit_place": "커피전문점\n7% W POINT 적립",
+    "discount": "디지털콘텐츠\n20% W POINT 적립",
+    "overseas": "국내전용 10,000원 / 해외겸용 10,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "멤버십포인트",
+            "content": "W컨셉 7% W POINT 적립"
+        },
+        {
+            "category": "카페",
+            "content": "커피전문점/헬스&뷰티/온라인쇼핑몰/이동통신 7% W POINT 적립"
+        },
+        {
+            "category": "디지털구독",
+            "content": "디지털콘텐츠 20% W POINT 적립"
+        },
+        {
+            "category": "해외",
+            "content": "해외 1.5% W POINT 적립"
+        }
+    ]
+}

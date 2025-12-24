@@ -1,0 +1,51 @@
+{
+    "card_name": "E1 LPG 롯데카드",
+    "company": "롯데카드",
+    "cashback": "E1 LPG 충전소\n87P/L 적립",
+    "benefit_place": "하이패스\n30% 적립",
+    "discount": "자동차보험료\n3만원 할인",
+    "overseas": "국내전용 15,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "충전소",
+            "content": "E1충전소(리터당 87포인트) 외 5개 업종 이용 시 E1 오렌지포인트 적립"
+        },
+        {
+            "category": "정비",
+            "content": "E1 오렌지카드 서비스"
+        },
+        {
+            "category": "보험",
+            "content": "자동차보험료 청구할인"
+        },
+        {
+            "category": "헤어",
+            "content": "미용실 최대 20% 할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "놀이공원 최대 50% 할인"
+        },
+        {
+            "category": "경기관람",
+            "content": "롯데 자이언츠 20% 할인"
+        },
+        {
+            "category": "쇼핑",
+            "content": "롯데백화점, 롯데ON, 롯데면세점, 롯데마트, 롯데슈퍼, 토이저러스 혜택"
+        },
+        {
+            "category": "OTT/영화/문화",
+            "content": "롯데시네마, 뮤지컬, 연극 할인"
+        },
+        {
+            "category": "패밀리레스토랑",
+            "content": "보네스뻬, 보네스뻬브레드, T.G.I.F, 미스터피자 할인"
+        },
+        {
+            "category": "멤버십포인트",
+            "content": "L.POINT"
+        }
+    ]
+}

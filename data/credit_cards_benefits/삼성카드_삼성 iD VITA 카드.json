@@ -1,0 +1,39 @@
+{
+    "card_name": "삼성 iD VITA 카드",
+    "company": "삼성카드",
+    "cashback": "의료\n20% 할인",
+    "benefit_place": "보험\n10% 할인",
+    "discount": "헬스/뷰티\n20% 할인",
+    "overseas": "국내전용 20,000원 / 해외겸용 20,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "병원/약국",
+            "content": "의료 20% 결제일 할인"
+        },
+        {
+            "category": "보험사",
+            "content": "보험 10% 결제일 할인"
+        },
+        {
+            "category": "뷰티/피트니스",
+            "content": "헬스/뷰티 20% 결제일 할인"
+        },
+        {
+            "category": "대형마트",
+            "content": "할인점 10% 결제일 할인"
+        },
+        {
+            "category": "할인",
+            "content": "이동통신/렌탈/멤버십 정기결제 시 10% 결제일 할인"
+        },
+        {
+            "category": "해외이용",
+            "content": "전월 이용금액에 관계없이, 할인한도 없이 해외 1% 결제일할인"
+        },
+        {
+            "category": "선택형",
+            "content": "카드 플레이트 선택"
+        }
+    ]
+}

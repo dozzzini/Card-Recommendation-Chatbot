@@ -1,0 +1,27 @@
+{
+    "card_name": "OK캐쉬백 위비할인카드",
+    "company": "우리카드",
+    "cashback": "쇼핑\n7% 할인",
+    "benefit_place": "생활\n7% 할인",
+    "discount": "OK캐쉬백\n멤버십 서비스",
+    "overseas": "국내전용 10,000원 / 해외겸용 12,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "OK캐쉬백",
+            "content": "OK캐쉬백 멤버십 서비스"
+        },
+        {
+            "category": "생활",
+            "content": "각영역별 주요 9대 업종 7% 청구할인\n자동이체시 매월 포인트 적립"
+        },
+        {
+            "category": "OTT/영화/문화",
+            "content": "NHN Entertainment 서비스"
+        },
+        {
+            "category": "생활",
+            "content": "치킨/피자, 영화관, 커피, 놀이공원, 전기차충전 할인"
+        }
+    ]
+}

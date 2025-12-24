@@ -1,0 +1,27 @@
+{
+    "card_name": "대한항공카드 060",
+    "company": "현대카드",
+    "cashback": "연간 보너스\n1천 마일리지",
+    "benefit_place": "1,000원당\n최대 2마일리지 적립",
+    "discount": "직판 항공권\n5만원 할인 쿠폰",
+    "overseas": "국내전용 60,000원 / 해외겸용 60,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "대한항공",
+            "content": "대한항공 마일리지 적립"
+        },
+        {
+            "category": "적립",
+            "content": "연간 보너스 1천 마일리지 적립(연 1회)"
+        },
+        {
+            "category": "항공권",
+            "content": "대한항공 직판 항공권 할인 쿠폰 제공"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "Visa Platinum 서비스"
+        }
+    ]
+}

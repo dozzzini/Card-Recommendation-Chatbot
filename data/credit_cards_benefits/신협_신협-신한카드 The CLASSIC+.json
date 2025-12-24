@@ -1,0 +1,43 @@
+{
+    "card_name": "신협-신한카드 The CLASSIC+",
+    "company": "신협",
+    "cashback": "1,500원당\n1마일 적립",
+    "benefit_place": "1,000원당\n1마일 적립",
+    "discount": "PP카드\n무료 제공",
+    "overseas": "해외겸용 120,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "바우처",
+            "content": "Gift Option"
+        },
+        {
+            "category": "대한항공",
+            "content": "전 가맹점 일시불/할부 이용금액 1,500원당 1마일 적립"
+        },
+        {
+            "category": "아시아나항공",
+            "content": "전 가맹점 일시불/할부 이용금액 1,000원당 1마일"
+        },
+        {
+            "category": "주유소",
+            "content": "GS칼텍스 주유 시 리터당 40원 결제일 할인"
+        },
+        {
+            "category": "PP",
+            "content": "Priority Pass 카드 제공"
+        },
+        {
+            "category": "면세점",
+            "content": "제주 JDC 면세점 8% 결제일 할인"
+        },
+        {
+            "category": "카페",
+            "content": "스타벅스 3,000원 할인"
+        },
+        {
+            "category": "프리미엄",
+            "content": "인천공항 무료 발렛 파킹"
+        }
+    ]
+}

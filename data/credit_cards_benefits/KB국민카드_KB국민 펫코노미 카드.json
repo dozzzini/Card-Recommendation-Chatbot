@@ -1,0 +1,23 @@
+{
+    "card_name": "KB국민 펫코노미 카드",
+    "company": "KB국민카드",
+    "cashback": "반려동물업종\n30% 할인",
+    "benefit_place": "대형마트\n5% 할인",
+    "discount": "반려견단체보험\n무료 가입",
+    "overseas": "국내전용 30,000원 / 해외겸용 30,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "애완동물",
+            "content": "반려동물 업종 10~30% 청구할인"
+        },
+        {
+            "category": "대형마트",
+            "content": "이마트, 홈플러스, 롯데마트 5% 청구할인"
+        },
+        {
+            "category": "애완동물",
+            "content": "반려견 단체보험 무료 가입"
+        }
+    ]
+}

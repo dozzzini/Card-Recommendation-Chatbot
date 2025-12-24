@@ -1,0 +1,31 @@
+{
+    "card_name": "Real? Real! 2 카드",
+    "company": "Sh수협은행",
+    "cashback": "국내 가맹점\n최대 1.5% 할인",
+    "benefit_place": "해외 가맹점\n2% 캐시백",
+    "discount": "정보없음",
+    "overseas": "국내전용 10,000원 / 해외겸용 10,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "모든가맹점",
+            "content": "[기본청구할인] 국내 가맹점 0.5~1.5% 청구할인"
+        },
+        {
+            "category": "기타",
+            "content": "[특별청구할인] 국내 가맹점 1.5% 청구할인"
+        },
+        {
+            "category": "해외이용",
+            "content": "해외 가맹점 2% 캐시백"
+        },
+        {
+            "category": "은행사",
+            "content": "금융우대서비스"
+        },
+        {
+            "category": "무이자할부",
+            "content": "무이자할부"
+        }
+    ]
+}

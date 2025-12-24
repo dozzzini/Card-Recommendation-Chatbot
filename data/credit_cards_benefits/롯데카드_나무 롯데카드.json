@@ -1,0 +1,35 @@
+{
+    "card_name": "나무 롯데카드",
+    "company": "롯데카드",
+    "cashback": "국내외가맹점 최대\n1.0% 캐시백",
+    "benefit_place": "버스, 지하철\n50% 캐시백",
+    "discount": "커피\n50% 캐시백",
+    "overseas": "국내전용 20,000원 / 해외겸용 20,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "국내외가맹점",
+            "content": "국내외가맹점 최대 1% 캐시백"
+        },
+        {
+            "category": "대중교통",
+            "content": "[라이프 캐시백]\n대중교통(버스, 지하철) 50% 캐시백"
+        },
+        {
+            "category": "카페",
+            "content": "[라이프 캐시백]\n커피(스타벅스 사이렌 오더) 50% 캐시백"
+        },
+        {
+            "category": "디지털구독",
+            "content": "[라이프 캐시백]\n스트리밍(넷플릭스, 디즈니 +, CGV) 30% 캐시백"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "Platinum Service"
+        },
+        {
+            "category": "선택형",
+            "content": "원하는 디자인 선택 가능"
+        }
+    ]
+}

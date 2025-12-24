@@ -1,0 +1,19 @@
+{
+    "card_name": "SSG.COM카드",
+    "company": "현대카드",
+    "cashback": "SSG.COM\n2~4% 적립",
+    "benefit_place": "생활편의영역\n3~5% 적립",
+    "discount": "그 외 가맹점\n0.5% 적립",
+    "overseas": "국내전용 20,000원 / 해외겸용 20,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "온라인쇼핑",
+            "content": "SSG.COM에서 결제 시 2~4% 신세계포인트 적립"
+        },
+        {
+            "category": "생활",
+            "content": "생활편의영역에서 결제 시 3~5% 신세계포인트 적립"
+        }
+    ]
+}

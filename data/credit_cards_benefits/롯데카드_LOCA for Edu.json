@@ -1,0 +1,19 @@
+{
+    "card_name": "LOCA for Edu",
+    "company": "롯데카드",
+    "cashback": "학원/학습지/유치원\n5% 할인",
+    "benefit_place": "서점/문구점\n10% 할인",
+    "discount": "정보없음",
+    "overseas": "국내전용 20,000원 / 해외겸용 20,000원",
+    "performance": "전월실적 150만원 이상",
+    "benefit": [
+        {
+            "category": "교육/육아",
+            "content": "학원ㆍ학습지ㆍ유치원(건당 10만원 이상 시) 5% 할인"
+        },
+        {
+            "category": "도서",
+            "content": "서점ㆍ문구점 10% 할인"
+        }
+    ]
+}

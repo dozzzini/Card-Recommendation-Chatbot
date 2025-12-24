@@ -1,0 +1,19 @@
+{
+    "card_name": "#ing(샵핑)카드",
+    "company": "NH농협카드",
+    "cashback": "주요쇼핑업종\n5% 할인",
+    "benefit_place": "온라인쇼핑\n5% 할인",
+    "discount": "모든해외업종\n5% 할인",
+    "overseas": "국내전용 8,000원 / 해외겸용 10,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "쇼핑",
+            "content": "전국 주요 쇼핑업종, 모든 해외가맹점 청구할인 5% 할인(월5천원~2만5천원)"
+        },
+        {
+            "category": "테마파크",
+            "content": "전국 주요 놀이공원 할인"
+        }
+    ]
+}

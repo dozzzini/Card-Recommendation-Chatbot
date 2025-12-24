@@ -1,0 +1,39 @@
+{
+    "card_name": "삼성 iD GLOBAL 카드",
+    "company": "삼성카드",
+    "cashback": "해외 이용\n2% 할인",
+    "benefit_place": "공항라운지\n연 2회 무료 이용",
+    "discount": "디지털콘텐츠\n50% 할인",
+    "overseas": "국내전용 20,000원 / 해외겸용 20,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "수수료우대",
+            "content": "해외 수수료 할인"
+        },
+        {
+            "category": "해외이용",
+            "content": "해외 2% 할인"
+        },
+        {
+            "category": "삼성페이",
+            "content": "삼성페이로 결제 시 해외 오프라인 가맹점 5% 할인"
+        },
+        {
+            "category": "공항라운지",
+            "content": "공항 라운지 서비스 (The Lounge)"
+        },
+        {
+            "category": "디지털구독",
+            "content": "인앱 결제/디지털콘텐츠/멤버십 50% 할인"
+        },
+        {
+            "category": "생활",
+            "content": "일상 필수 영역 1% 할인"
+        },
+        {
+            "category": "할인",
+            "content": "국내 가맹점 0.5% 할인"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "card_name": "일년의 설렘카드",
+    "company": "IBK기업은행",
+    "cashback": "정액캐시백\n최대 70만원 지급",
+    "benefit_place": "전자금융\n이체수수료 면제",
+    "discount": "놀이공원\n할인",
+    "overseas": "해외겸용 10,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "캐시백",
+            "content": "정액캐시백 지급"
+        },
+        {
+            "category": "기타",
+            "content": "금융우대서비스"
+        },
+        {
+            "category": "테마파크",
+            "content": "놀이공원 할인"
+        }
+    ]
+}

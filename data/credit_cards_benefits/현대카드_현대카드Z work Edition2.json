@@ -1,0 +1,31 @@
+{
+    "card_name": "현대카드Z work Edition2",
+    "company": "현대카드",
+    "cashback": "카페\n10% 할인",
+    "benefit_place": "온라인 쇼핑\n10% 할인",
+    "discount": "대중교통\n10% 할인",
+    "overseas": "국내전용 20,000원 / 해외겸용 20,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "온라인쇼핑",
+            "content": "온라인 쇼핑몰 10% 청구 할인"
+        },
+        {
+            "category": "편의점",
+            "content": "편의점 10% 청구 할인"
+        },
+        {
+            "category": "카페",
+            "content": "커피전문점 10% 청구 할인"
+        },
+        {
+            "category": "대중교통",
+            "content": "대중교통 10% 청구 할인(K-패스 또는 후불형 기후동행카드 신청 가능)"
+        },
+        {
+            "category": "도서",
+            "content": "도서 10% 청구 할인"
+        }
+    ]
+}

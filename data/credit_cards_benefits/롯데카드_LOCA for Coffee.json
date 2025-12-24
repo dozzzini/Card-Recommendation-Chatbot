@@ -1,0 +1,31 @@
+{
+    "card_name": "LOCA for Coffee",
+    "company": "롯데카드",
+    "cashback": "커피\n50% 할인",
+    "benefit_place": "스트리밍\n20% 할인",
+    "discount": "교통\n10% 할인",
+    "overseas": "국내전용 20,000원 / 해외겸용 20,000원",
+    "performance": "전월실적 150만원 이상",
+    "benefit": [
+        {
+            "category": "카페",
+            "content": "스타벅스ㆍ폴바셋ㆍ빽다방ㆍ투썸플레이스 50% 할인"
+        },
+        {
+            "category": "디지털구독",
+            "content": "넷플릭스ㆍ유투브ㆍ왓챠ㆍ멜론ㆍ지니뮤직 20% 할인"
+        },
+        {
+            "category": "교통",
+            "content": "버스ㆍ지하철ㆍ택시 10% 할인"
+        },
+        {
+            "category": "배달앱",
+            "content": "배달의민족ㆍ요기요 10% 할인"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "쿠팡ㆍSSG닷컴ㆍ마켓컬리 5% 할인"
+        }
+    ]
+}

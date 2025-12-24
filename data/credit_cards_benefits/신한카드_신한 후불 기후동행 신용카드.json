@@ -1,0 +1,23 @@
+{
+    "card_name": "신한 후불 기후동행 신용카드",
+    "company": "신한카드",
+    "cashback": "온라인\n10% 할인",
+    "benefit_place": "오프라인\n10% 할인",
+    "discount": "정보없음",
+    "overseas": "국내전용 9,000원 / 해외겸용 12,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "교통",
+            "content": "후불 기후동행카드 서비스 안내"
+        },
+        {
+            "category": "할인",
+            "content": "온라인 10% 할인"
+        },
+        {
+            "category": "할인",
+            "content": "오프라인 10% 혜택"
+        }
+    ]
+}

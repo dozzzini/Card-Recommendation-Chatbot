@@ -1,0 +1,31 @@
+{
+    "card_name": "iD MOVE카드",
+    "company": "삼성카드",
+    "cashback": "대중교통·택시\n10% 할인",
+    "benefit_place": "이동통신\n10% 할인",
+    "discount": "커피전문점\n10% 할인",
+    "overseas": "국내전용 20,000원 / 해외겸용 20,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "교통",
+            "content": "대중교통·택시 10% 결제일할인"
+        },
+        {
+            "category": "통신",
+            "content": "이동통신·스트리밍 10% 결제일할인"
+        },
+        {
+            "category": "카페/디저트",
+            "content": "커피전문점·편의점 10% 결제일할인"
+        },
+        {
+            "category": "기타",
+            "content": "해외·항공·철도 1.5% 결제일 할인"
+        },
+        {
+            "category": "선택형",
+            "content": "카드디자인 소개"
+        }
+    ]
+}

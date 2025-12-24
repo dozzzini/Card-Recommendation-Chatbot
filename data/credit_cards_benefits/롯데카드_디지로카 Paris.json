@@ -1,0 +1,19 @@
+{
+    "card_name": "디지로카 Paris",
+    "company": "롯데카드",
+    "cashback": "국내·해외\n0.7% 할인",
+    "benefit_place": "온라인 쇼핑\n최대 5% 할인",
+    "discount": "정보없음",
+    "overseas": "국내전용 20,000원 / 해외겸용 20,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "국내외가맹점",
+            "content": "어디서나 0.7% 결제일 할인"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "온라인 쇼핑 최대 5% 결제일 할인"
+        }
+    ]
+}

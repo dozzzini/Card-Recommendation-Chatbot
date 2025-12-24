@@ -1,0 +1,27 @@
+{
+    "card_name": "미래에셋 현대카드 Silver",
+    "company": "현대카드",
+    "cashback": "스탁마일리지\n2% 특별 적립",
+    "benefit_place": "스탁마일리지\n1% 기본적립",
+    "discount": "정보없음",
+    "overseas": "국내전용 30,000원 / 해외겸용 30,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "멤버십포인트",
+            "content": "스탁마일리지 2X-특별적립"
+        },
+        {
+            "category": "멤버십포인트",
+            "content": "스탁마일리지 1X-기본적립"
+        },
+        {
+            "category": "기타",
+            "content": "미래에셋증권 서비스등급 혜택"
+        },
+        {
+            "category": "선택형",
+            "content": "플레이트 2종 선택"
+        }
+    ]
+}

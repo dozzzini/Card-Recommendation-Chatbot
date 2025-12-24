@@ -1,0 +1,43 @@
+{
+    "card_name": "원더카드 2.0 FREE+",
+    "company": "하나카드",
+    "cashback": "국내외가맹점\n0.8% 청구할인",
+    "benefit_place": "간편결제\n1.2% 청구할인",
+    "discount": "영역별 월 최대 할인한도\n12,000원",
+    "overseas": "국내전용 19,900원 / 해외겸용 19,900원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "국내외가맹점",
+            "content": "국내외가맹점 0.8% 청구할인"
+        },
+        {
+            "category": "간편결제",
+            "content": "하나페이 결제 1.2% 청구할인"
+        },
+        {
+            "category": "쇼핑",
+            "content": "쿠팡&슈퍼마켓 2% 청구할인"
+        },
+        {
+            "category": "배달앱",
+            "content": "배달의민족, 요기요, 쿠팡이츠 4% 청구할인"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "컬리, SSG.COM, 롯데ON, 더현대닷컴 4% 청구할인"
+        },
+        {
+            "category": "쇼핑",
+            "content": "G마켓, 옥션, 11번가, 인터파크, 위메프, 티몬 4% 청구할인"
+        },
+        {
+            "category": "택시",
+            "content": "카카오T, UT, 택시업종 4% 청구할인"
+        },
+        {
+            "category": "무이자할부",
+            "content": "국내 5만원 이상 결제건 2~3개월 무이자 할부"
+        }
+    ]
+}

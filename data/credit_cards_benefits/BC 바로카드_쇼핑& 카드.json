@@ -1,0 +1,31 @@
+{
+    "card_name": "쇼핑& 카드",
+    "company": "BC 바로카드",
+    "cashback": "온라인\n7% 청구할인",
+    "benefit_place": "라이프\n7% 청구할인",
+    "discount": "정보없음",
+    "overseas": "국내전용 10,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "온라인쇼핑",
+            "content": "[온라인] 쿠팡, G마켓, 옥션 7% 청구할인"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "[온라인] 로켓와우, 스마일클럽 멤버십 7% 청구할인"
+        },
+        {
+            "category": "드럭스토어",
+            "content": "[라이프] H&B 스토어 7% 청구할인"
+        },
+        {
+            "category": "디지털구독",
+            "content": "[라이프] 디지털구독 7% 청구할인"
+        },
+        {
+            "category": "편의점",
+            "content": "[라이프] 편의점 7% 청구할인"
+        }
+    ]
+}

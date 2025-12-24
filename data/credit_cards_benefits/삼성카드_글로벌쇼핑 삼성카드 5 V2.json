@@ -1,0 +1,47 @@
+{
+    "card_name": "글로벌쇼핑 삼성카드 5 V2",
+    "company": "삼성카드",
+    "cashback": "해외 쇼핑\n1~2% 적립",
+    "benefit_place": "국제브랜드수수료\n1% 면제",
+    "discount": "아이포터\n배송비 할인",
+    "overseas": "해외겸용 18,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "해외",
+            "content": "해외 쇼핑 빅포인트 적립"
+        },
+        {
+            "category": "수수료우대",
+            "content": "국제브랜드수수료 면제"
+        },
+        {
+            "category": "해외직구",
+            "content": "해외 직구 배송비 할인"
+        },
+        {
+            "category": "적립",
+            "content": "백화점·할인점·온라인 쇼핑몰 등 1% 빅포인트 적립"
+        },
+        {
+            "category": "도서",
+            "content": "서점·학습지 등 5% 할인"
+        },
+        {
+            "category": "카페/디저트",
+            "content": "커피전문점·파리바게뜨·배스킨라빈스·던킨도너츠 10% 할인"
+        },
+        {
+            "category": "영화",
+            "content": "CGV 3,000원 할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "놀이공원 50%·워터파크 30% 할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "어린이 직업체험 테마파크 할인"
+        }
+    ]
+}

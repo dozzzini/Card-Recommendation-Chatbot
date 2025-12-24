@@ -1,0 +1,35 @@
+{
+    "card_name": "IKEA(이케아) Family with 신한카드",
+    "company": "신한카드",
+    "cashback": "IKEA 매장\n10% 할인",
+    "benefit_place": "백화점/할인점\n5% 할인",
+    "discount": "편의점\n5% 할인",
+    "overseas": "국내전용 15,000원 / 해외겸용 18,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "쇼핑",
+            "content": "IKEA 매장(푸드 제외) 이용 시 이용금액의 10% 결제일 할인\nIKEA 푸드 이용 시 이용금액의 15% 결제일 할인"
+        },
+        {
+            "category": "쇼핑",
+            "content": "백화점/프리미엄 아울렛 및 대형 할인점 5% 결제일 할인"
+        },
+        {
+            "category": "편의점",
+            "content": "편의점 5% 결제일 할인"
+        },
+        {
+            "category": "영화",
+            "content": "영화 예매 5% 결제일 할인"
+        },
+        {
+            "category": "카페",
+            "content": "커피 5% 결제일 할인"
+        },
+        {
+            "category": "통신",
+            "content": "이동통신요금 자동이체 5% 결제일 할인"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "card_name": "NC다이노스카드",
+    "company": "NH농협카드",
+    "cashback": "NC다이노스\n2.000원 입장료할인",
+    "benefit_place": "온라인쇼핑\n10% 할인",
+    "discount": "CGV,롯데시네마\n30% 할인",
+    "overseas": "국내전용 8,000원 / 해외겸용 10,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "경기관람",
+            "content": "NC다이노스 홈구장 입장료 현장 할인"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "온라인쇼핑 월 5천원~1만원 청구할인"
+        },
+        {
+            "category": "영화",
+            "content": "CGV, 롯데시네마, 메가박스 월 5천원~2만원 청구할인"
+        },
+        {
+            "category": "카페",
+            "content": "스타벅스(사이렌오더 포함), 카페베네, 커피빈, 탐앤탐스 월 5천원~2만원 청구할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "전국 주요 놀이공원 할인"
+        },
+        {
+            "category": "통신",
+            "content": "휴대폰 국제전화 서비스"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "card_name": "여행스케치 아시아나클럽 플래티늄카드",
+    "company": "광주은행",
+    "cashback": "1,000원당 최대\n3마일리지 적립",
+    "benefit_place": "공항라운지\n연2회 이용",
+    "discount": "환율(USD,JPY,EUR)\n50% 우대",
+    "overseas": "국내전용 45,000원 해외겸용 48,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "아시아나항공",
+            "content": "아시아나 마일리지 1,000원당 최대 3마일리지 적립 서비스"
+        },
+        {
+            "category": "공항라운지",
+            "content": "마스터카드 플래티늄 서비스 (MasterCard Platinum Service)"
+        },
+        {
+            "category": "수수료우대",
+            "content": "환율 50% 우대"
+        },
+        {
+            "category": "수수료우대",
+            "content": "해외ATM 인출수수료 면제"
+        }
+    ]
+}

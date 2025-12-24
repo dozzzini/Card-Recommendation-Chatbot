@@ -1,0 +1,35 @@
+{
+    "card_name": "원더카드 2.0 LIFE",
+    "company": "하나카드",
+    "cashback": "넷플릭스・디즈니플러스 등\n40% 청구할인",
+    "benefit_place": "아파트관리비・전기세・가스비\n10% 청구할인",
+    "discount": "영역별 월 최대 할인한도\n15,000원",
+    "overseas": "국내전용 19,900원 / 해외겸용 19,900원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "할인",
+            "content": "[자동이체] 영상 스트리밍 40% 할인"
+        },
+        {
+            "category": "할인",
+            "content": "[자동이체] 생활요금 10% 할인"
+        },
+        {
+            "category": "배달앱",
+            "content": "딜리버리 10% 할인"
+        },
+        {
+            "category": "대중교통",
+            "content": "대중교통 10% 할인"
+        },
+        {
+            "category": "카페",
+            "content": "커피 10% 할인"
+        },
+        {
+            "category": "편의점",
+            "content": "편의점 10% 할인"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "card_name": "JADE Classic",
+    "company": "하나카드",
+    "cashback": "바우처 최대\n10만원 제공",
+    "benefit_place": "전세계 공항라운지\n연 3회 무료 이용",
+    "discount": "국내외 가맹점\n1% 하나머니 적립",
+    "overseas": "국내전용 115,000원 / 해외겸용 120,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "바우처",
+            "content": "[PREMIUM VOUCHER] 바우처 5가지 중 1가지를 선택하여 이용 (연 1회)"
+        },
+        {
+            "category": "공항라운지",
+            "content": "전세계 공항 라운지 무료이용\n(본인/가족/동반자 통합 연 3회, 일 3회)"
+        },
+        {
+            "category": "적립",
+            "content": "[기본 적립] 국내외 가맹점 1% 하나머니 적립"
+        },
+        {
+            "category": "적립",
+            "content": "[특별 적립] 영역별 1.5~1.2% 하나머니 적립 제공"
+        },
+        {
+            "category": "디지털구독",
+            "content": "디지털 컨텐츠 자동이체 시, 50% 하나머니 적립 제공"
+        },
+        {
+            "category": "카페",
+            "content": "커피 이용금액 50% 하나머니 적립 제공"
+        },
+        {
+            "category": "택시",
+            "content": "택시 이용금액 50% 하나머니 적립 제공"
+        }
+    ]
+}

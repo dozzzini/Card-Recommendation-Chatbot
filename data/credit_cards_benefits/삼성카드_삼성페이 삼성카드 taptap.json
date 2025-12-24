@@ -1,0 +1,27 @@
+{
+    "card_name": "삼성페이 삼성카드 taptap",
+    "company": "삼성카드",
+    "cashback": "삼성페이\n10% 할인",
+    "benefit_place": "국내외가맹점\n0.3% 할인",
+    "discount": "통신요금\n10% 할인",
+    "overseas": "국내전용 10,000원 / 해외겸용 10,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "삼성페이",
+            "content": "삼성 페이 10% 결제일할인"
+        },
+        {
+            "category": "모든가맹점",
+            "content": "국내외 가맹점 0.3% 결제일 할인"
+        },
+        {
+            "category": "통신",
+            "content": "이동통신요금 10% 결제일할인"
+        },
+        {
+            "category": "영화",
+            "content": "CGV·롯데시네마 5,000원 결제일할인"
+        }
+    ]
+}

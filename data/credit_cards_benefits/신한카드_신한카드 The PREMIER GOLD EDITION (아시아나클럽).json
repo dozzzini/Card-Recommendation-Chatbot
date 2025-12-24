@@ -1,0 +1,43 @@
+{
+    "card_name": "신한카드 The PREMIER GOLD EDITION (아시아나클럽)",
+    "company": "신한카드",
+    "cashback": "1,000원당\n1마일리지 적립",
+    "benefit_place": "프리미어 호텔 서비스\n연 1회 제공",
+    "discount": "골프장\n연 2회 그린피 무료",
+    "overseas": "해외겸용 1,900,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "아시아나항공",
+            "content": "국내 이용금액 1,000원당 1마일리지 적립\n해외 이용금액 1,000원당 1~3마일리지 적립"
+        },
+        {
+            "category": "호텔",
+            "content": "특급 호텔의 1박2일 Package 연 1회 제공"
+        },
+        {
+            "category": "항공권",
+            "content": "본인회원 좌석 업그레이드 또는 동반 1인 무료항공권 제공 서비스 중 택 1"
+        },
+        {
+            "category": "PP",
+            "content": "공항 VIP라운지 무료이용 서비스 제공"
+        },
+        {
+            "category": "생활",
+            "content": "글로벌 라이프 서비스 제공\n공항 의전 서비스 (FAST TRACK) / 해외 의료 지원 서비스 제공"
+        },
+        {
+            "category": "기타",
+            "content": "공항/골프장 리무진 서비스"
+        },
+        {
+            "category": "골프",
+            "content": "홀인원 축하금 300만원 서비스\n제휴 골프장 그린피 무료 서비스 및 부킹 대행 서비스"
+        },
+        {
+            "category": "면세점",
+            "content": "국내 유명 면세점 10% 할인"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "card_name": "Daily With(데일리위드)카드",
+    "company": "IBK기업은행",
+    "cashback": "6대생활영역\n1% 기본캐시백",
+    "benefit_place": "최다이용영역\n1% 추가캐시백",
+    "discount": "정보없음",
+    "overseas": "국내전용 10,000원 / 해외겸용 12,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "할인",
+            "content": "6대 생활영역 캐시백"
+        },
+        {
+            "category": "푸드",
+            "content": "[6대생활영역] 음식점"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "[6대생활영역] 온라인쇼핑"
+        },
+        {
+            "category": "마트/편의점",
+            "content": "[6대생활영역] 대형마트·편의점"
+        },
+        {
+            "category": "통신",
+            "content": "[6대 생활영역] 통신비"
+        },
+        {
+            "category": "병원",
+            "content": "[6대 생활영역] 병원비"
+        },
+        {
+            "category": "교통",
+            "content": "[6대 생활영역] 교통"
+        }
+    ]
+}

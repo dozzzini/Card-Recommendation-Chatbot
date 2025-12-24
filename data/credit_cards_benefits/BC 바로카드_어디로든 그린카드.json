@@ -1,0 +1,31 @@
+{
+    "card_name": "어디로든 그린카드",
+    "company": "BC 바로카드",
+    "cashback": "전기차/수소차 충전금액\n최대 40% 적립",
+    "benefit_place": "공유 모빌리티\n10% 적립",
+    "discount": "대중교통\n10% 적립",
+    "overseas": "국내전용 15,000원 / 해외겸용 15,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "충전소",
+            "content": "친환경 자동차 충전 에코머니 포인트 최대 40% 적립"
+        },
+        {
+            "category": "생활",
+            "content": "공유 모빌리티, 대중교통, 일반교통, 커피전문점 에코머니 포인트 10% 적립"
+        },
+        {
+            "category": "적립",
+            "content": "국내 전가맹점 에코머니 포인트 0.2% 적립"
+        },
+        {
+            "category": "멤버십포인트",
+            "content": "에코머니 & 그린 서비스 전월 실적 없이 그린 멤버십 서비스 제공"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "국제 브랜드 서비스 Mastercard/VISA Platinum 기본 서비스 제공"
+        }
+    ]
+}

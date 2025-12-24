@@ -1,0 +1,39 @@
+{
+    "card_name": "원더카드 2.0 LIVING",
+    "company": "하나카드",
+    "cashback": "아파트관리비\n10% 청구할인",
+    "benefit_place": "병원&약국\n10% 청구할인",
+    "discount": "영역별 월 최대 할인한도\n15,000원",
+    "overseas": "국내전용 19,900원 / 해외겸용 19,900원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "공과금",
+            "content": "생활요금 10% 할인"
+        },
+        {
+            "category": "병원/약국",
+            "content": "병원/약국 10% 할인"
+        },
+        {
+            "category": "주유",
+            "content": "주유/LPG충전 10% 할인"
+        },
+        {
+            "category": "택시",
+            "content": "택시 10% 할인"
+        },
+        {
+            "category": "카페",
+            "content": "커피 10% 할인"
+        },
+        {
+            "category": "생활",
+            "content": "세탁 10% 할인"
+        },
+        {
+            "category": "무이자할부",
+            "content": "무이자할부"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "card_name": "wavve카드",
+    "company": "KB국민카드",
+    "cashback": "wavve 월 이용권\n7,900원 청구할인",
+    "benefit_place": "식음료\n10% 청구할인",
+    "discount": "멤버십 구독\n20% 청구할인",
+    "overseas": "국내전용 15,000원 / 해외겸용 15,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "디지털구독",
+            "content": "wavve 월 이용권 7,900원 청구할인"
+        },
+        {
+            "category": "푸드",
+            "content": "식음료 10% 청구할인"
+        },
+        {
+            "category": "디지털구독",
+            "content": "멤버십 정기구독 20% 청구할인"
+        },
+        {
+            "category": "생활",
+            "content": "자기관리(미용/스포츠) 5% 청구할인"
+        }
+    ]
+}

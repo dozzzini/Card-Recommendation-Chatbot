@@ -1,0 +1,27 @@
+{
+    "card_name": "CJ ONE 프리즘 신한카드",
+    "company": "신한카드",
+    "cashback": "올리브영\n10% 적립",
+    "benefit_place": "빕스/뚜레쥬스/CGV\n30% 적립",
+    "discount": "전가맹점 최대\n0.3% 적립",
+    "overseas": "국내전용 20,000원 / 해외겸용 23,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "드럭스토어",
+            "content": "올리브영 이용금액 10% CJ ONE 포인트 적립"
+        },
+        {
+            "category": "푸드",
+            "content": "빕스/뚜레쥬르/CGV 이용금액 30% CJ ONE 포인트 적립"
+        },
+        {
+            "category": "CJ ONE",
+            "content": "7대 CJ브랜드 이용금액 최대 3% CJ ONE 포인트 적립"
+        },
+        {
+            "category": "국내외가맹점",
+            "content": "국내외 전가맹점(7대 CJ브랜드 제외) 최대 0.3% CJ ONE 포인트 적립"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "card_name": "카카오뱅크 KB국민카드",
+    "company": "KB국민카드",
+    "cashback": "편의점\n3천원 할인",
+    "benefit_place": "PC방\n5천원 할인",
+    "discount": "숙박앱\n5천원 할인",
+    "overseas": "국내전용 15,000원 / 해외겸용 15,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "카카오페이",
+            "content": "간편결제 3천원 할인"
+        },
+        {
+            "category": "편의점",
+            "content": "편의점 3천원 할인"
+        },
+        {
+            "category": "OTT/영화/문화",
+            "content": "영화·배달앱 3천원 할인"
+        },
+        {
+            "category": "푸드",
+            "content": "커피·제과·패스트푸드 3천원 할인"
+        },
+        {
+            "category": "여행/숙박",
+            "content": "숙박앱 5천원 할인"
+        },
+        {
+            "category": "레저/스포츠",
+            "content": "공연/음악 5천원 할인\n스포츠/놀이 5천원 할인"
+        }
+    ]
+}

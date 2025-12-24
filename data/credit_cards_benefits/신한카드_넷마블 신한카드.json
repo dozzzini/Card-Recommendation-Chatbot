@@ -1,0 +1,31 @@
+{
+    "card_name": "넷마블 신한카드",
+    "company": "신한카드",
+    "cashback": "앱스토어\n10% 할인",
+    "benefit_place": "편의점\n10% 할인",
+    "discount": "CGV\n20% 할인",
+    "overseas": "국내전용 10,000원 / 해외겸용 13,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "게임",
+            "content": "구글플레이스토어, 애플 앱스토어, 원스토어 10% 할인"
+        },
+        {
+            "category": "편의점",
+            "content": "GS25, CU 10% 할인"
+        },
+        {
+            "category": "카페",
+            "content": "스타벅스, 커피빈 10% 할인"
+        },
+        {
+            "category": "베이커리",
+            "content": "파리바게뜨, 뚜레쥬르 10% 할인"
+        },
+        {
+            "category": "영화",
+            "content": "CGV, 롯데시네마 20% 할인"
+        }
+    ]
+}

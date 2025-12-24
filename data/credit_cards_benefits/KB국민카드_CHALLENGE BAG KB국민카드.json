@@ -1,0 +1,27 @@
+{
+    "card_name": "CHALLENGE BAG KB국민카드",
+    "company": "KB국민카드",
+    "cashback": "11번가 11Pay 결제시\n11% 적립",
+    "benefit_place": "생활밀착업종\n5% 적립",
+    "discount": "OK캐쉬백\n0.1% 기본적립",
+    "overseas": "해외겸용 15,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "OK캐쉬백",
+            "content": "11번가 OK캐쉬백 11% 특별적립"
+        },
+        {
+            "category": "OK캐쉬백",
+            "content": "생활밀착업종 OK캐쉬백 5% 특별적립"
+        },
+        {
+            "category": "모든가맹점",
+            "content": "전 가맹점 OK캐쉬백 0.1% 기본적립"
+        },
+        {
+            "category": "선택형",
+            "content": "플레이트 선택"
+        }
+    ]
+}

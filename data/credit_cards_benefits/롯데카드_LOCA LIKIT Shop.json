@@ -1,0 +1,27 @@
+{
+    "card_name": "LOCA LIKIT Shop",
+    "company": "롯데카드",
+    "cashback": "온라인쇼핑\n60% 할인",
+    "benefit_place": "미용실\n60% 할인",
+    "discount": "편의점\n60% 할인",
+    "overseas": "국내전용 10,000원 / 해외겸용 10,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "온라인쇼핑",
+            "content": "쿠팡, 위메프, 티몬 60% 결제일 할인"
+        },
+        {
+            "category": "헤어",
+            "content": "미용실 60% 결제일 할인"
+        },
+        {
+            "category": "편의점",
+            "content": "GS25, CU, 세븐일레븐 60% 결제일 할인"
+        },
+        {
+            "category": "디지털구독",
+            "content": "쿠팡 로켓와우, 네이버플러스 멤버십 60% 결제일 할인"
+        }
+    ]
+}

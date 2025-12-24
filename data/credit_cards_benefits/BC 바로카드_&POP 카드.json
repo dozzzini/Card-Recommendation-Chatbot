@@ -1,0 +1,23 @@
+{
+    "card_name": "&POP 카드",
+    "company": "BC 바로카드",
+    "cashback": "GS가맹점\n최대 3% GS&POINT 적립",
+    "benefit_place": "국내 전 가맹점\n0.7% GS&POINT 적립",
+    "discount": "GS POP\n서비스 제공",
+    "overseas": "국내전용 5,000원 / 해외겸용 5,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "마트/편의점",
+            "content": "GS가맹점 최대 3% GS&POINT 적립"
+        },
+        {
+            "category": "모든가맹점",
+            "content": "국내 전 가맹점 0.7% GS&POINT 적립"
+        },
+        {
+            "category": "기타",
+            "content": "GS POP서비스 제공"
+        }
+    ]
+}

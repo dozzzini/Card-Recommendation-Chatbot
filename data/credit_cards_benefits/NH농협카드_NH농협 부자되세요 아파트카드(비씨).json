@@ -1,0 +1,27 @@
+{
+    "card_name": "NH농협 부자되세요 아파트카드(비씨)",
+    "company": "NH농협카드",
+    "cashback": "아파트관리비\n최대 1만원 할인",
+    "benefit_place": "쇼핑\n최대 1만원 할인",
+    "discount": "학원\n최대 1만원 할인",
+    "overseas": "해외겸용 10,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "생활",
+            "content": "아파트관리비 최대 1만원 할인"
+        },
+        {
+            "category": "쇼핑",
+            "content": "쇼핑 최대 1만원 할인"
+        },
+        {
+            "category": "학원",
+            "content": "학원 업종 5% 할인"
+        },
+        {
+            "category": "카페",
+            "content": "커피, 베이커리 5% 할인"
+        }
+    ]
+}

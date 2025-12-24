@@ -1,0 +1,19 @@
+{
+    "card_name": "쿠쿠 X LOCA",
+    "company": "롯데카드",
+    "cashback": "쿠쿠 렌탈료\n최대 25,000원 할인",
+    "benefit_place": "정보없음",
+    "discount": "정보없음",
+    "overseas": "국내전용 20,000원 / 해외겸용 20,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "렌탈",
+            "content": "쿠쿠 렌탈료 결제 시 결제일 할인"
+        },
+        {
+            "category": "캐시백",
+            "content": "장기 할부 서비스 및 캐시백"
+        }
+    ]
+}

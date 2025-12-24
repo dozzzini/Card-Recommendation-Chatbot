@@ -1,0 +1,35 @@
+{
+    "card_name": "신한카드 The CLASSIC+",
+    "company": "신한카드",
+    "cashback": "1,500원당\n1마일 적립",
+    "benefit_place": "1,000원당\n1마일 적립",
+    "discount": "PP카드\n무료 제공",
+    "overseas": "해외겸용 120,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "바우처",
+            "content": "Gift Option"
+        },
+        {
+            "category": "항공마일리지",
+            "content": "항공 마일리지 적립 서비스"
+        },
+        {
+            "category": "면세점",
+            "content": "제주 JDC 면세점 8% 결제일 할인"
+        },
+        {
+            "category": "공항라운지",
+            "content": "더라운지"
+        },
+        {
+            "category": "주유소",
+            "content": "GS칼텍스 주유 시 리터당 40원 결제일 할인"
+        },
+        {
+            "category": "카페",
+            "content": "스타벅스 3,000원 할인"
+        }
+    ]
+}

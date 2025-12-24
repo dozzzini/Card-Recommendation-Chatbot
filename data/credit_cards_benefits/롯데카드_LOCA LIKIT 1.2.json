@@ -1,0 +1,19 @@
+{
+    "card_name": "LOCA LIKIT 1.2",
+    "company": "롯데카드",
+    "cashback": "모든가맹점\n1.2% 할인",
+    "benefit_place": "온라인\n1.5% 할인",
+    "discount": "정보없음",
+    "overseas": "국내전용 10,000원 / 해외겸용 10,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "모든가맹점",
+            "content": "어디서나 1.2% 결제일 할인\n국내 모든 가맹점 1.2%, 해외 모든 이용금액 1.2%"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "온라인 1.5% 결제일 할인"
+        }
+    ]
+}

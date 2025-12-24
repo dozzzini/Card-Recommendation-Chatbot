@@ -1,0 +1,31 @@
+{
+    "card_name": "LG U+ Bora 신한카드 Big Plus",
+    "company": "신한카드",
+    "cashback": "통신요금 최대\n1만5천원 할인",
+    "benefit_place": "LG U+\n스마트할부 제공",
+    "discount": "현대오일뱅크\n40P/L 적립",
+    "overseas": "국내전용 22,000원 / 해외겸용 25,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "통신",
+            "content": "LG U+ 요금 통합 최대 1만 5천원 결제일 할인"
+        },
+        {
+            "category": "LGU+",
+            "content": "LG U+ 스마트할부 서비스 제공"
+        },
+        {
+            "category": "주유",
+            "content": "현대오일뱅크 주유 시 40P/L 적립"
+        },
+        {
+            "category": "영화",
+            "content": "인터파크, YES24 영화 예매 할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "롯데월드, 서울랜드 자유이용권 할인"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "card_name": "IBK hi 카드",
+    "company": "IBK기업은행",
+    "cashback": "지하철, 버스 최대\n300원 할인",
+    "benefit_place": "아웃백, 빕스\n10% 할인",
+    "discount": "GS주유소(LPG포함)\n40원/L 할인",
+    "overseas": "국내전용 2,000원 / 해외겸용 4,000원",
+    "performance": "전월실적 20만원 이상",
+    "benefit": [
+        {
+            "category": "대중교통",
+            "content": "지하철, 버스 등 최대 300원 할인"
+        },
+        {
+            "category": "교통",
+            "content": "철도, 고속버스, 택시 5% 할인"
+        },
+        {
+            "category": "통신",
+            "content": "휴대폰 이용대금의 3% 할인"
+        },
+        {
+            "category": "주유",
+            "content": "GS 주유소 리터당 40원 할인(LPG 포함)"
+        },
+        {
+            "category": "영화",
+            "content": "인터파크, 네이버영화 결제 시 2천원 할인"
+        },
+        {
+            "category": "패밀리레스토랑",
+            "content": "아웃백, 빕스 10% 할인"
+        },
+        {
+            "category": "금융",
+            "content": "당행 ATM 인출 수수료 월 10회 면제 1천만원 대중교통 상해보험 무료가입(선택 시 가입)\n당행 환전 수수료 50% 우대(대상통화 USD, JPY, EUR) 등"
+        },
+        {
+            "category": "테마파크",
+            "content": "주요 놀이공원 최대 50% 할인(월간 통합할인한도와 별도로 제공)"
+        }
+    ]
+}

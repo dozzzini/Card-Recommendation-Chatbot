@@ -1,0 +1,27 @@
+{
+    "card_name": "CLUB Signature Asiana Club 카드",
+    "company": "하나카드",
+    "cashback": "연 1회\nSpecial Service 제공",
+    "benefit_place": "월 2회/연 6회\nLoungeKey 제공",
+    "discount": "1,000원당\n2~1마일 적립",
+    "overseas": "해외겸용 145,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "바우처",
+            "content": "Special Service 제공"
+        },
+        {
+            "category": "라운지키",
+            "content": "LoungeKey 제공"
+        },
+        {
+            "category": "아시아나항공",
+            "content": "아시아나항공 마일리지 적립"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "국제 브랜드 서비스"
+        }
+    ]
+}

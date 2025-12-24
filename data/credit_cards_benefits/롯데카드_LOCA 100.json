@@ -1,0 +1,23 @@
+{
+    "card_name": "LOCA 100",
+    "company": "롯데카드",
+    "cashback": "국내외가맹점 최대\n1% 할인",
+    "benefit_place": "온라인 영역\n1.5% 할인",
+    "discount": "Flex Voucher\n6만원 제공",
+    "overseas": "국내전용 20,000원 / 해외겸용 20,000원",
+    "performance": "전월실적 75만원 이상",
+    "benefit": [
+        {
+            "category": "국내외가맹점",
+            "content": "선넘은 카드의 일당백 할인혜택\n어디서나 최대 1% 기본할인"
+        },
+        {
+            "category": "할인",
+            "content": "온라인 1.5% 특별할인"
+        },
+        {
+            "category": "바우처",
+            "content": "큰 금액 이용할 때 6만원 Flex Voucher까지"
+        }
+    ]
+}

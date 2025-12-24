@@ -1,0 +1,47 @@
+{
+    "card_name": "레고랜드매니아카드",
+    "company": "KB국민카드",
+    "cashback": "레고랜드\n30% 할인",
+    "benefit_place": "레고/완구\n10% 할인",
+    "discount": "연간 리워드\n8만점 적립",
+    "overseas": "국내전용 100,000원 / 해외겸용 100,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "테마파크",
+            "content": "레고랜드 리조트 30% 청구할인"
+        },
+        {
+            "category": "기타",
+            "content": "레고/완구 구매 10% 청구할인"
+        },
+        {
+            "category": "쇼핑",
+            "content": "백화점/대형마트 10% 청구할인"
+        },
+        {
+            "category": "배달앱",
+            "content": "배달앱 10% 청구할인"
+        },
+        {
+            "category": "디지털구독",
+            "content": "구독서비스 20% 청구할인"
+        },
+        {
+            "category": "간편결제",
+            "content": "KB Pay 결제 10% 청구할인"
+        },
+        {
+            "category": "해외이용",
+            "content": "해외 가맹점 이용 10% 캐시백"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "[리워드 서비스] 웰컴 레고랜드 포인트리 7만점 적립"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "[리워드 서비스] 레고랜드 포인트리 8만점 적립"
+        }
+    ]
+}

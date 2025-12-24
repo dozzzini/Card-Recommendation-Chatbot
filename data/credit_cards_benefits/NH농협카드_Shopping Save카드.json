@@ -1,0 +1,31 @@
+{
+    "card_name": "Shopping Save카드",
+    "company": "NH농협카드",
+    "cashback": "쇼핑가맹점\n5~10% 적립",
+    "benefit_place": "통신요금\n5% 적립",
+    "discount": "대중교통\n5% 적립",
+    "overseas": "국내전용 6,000원 / 해외겸용 8,000원",
+    "performance": "전월실적 10만원 이상",
+    "benefit": [
+        {
+            "category": "쇼핑",
+            "content": "쇼핑서비스 대상 가맹점 5~10% 적립"
+        },
+        {
+            "category": "통신",
+            "content": "이동통신요금 자동이체 시 5% 적립"
+        },
+        {
+            "category": "대중교통",
+            "content": "버스, 지하철 이용시 5% 적립"
+        },
+        {
+            "category": "은행사",
+            "content": "금융 수수료 면제"
+        },
+        {
+            "category": "기타",
+            "content": "기타서비스"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "card_name": "LOCA CLASSIC",
+    "company": "롯데카드",
+    "cashback": "국내외가맹점\n최대1% 할인",
+    "benefit_place": "하나의 전월 실적으로\n두 장의 카드 혜택",
+    "discount": "정보없음",
+    "overseas": "국내전용 20,000원 / 해외겸용 20,000원",
+    "performance": "전월실적 150만원 이상",
+    "benefit": [
+        {
+            "category": "기타",
+            "content": "두장의 혜택을 세트로 누리는 카드 LOCA"
+        },
+        {
+            "category": "모든가맹점",
+            "content": "국내외 가맹점 결제일 할인"
+        }
+    ]
+}

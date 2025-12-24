@@ -1,0 +1,23 @@
+{
+    "card_name": "신한카드 Unboxing",
+    "company": "신한카드",
+    "cashback": "온라인종합몰\n10% 캐시백",
+    "benefit_place": "편의점\n10% 캐시백",
+    "discount": "배송비 건당\n2,500원 할인",
+    "overseas": "국내전용 32,000원 / 해외겸용 35,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "쇼핑",
+            "content": "온·오프라인, 대·소형몰 먹거리까지 구분 없이\n10% 캐시백 서비스"
+        },
+        {
+            "category": "기타",
+            "content": "언박싱 스페셜 할인 서비스"
+        },
+        {
+            "category": "선택형",
+            "content": "원하는 플레이트 디자인 선택 가능"
+        }
+    ]
+}

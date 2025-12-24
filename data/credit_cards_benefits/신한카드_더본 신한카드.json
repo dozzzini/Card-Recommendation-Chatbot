@@ -1,0 +1,31 @@
+{
+    "card_name": "더본 신한카드",
+    "company": "신한카드",
+    "cashback": "뺵다방\n30% 할인",
+    "benefit_place": "편의점\n5% 할인",
+    "discount": "택시\n10% 할인",
+    "overseas": "해외겸용 10,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "카페",
+            "content": "빽다방 30% 결제일 할인"
+        },
+        {
+            "category": "푸드",
+            "content": "더본(theborn) 모든 매장 10% 결제일 할인"
+        },
+        {
+            "category": "편의점",
+            "content": "편의점 5% 결제일 할인"
+        },
+        {
+            "category": "택시",
+            "content": "택시 10% 결제일 할인"
+        },
+        {
+            "category": "영화",
+            "content": "CGV 3천원 결제일 할인"
+        }
+    ]
+}

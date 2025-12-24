@@ -1,0 +1,31 @@
+{
+    "card_name": "All For Me카드",
+    "company": "우리카드",
+    "cashback": "주요 7대 업종\n10~5% 할인",
+    "benefit_place": "영화\n3,000원 할인",
+    "discount": "커피\n20% 할인",
+    "overseas": "해외겸용 10,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "생활",
+            "content": "주요 7대 업종 10~5% 청구할인"
+        },
+        {
+            "category": "영화",
+            "content": "전국 영화관 3,000원 청구할인"
+        },
+        {
+            "category": "카페",
+            "content": "커피 20% 청구할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "주요 놀이공원 자유이용권 50% 현장할인"
+        },
+        {
+            "category": "패스트푸드",
+            "content": "치킨, 피자 10% 청구할인"
+        }
+    ]
+}

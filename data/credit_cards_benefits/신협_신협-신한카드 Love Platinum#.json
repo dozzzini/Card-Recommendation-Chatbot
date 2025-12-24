@@ -1,0 +1,47 @@
+{
+    "card_name": "신협-신한카드 Love Platinum#",
+    "company": "신협",
+    "cashback": "백화점,할인점,쇼핑몰\n5% 할인",
+    "benefit_place": "GS칼텍스\n60원/L 할인",
+    "discount": "영화\n7천원 할인",
+    "overseas": "해외겸용 50,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "쇼핑",
+            "content": "전국 유명 백화점, 할인점, 온라인 쇼핑몰 5% 할인\n전국 유명 백화점 및 할인점 상시 2~3개월 무이자 할부"
+        },
+        {
+            "category": "주유소",
+            "content": "GS칼텍스 60원/L 할인"
+        },
+        {
+            "category": "푸드",
+            "content": "불고기브라더스, 제일제면소 30% 할인\n아웃백, 카페마마스, 스타벅스 20% 할인"
+        },
+        {
+            "category": "영화",
+            "content": "CGV, YES24 영화 7천원 할인"
+        },
+        {
+            "category": "생활",
+            "content": "LG계열 제휴사 최대 5~10% 할인 및 포인트 적립"
+        },
+        {
+            "category": "적립",
+            "content": "Love포인트 적립"
+        },
+        {
+            "category": "테마파크",
+            "content": "유명 테마파크 자유이용권 할인"
+        },
+        {
+            "category": "경기관람",
+            "content": "스포츠 할인"
+        },
+        {
+            "category": "프리미엄",
+            "content": "Platinum# 서비스 및 국제브랜드사 서비스"
+        }
+    ]
+}

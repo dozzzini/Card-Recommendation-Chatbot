@@ -1,0 +1,31 @@
+{
+    "card_name": "가온글로벌카드",
+    "company": "KB국민카드",
+    "cashback": "국내가맹점\n0.3% 기본적립",
+    "benefit_place": "쇼핑/여행\n0.7% 추가적립",
+    "discount": "해외가맹점\n1~3% 특별적립",
+    "overseas": "국내전용 15,000원 / 해외겸용 20,000원",
+    "performance": "전월실적 20만원 이상",
+    "benefit": [
+        {
+            "category": "적립",
+            "content": "국내 가맹점 포인트리 0.3% 기본 적립"
+        },
+        {
+            "category": "쇼핑",
+            "content": "쇼핑 특화 영역 포인트리 0.7% 추가 적립"
+        },
+        {
+            "category": "여행/숙박",
+            "content": "여행 특화 영역 포인트리 0.7% 추가 적립"
+        },
+        {
+            "category": "해외",
+            "content": "해외이용 최대 3% 적립"
+        },
+        {
+            "category": "기타",
+            "content": "해외 배송대행 업체 배송료 할인"
+        }
+    ]
+}

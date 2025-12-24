@@ -1,0 +1,35 @@
+{
+    "card_name": "K-패스 삼성카드",
+    "company": "삼성카드",
+    "cashback": "대중교통\n10% 할인",
+    "benefit_place": "커피전문점\n20% 할인",
+    "discount": "디지털콘텐츠/멤버십\n20% 할인",
+    "overseas": "국내전용 10,000원 / 해외겸용 10,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "교통",
+            "content": "대중교통 10% 결제일 할인"
+        },
+        {
+            "category": "카페",
+            "content": "커피전문점 20% 결제일 할인"
+        },
+        {
+            "category": "디지털구독",
+            "content": "디지털콘텐츠/멤버십 정기결제 시 20% 결제일 할인"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "온라인쇼핑 3% 결제일 할인"
+        },
+        {
+            "category": "선택형",
+            "content": "특수 소재 카드"
+        },
+        {
+            "category": "교통",
+            "content": "K-패스 마일리지"
+        }
+    ]
+}

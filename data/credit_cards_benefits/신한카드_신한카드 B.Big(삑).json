@@ -1,0 +1,43 @@
+{
+    "card_name": "신한카드 B.Big(삑)",
+    "company": "신한카드",
+    "cashback": "대중교통\n200~600원 할인",
+    "benefit_place": "택시\n10% 할인",
+    "discount": "KTX\n10% 할인",
+    "overseas": "해외겸용 10,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "대중교통",
+            "content": "버스, 지하철 후불 교통 이용 금액 일 200원 ~ 일 600원 할인"
+        },
+        {
+            "category": "택시",
+            "content": "택시/KTX 이용 금액 10% 할인"
+        },
+        {
+            "category": "백화점",
+            "content": "4대 백화점 5% 할인"
+        },
+        {
+            "category": "카페",
+            "content": "커피전문점 10% 할인"
+        },
+        {
+            "category": "편의점",
+            "content": "편의점 5% 할인"
+        },
+        {
+            "category": "통신",
+            "content": "이동통신요금 5% 할인"
+        },
+        {
+            "category": "영화",
+            "content": "CGV, 메가박스"
+        },
+        {
+            "category": "캐시백",
+            "content": "전기요금, 통신요금, 해외이용금액 5% 캐시백 제공"
+        }
+    ]
+}

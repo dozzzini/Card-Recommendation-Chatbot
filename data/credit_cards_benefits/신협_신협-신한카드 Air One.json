@@ -1,0 +1,27 @@
+{
+    "card_name": "신협-신한카드 Air One",
+    "company": "신협",
+    "cashback": "1,000원당\n1마일 기본적립",
+    "benefit_place": "면세점\n1마일 추가적립",
+    "discount": "해외\n1마일 추가적립",
+    "overseas": "해외겸용 49,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "대한항공",
+            "content": "국내외 이용금액 1,000원당 1마일 적립"
+        },
+        {
+            "category": "해외이용",
+            "content": "해외 이용금액 1,000원당 총 2마일 적립"
+        },
+        {
+            "category": "면세점",
+            "content": "신라면세점 더 심플(앱) 1,000원당 총 2마일 적립"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "AMEX PLATINUM 서비스 제공"
+        }
+    ]
+}

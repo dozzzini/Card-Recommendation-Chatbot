@@ -1,0 +1,19 @@
+{
+    "card_name": "제주항공 Refresh Point KB국민카드",
+    "company": "KB국민카드",
+    "cashback": "제주항공 포인트\n10P/1,200원 적립",
+    "benefit_place": "공항라운지\n무료 이용",
+    "discount": "정보없음",
+    "overseas": "해외겸용 20,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "적립",
+            "content": "신판 1,200원당 10~20P 적립"
+        },
+        {
+            "category": "공항라운지",
+            "content": "공항라운지 연 2회 무료 이용"
+        }
+    ]
+}

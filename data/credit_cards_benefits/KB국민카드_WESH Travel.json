@@ -1,0 +1,39 @@
+{
+    "card_name": "WE:SH Travel",
+    "company": "KB국민카드",
+    "cashback": "해외 이용 수수료\n1.25% 면제",
+    "benefit_place": "해외 이용 금액\n100% 환율우대",
+    "discount": "쇼핑・커피・편의점・영화관\n10% 할인",
+    "overseas": "국내전용 25,000원 / 해외겸용 25,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "수수료우대",
+            "content": "해외 이용 수수료 총 1.25% 면제"
+        },
+        {
+            "category": "해외이용",
+            "content": "해외 이용 환율우대 100% (USD기준)"
+        },
+        {
+            "category": "공항라운지",
+            "content": "공항 라운지 무료"
+        },
+        {
+            "category": "생활",
+            "content": "자주 쓰는 일상 영역 10% 할인 (KB Pay 결제 시)"
+        },
+        {
+            "category": "쇼핑",
+            "content": "온라인 항공/면세점 5% 할인 (KB Pay 결제 시)"
+        },
+        {
+            "category": "보험사",
+            "content": "여행자보험 10% 할인 (KB Pay 결제 시)"
+        },
+        {
+            "category": "교통",
+            "content": "철도・고속버스 10% 할인"
+        }
+    ]
+}

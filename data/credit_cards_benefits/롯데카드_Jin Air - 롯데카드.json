@@ -1,0 +1,43 @@
+{
+    "card_name": "Jin Air - 롯데카드",
+    "company": "롯데카드",
+    "cashback": "진에어항공권\n10% 할인",
+    "benefit_place": "커피전문점\n5% 할인",
+    "discount": "정보없음",
+    "overseas": "국내전용 5,000원 / 해외겸용 6,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "항공권",
+            "content": "진에어 항공권 10% 청구할인 (최대3만원)"
+        },
+        {
+            "category": "카페",
+            "content": "커피전문점 5% 청구할인"
+        },
+        {
+            "category": "해외이용",
+            "content": "해외가맹점 할인(JCB브랜드 서비스)"
+        },
+        {
+            "category": "테마파크",
+            "content": "롯데월드 본인 종합이용권 50% 현장할인"
+        },
+        {
+            "category": "쇼핑",
+            "content": "롯데백화점, 롯데ON, 롯데면세점, 신라아이파크면세점, 롯데마트, 롯데슈퍼, 토이저러스 혜택"
+        },
+        {
+            "category": "영화",
+            "content": "롯데시네마 관람료 1,500원 청구할인"
+        },
+        {
+            "category": "푸드",
+            "content": "T.G.I.F, 롯데리아, 나뚜루, 엔제리너스 할인"
+        },
+        {
+            "category": "멤버십포인트",
+            "content": "L.POINT"
+        }
+    ]
+}

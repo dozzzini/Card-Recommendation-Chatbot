@@ -1,0 +1,31 @@
+{
+    "card_name": "올바른TRAVEL카드(일본특화)",
+    "company": "NH농협카드",
+    "cashback": "유니버셜스튜디오재팬\n10,000원 할인",
+    "benefit_place": "해외 이용금액\n7% 할인",
+    "discount": "커피\n10% 할인",
+    "overseas": "해외겸용 20,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "여행/숙박",
+            "content": "유니버셜스튜디오재팬, 도쿄타워 입장권 할인"
+        },
+        {
+            "category": "교통",
+            "content": "인천공항 무료 교통 서비스"
+        },
+        {
+            "category": "해외이용",
+            "content": "해외이용금액 7%할인"
+        },
+        {
+            "category": "생활",
+            "content": "국내 쇼핑, 커피, 영화 등 생활할인"
+        },
+        {
+            "category": "프리미엄",
+            "content": "국제브랜드 프리미엄서비스"
+        }
+    ]
+}

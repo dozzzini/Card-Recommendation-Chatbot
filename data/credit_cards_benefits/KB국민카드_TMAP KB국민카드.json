@@ -1,0 +1,27 @@
+{
+    "card_name": "TMAP KB국민카드",
+    "company": "KB국민카드",
+    "cashback": "티맵 최대\n50% 청구할인",
+    "benefit_place": "OTT\n10% 청구할인",
+    "discount": "주유·식음료\n5% 청구할인",
+    "overseas": "국내전용 15,000원 / 해외겸용 15,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "자동차",
+            "content": "티맵 최대 50% 청구 할인"
+        },
+        {
+            "category": "디지털구독",
+            "content": "OTT 10% 청구 할인"
+        },
+        {
+            "category": "주유",
+            "content": "주유 5% 청구 할인"
+        },
+        {
+            "category": "푸드",
+            "content": "식음료 5% 청구 할인"
+        }
+    ]
+}

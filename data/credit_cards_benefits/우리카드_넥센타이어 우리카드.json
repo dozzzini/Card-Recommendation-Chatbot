@@ -1,0 +1,31 @@
+{
+    "card_name": "넥센타이어 우리카드",
+    "company": "우리카드",
+    "cashback": "타이어렌탈\n최대 2만원 할인",
+    "benefit_place": "전국영화관\n3천원 할인",
+    "discount": "커피전문점\n20% 할인",
+    "overseas": "해외겸용 10,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "렌탈",
+            "content": "렌탈요금 월 최대 20,000원 할인"
+        },
+        {
+            "category": "패밀리레스토랑",
+            "content": "아웃백, TGIF 10% 청구할인"
+        },
+        {
+            "category": "카페",
+            "content": "스타벅스, 투썸플레이스 20% 청구할인"
+        },
+        {
+            "category": "영화",
+            "content": "모든 영화관 3,000원 청구할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "놀이공원 50% 현장할인"
+        }
+    ]
+}

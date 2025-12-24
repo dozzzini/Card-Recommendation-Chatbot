@@ -1,0 +1,39 @@
+{
+    "card_name": "CLUB Primus Skypass 카드",
+    "company": "하나카드",
+    "cashback": "1,500원당\n1마일 기본적립",
+    "benefit_place": "면세점/레저 등\n2~5마일 특별적립",
+    "discount": "Free Package\n연1회 제공",
+    "overseas": "해외겸용 100,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "대한항공",
+            "content": "일반 업종 이용금액 1,500원당 1마일리지 기본적립"
+        },
+        {
+            "category": "면세점",
+            "content": "면세점 및 백화점 이용금액 1,500원당 2마일리지 특별적립"
+        },
+        {
+            "category": "해외이용",
+            "content": "해외 이용금액 1,500원당 2마일리지 특별적립"
+        },
+        {
+            "category": "레저/스포츠",
+            "content": "골프, 레저 업종 이용금액 1,500원당 3~5마일리지 특별적립"
+        },
+        {
+            "category": "주유소",
+            "content": "SK 주유소 이용금액 리터당 3마일리지 적립"
+        },
+        {
+            "category": "바우처",
+            "content": "Free Package (연 1회, 택 1)"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "프리머스카드 공통서비스"
+        }
+    ]
+}

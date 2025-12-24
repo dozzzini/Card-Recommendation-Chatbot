@@ -1,0 +1,27 @@
+{
+    "card_name": "롤라카드",
+    "company": "롯데카드",
+    "cashback": "롯데계열사\n7% 적립",
+    "benefit_place": "주유소\n1% 적립",
+    "discount": "롯데주요매장\n5% 할인",
+    "overseas": "국내전용 15,000원 / 해외겸용 15,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "적립",
+            "content": "롤라머니 7% 적립"
+        },
+        {
+            "category": "주유소",
+            "content": "SK 주유소 롤라머니 1% 적립"
+        },
+        {
+            "category": "기타",
+            "content": "[플레이롯데] 롯데 주요 매장 5% 할인"
+        },
+        {
+            "category": "기타",
+            "content": "[플레이롤라] 커피, 자동차, 교육, 금융 등 일상생활혜택\n[롤라박스] 롤라카드 회원만을 위한 더 특별한 혜택"
+        }
+    ]
+}

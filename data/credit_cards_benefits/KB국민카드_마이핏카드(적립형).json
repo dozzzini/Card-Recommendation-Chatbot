@@ -1,0 +1,23 @@
+{
+    "card_name": "마이핏카드(적립형)",
+    "company": "KB국민카드",
+    "cashback": "간편결제\n1.5% 적립",
+    "benefit_place": "편의점/택시\n1천점 적립",
+    "discount": "쇼핑/배달\n5% 적립",
+    "overseas": "국내전용 30,000원 / 해외겸용 30,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "간편결제",
+            "content": "간편결제 1.5% 포인트리 적립"
+        },
+        {
+            "category": "생활",
+            "content": "편의점/택시 1천점 포인트리 적립"
+        },
+        {
+            "category": "쇼핑",
+            "content": "쇼핑/배달 5% 포인트리 적립"
+        }
+    ]
+}

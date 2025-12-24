@@ -1,0 +1,23 @@
+{
+    "card_name": "제주신화월드 신한카드",
+    "company": "신한카드",
+    "cashback": "제주신화월드 객실\n최대 15% 할인",
+    "benefit_place": "신세계사이먼 프리미엄\n1만5천원 할인",
+    "discount": "생활 영역\n10% 할인",
+    "overseas": "국내전용 15,000원 / 해외겸용 18,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "리조트",
+            "content": "제주신화월드 객실 15% 할인"
+        },
+        {
+            "category": "쇼핑",
+            "content": "쇼핑 10% 할인"
+        },
+        {
+            "category": "생활",
+            "content": "생활 10% 할인"
+        }
+    ]
+}

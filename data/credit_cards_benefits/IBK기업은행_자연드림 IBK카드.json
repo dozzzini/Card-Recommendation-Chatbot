@@ -1,0 +1,47 @@
+{
+    "card_name": "자연드림 IBK카드",
+    "company": "IBK기업은행",
+    "cashback": "주유소(LPG포함)\n60원/L 할인",
+    "benefit_place": "소셜커머스\n20% 할인",
+    "discount": "영화관\n8천원 할인",
+    "overseas": "해외겸용 2,000원 / 해외겸용 5,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "BC TOP",
+            "content": "TOP포인트 최대 0.4% 적립"
+        },
+        {
+            "category": "주유",
+            "content": "전 주유소 리터당 60원 할인 (LPG포함)"
+        },
+        {
+            "category": "소셜커머스",
+            "content": "소셜커머스 20% 할인"
+        },
+        {
+            "category": "영화",
+            "content": "영화관 8천원 청구할인"
+        },
+        {
+            "category": "패밀리레스토랑",
+            "content": "패밀리레스토랑 20% 청구할인"
+        },
+        {
+            "category": "카페",
+            "content": "주요 커피전문점 20% 할인"
+        },
+        {
+            "category": "금융",
+            "content": "금융 수수료 면제, 무이자 할부 등"
+        },
+        {
+            "category": "테마파크",
+            "content": "주요 놀이공원 무료입장 또는 입장료/자유이용권 할인 (월 1회, 연 2회)"
+        },
+        {
+            "category": "기타",
+            "content": "자연드림 이용금액 7% 청구할인"
+        }
+    ]
+}

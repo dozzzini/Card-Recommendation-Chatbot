@@ -1,0 +1,39 @@
+{
+    "card_name": "넥슨 현대카드UNLIMITED",
+    "company": "현대카드",
+    "cashback": "국내외 가맹점\n최대 3% 포인트 적립",
+    "benefit_place": "넥슨 현대카드 포인트\n연간 6만 바우처 제공",
+    "discount": "PC방 결제 시\n최대 3천원 청구 할인",
+    "overseas": "국내전용 150,000원 / 해외겸용 150,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "모든가맹점",
+            "content": "전월 이용금액에 따라 국내외 가맹점 이용금액 최대 3% 넥슨 현대카드 포인트 적립"
+        },
+        {
+            "category": "바우처",
+            "content": "연간 6만 넥슨 현대카드 포인트 바우처"
+        },
+        {
+            "category": "생활",
+            "content": "생활 편의 영역 6대 업종 결제 시 연간 통합 6만원 청구 할인"
+        },
+        {
+            "category": "게임",
+            "content": "PC방 이용 시 최대 3천원 청구 할인"
+        },
+        {
+            "category": "공연/전시",
+            "content": "넥슨컴퓨터박물관 메가티켓 2장 결제금액 청구 할인"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "차별화된 가치를 담은 메탈플레이트 제공"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "MasterCard World서비스"
+        }
+    ]
+}

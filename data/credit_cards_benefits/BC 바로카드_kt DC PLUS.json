@@ -1,0 +1,23 @@
+{
+    "card_name": "kt DC PLUS",
+    "company": "BC 바로카드",
+    "cashback": "KT통신요금 최대\n13,000원 할인",
+    "benefit_place": "SK주유소\n1% 할인",
+    "discount": "정보없음",
+    "overseas": "국내전용 12,000원 / 해외겸용 12,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "KT",
+            "content": "KT 통신요금 결제일 할인\n전월실적 별 월 최대 13,000원 할인"
+        },
+        {
+            "category": "주유소",
+            "content": "SK주유소 결제일 할인\n전월 실적 30만원 이상 시 1% 할인"
+        },
+        {
+            "category": "프리미엄",
+            "content": "Mastercard Platinum 등급 기본 서비스 또는 VISA Young Premium 서비스 제공"
+        }
+    ]
+}

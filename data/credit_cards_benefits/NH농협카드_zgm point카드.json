@@ -1,0 +1,23 @@
+{
+    "card_name": "zgm point카드",
+    "company": "NH농협카드",
+    "cashback": "전가맹점\n0.8~1.8% 적립",
+    "benefit_place": "SPC 가맹점\n2~5% 적립",
+    "discount": "포인트\n5% 연 1회 추가 적립",
+    "overseas": "국내전용 50,000원 / 해외겸용 55,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "모든가맹점",
+            "content": "[기본적립] 국내/해외 전 가맹점에서 NH포인트 0.8%~1.8% 적립"
+        },
+        {
+            "category": "적립",
+            "content": "[추가적립] '기본적립'된 포인트의 5% 추가적립 - 연 1회"
+        },
+        {
+            "category": "적립",
+            "content": "[해피포인트 적립] SPC 가맹점 이용 시 해피포인트 적립"
+        }
+    ]
+}

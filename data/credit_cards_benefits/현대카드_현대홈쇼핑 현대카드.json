@@ -1,0 +1,15 @@
+{
+    "card_name": "현대홈쇼핑 현대카드",
+    "company": "현대카드",
+    "cashback": "현대홈쇼핑\n3% 적립",
+    "benefit_place": "그 외 가맹점\n1% 적립",
+    "discount": "정보없음",
+    "overseas": "국내전용 10,000원 / 해외겸용 10,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "홈쇼핑",
+            "content": "현대홈쇼핑 특화 혜택 H.Point 최대 3% 적립"
+        }
+    ]
+}

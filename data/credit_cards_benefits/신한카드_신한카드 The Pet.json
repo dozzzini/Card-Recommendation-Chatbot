@@ -1,0 +1,31 @@
+{
+    "card_name": "신한카드 The Pet",
+    "company": "신한카드",
+    "cashback": "전국 동물병원\n30% 할인",
+    "benefit_place": "펫 전용 쇼핑몰\n30% 할인",
+    "discount": "온라인 쇼핑몰\n10% 할인",
+    "overseas": "국내전용 20,000원 / 해외겸용 23,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "동물병원",
+            "content": "전국 동물병원 30% 결제일 할인"
+        },
+        {
+            "category": "쇼핑",
+            "content": "5개 펫 온라인 전용몰 30% 결제일 할인"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "일반 온라인 쇼핑몰 10% 결제일 할인"
+        },
+        {
+            "category": "애완동물",
+            "content": "Pet Life"
+        },
+        {
+            "category": "할인",
+            "content": "동물병원, 펫 전용몰 할인한도 변경서비스"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "card_name": "신협-신한카드 RPM+Platinum#",
+    "company": "신협",
+    "cashback": "모든 주유소\n40~150P/L 적립",
+    "benefit_place": "모든 충전소\n10~50P/L 적립",
+    "discount": "모든가맹점\n0.2~2% 적립",
+    "overseas": "해외겸용 32,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "주유",
+            "content": "모든 주유소 리터당 40~150포인트/충전소 리터당 10~50포인트 적립"
+        },
+        {
+            "category": "쇼핑",
+            "content": "1~5% 특별적립"
+        },
+        {
+            "category": "마트/편의점",
+            "content": "1~5% 특별적립"
+        },
+        {
+            "category": "택시",
+            "content": "1~5% 특별적립"
+        },
+        {
+            "category": "정비",
+            "content": "1~5% 특별적립"
+        },
+        {
+            "category": "모든가맹점",
+            "content": "국내/외 모든 가맹점 0.2~2.0% 적립"
+        },
+        {
+            "category": "프리미엄",
+            "content": "Platinum # 서비스"
+        }
+    ]
+}

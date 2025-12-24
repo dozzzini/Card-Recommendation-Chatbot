@@ -1,0 +1,47 @@
+{
+    "card_name": "한화생명 Family카드 (골프형)",
+    "company": "우리카드",
+    "cashback": "SK주유소\n60원/L 청구할인",
+    "benefit_place": "택시\n5% 청구할인",
+    "discount": "통신비\n3% 청구할인",
+    "overseas": "해외겸용 5,000원 / 해외겸용 10,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "주유",
+            "content": "SK주유소(LPG포함) 주유 할인"
+        },
+        {
+            "category": "교통",
+            "content": "대중교통 건당 50~100원 청구할인\n택시 5% 청구할인 / KTX 10% 할인"
+        },
+        {
+            "category": "여행/숙박",
+            "content": "국내선 5%, 국제선 7% 발권 수수료 할인 (횟수제한 없음)\n롯데렌터카 35% 현장할인"
+        },
+        {
+            "category": "통신",
+            "content": "KT, SKT, LGU+ 매월 청구금액의 3% 청구할인"
+        },
+        {
+            "category": "할인",
+            "content": "다양한 통합할인 혜택\n- 커피, 베이커리 10% 청구할인 / 마트, 편의점 5% 청구할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "놀이공원 자유이용권 50% 현장할인"
+        },
+        {
+            "category": "영화",
+            "content": "영화관 할인"
+        },
+        {
+            "category": "여행/숙박",
+            "content": "여행서비스 할인\n골프 라운지 혜택"
+        },
+        {
+            "category": "기타",
+            "content": "한화그룹 계열사 서비스"
+        }
+    ]
+}

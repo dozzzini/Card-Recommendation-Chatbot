@@ -1,0 +1,31 @@
+{
+    "card_name": "신세계 더 마일리지 삼성카드 (스카이패스)",
+    "company": "삼성카드",
+    "cashback": "국내외 가맹점\n1마일 적립",
+    "benefit_place": "신세계백화점·신세계면세점\n1마일 추가적립",
+    "discount": "신세계백화점\n제휴 서비스",
+    "overseas": "국내전용 45,000원 / 해외겸용 45,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "모든가맹점",
+            "content": "국내외 가맹점 스카이패스 1마일리지 적립"
+        },
+        {
+            "category": "쇼핑",
+            "content": "신세계백화점·신세계면세점 스카이패스 1마일리지 추가적립"
+        },
+        {
+            "category": "백화점",
+            "content": "신세계백화점 제휴 서비스"
+        },
+        {
+            "category": "면세점",
+            "content": "신세계면세점 멤버십 우대 서비스"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "Mastercard PLATINUM 등급 서비스"
+        }
+    ]
+}

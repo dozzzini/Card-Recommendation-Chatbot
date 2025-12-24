@@ -1,0 +1,15 @@
+{
+    "card_name": "알파원카드",
+    "company": "KB국민카드",
+    "cashback": "다양한 혜택을\n한 장의 카드로 이용",
+    "benefit_place": "정보없음",
+    "discount": "정보없음",
+    "overseas": "국내전용 없음 / 해외겸용 없음",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "간편결제",
+            "content": "한장의 대표카드로 보유 중인 모든 카드 사용이 가능한 All-in-One카드"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "card_name": "카드의정석 PREMIUM MILEAGE(SKYPASS)",
+    "company": "우리카드",
+    "cashback": "1,000원당\n1~2마일 적립",
+    "benefit_place": "국내외 공항라운지\n무료 이용서비스",
+    "discount": "연1회\n프리미엄기프트 제공",
+    "overseas": "국내전용 135,000원 / 해외겸용 135,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "대한항공",
+            "content": "이용금액 1,000원당 대한항공 1~2 마일리지 적립"
+        },
+        {
+            "category": "공항라운지/PP",
+            "content": "국내외 공항라운지 무료 이용 서비스"
+        },
+        {
+            "category": "바우처",
+            "content": "프리미엄 기프트 서비스(연 1회, 택1)"
+        },
+        {
+            "category": "프리미엄",
+            "content": "프리미엄 투어 서비스"
+        },
+        {
+            "category": "주유",
+            "content": "현대오일뱅크, S-OIL 주유 및 충전 시 리터당 60원 청구할인"
+        }
+    ]
+}

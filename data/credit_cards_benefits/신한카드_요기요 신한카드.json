@@ -1,0 +1,27 @@
+{
+    "card_name": "요기요 신한카드",
+    "company": "신한카드",
+    "cashback": "요기요\n20% 할인",
+    "benefit_place": "요기요\n10% 추가캐시백",
+    "discount": "정기결제건\n15% 할인",
+    "overseas": "국내전용 24,000원 / 해외겸용 27,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "배달앱",
+            "content": "요기요 20% 결제일 할인,\n요기요 추가 10% 캐시백"
+        },
+        {
+            "category": "디지털구독",
+            "content": "OTT 15% 결제일 할인"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "온라인 쇼핑몰 건당 2천원 결제일 할인"
+        },
+        {
+            "category": "카페",
+            "content": "스타벅스 사이렌오더, 와인앤모어 10% 결제일 할인"
+        }
+    ]
+}

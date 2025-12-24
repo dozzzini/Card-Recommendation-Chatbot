@@ -1,0 +1,39 @@
+{
+    "card_name": "GS SHOP KB국민카드",
+    "company": "KB국민카드",
+    "cashback": "GS SHOP\n12% 할인",
+    "benefit_place": "편의점\n10% 할인",
+    "discount": "이동통신\n5% 할인",
+    "overseas": "국내전용 25,000원 / 해외겸용 25,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "온라인쇼핑",
+            "content": "GS SHOP 12% 청구 할인"
+        },
+        {
+            "category": "대형마트",
+            "content": "대형마트 5% 청구 할인"
+        },
+        {
+            "category": "통신",
+            "content": "이동통신 5% 청구 할인"
+        },
+        {
+            "category": "카페",
+            "content": "커피 10% 청구 할인"
+        },
+        {
+            "category": "편의점",
+            "content": "편의점 10% 청구 할인"
+        },
+        {
+            "category": "택시",
+            "content": "택시 10% 청구 할인"
+        },
+        {
+            "category": "레저/스포츠",
+            "content": "미용실/화장품/문화센터/스포츠 5% 청구 할인"
+        }
+    ]
+}

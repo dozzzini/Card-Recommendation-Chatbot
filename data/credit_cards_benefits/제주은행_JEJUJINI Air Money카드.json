@@ -1,0 +1,35 @@
+{
+    "card_name": "JEJUJINI Air Money카드",
+    "company": "제주은행",
+    "cashback": "제주지니 가맹점\n3% 청구할인",
+    "benefit_place": "국내/해외\n0.7%/1.0% AirMoney적립",
+    "discount": "정보없음",
+    "overseas": "국내전용 15,000원 / 해외겸용 20,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "할인",
+            "content": "AIR MONEY 할인 서비스\n제주지니 가맹점 이용시 3% 청구할인"
+        },
+        {
+            "category": "적립",
+            "content": "AIR MONEY 적립\n디지털구독 서비스 특별적립"
+        },
+        {
+            "category": "보험",
+            "content": "여행자보험\n출장지원서비스"
+        },
+        {
+            "category": "공항라운지",
+            "content": "[JEJU JINI Air Money Platinum카드] 국내선 동반자 무료항공권 제공"
+        },
+        {
+            "category": "호텔",
+            "content": "[JEJU JINI Air Money Platinum카드] 국내 특급호텔 무료숙박권 제공・해외 호텔 무료숙박 제공"
+        },
+        {
+            "category": "렌터카",
+            "content": "[JEJU JINI Air Money Platinum카드] 제주지역 렌터카 제공"
+        }
+    ]
+}

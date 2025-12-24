@@ -1,0 +1,39 @@
+{
+    "card_name": "the OPUS silver",
+    "company": "우리카드",
+    "cashback": "프리미엄 바우처\n최대 13만원 제공",
+    "benefit_place": "항공/호텔/면세/골프/해외\n3% 적립",
+    "discount": "OTT/뷰티/여가\n10% 할인",
+    "overseas": "국내전용 150,000원 / 해외겸용 150,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "바우처",
+            "content": "[프리미엄 바우처] 최대 13만원 프리미엄 바우처 제공"
+        },
+        {
+            "category": "적립",
+            "content": "[기본적립] 국내 가맹점 1% 적립"
+        },
+        {
+            "category": "적립",
+            "content": "[특별적립Ⅰ] 백화점, 온라인 쇼핑 2% 적립"
+        },
+        {
+            "category": "적립",
+            "content": "[특별적립Ⅱ] 국내 항공권, 국내 특급호텔, 면세점, 골프장, 해외 3% 할인"
+        },
+        {
+            "category": "공항라운지",
+            "content": "[프리미엄] 더라운지 서비스"
+        },
+        {
+            "category": "공항",
+            "content": "[프리미엄] 인천공항 주차 할인 서비스"
+        },
+        {
+            "category": "생활",
+            "content": "[라이프] OTT/뷰티/여가 10% 할인"
+        }
+    ]
+}

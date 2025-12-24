@@ -1,0 +1,15 @@
+{
+    "card_name": "LOCA MONEY",
+    "company": "롯데카드",
+    "cashback": "국내외가맹점\n1% 적립",
+    "benefit_place": "카드대출 이용시\n2% 적립",
+    "discount": "정보없음",
+    "overseas": "국내전용 20,000원 / 해외겸용 20,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "국내외가맹점",
+            "content": "실적 조건 없는 1% 로카코인 적립\n금융 이용 시 2% 로카코인 적립"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "card_name": "모니모카드",
+    "company": "삼성카드",
+    "cashback": "스타벅스\n50% 할인",
+    "benefit_place": "온라인쇼핑몰\n7% 할인",
+    "discount": "이동통신요금\n10% 결제일 할인",
+    "overseas": "국내전용 10,000원 / 해외겸용 10,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "선택형",
+            "content": "[맞춤혜택] 옵션 서비스 1(Needs & Identity Option)\n온라인패션·오늘의집 30% 할인 / 스타벅스 50%, 교보문고·스트리밍 30% 할인"
+        },
+        {
+            "category": "선택형",
+            "content": "[맞춤혜택] 옵션 서비스 2(My Shopping Otion)\n온라인쇼핑몰 / 편의점·다이소·올리브영 / 해외 7% 할인"
+        },
+        {
+            "category": "생활",
+            "content": "이동통신요금·아파트 관리비 10% 결제일 할인"
+        },
+        {
+            "category": "교통",
+            "content": "대중교통·택시 10% 결제일 할인"
+        },
+        {
+            "category": "배달앱",
+            "content": "배달앱 10% 결제일 할인"
+        },
+        {
+            "category": "선택형",
+            "content": "내 마음대로 고르는 디자인"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "card_name": "1st카드 (캐시백형)",
+    "company": "광주은행",
+    "cashback": "전 가맹점\n0.5% 캐시백",
+    "benefit_place": "2가지 업종\n1.2% 캐시백",
+    "discount": "영화관\n3천원 캐시백",
+    "overseas": "국내전용 8,000원 해외겸용 10,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "모든가맹점",
+            "content": "모든 가맹점 이용액 0.5% 캐시백"
+        },
+        {
+            "category": "영화",
+            "content": "영화관 건당 8천원 이상 결제시 3천원 캐시백"
+        },
+        {
+            "category": "기타",
+            "content": "ATM 출금 수수료 면제"
+        },
+        {
+            "category": "선택형",
+            "content": "선택한 2가지 업종 1.2% 캐시백"
+        },
+        {
+            "category": "선택형",
+            "content": "선택한 업종 2.0% 캐시백(혜택 추가시 연회비 3천원 추가)"
+        }
+    ]
+}

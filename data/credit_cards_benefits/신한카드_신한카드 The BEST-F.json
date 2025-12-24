@@ -1,0 +1,43 @@
+{
+    "card_name": "신한카드 The BEST-F",
+    "company": "신한카드",
+    "cashback": "캐시백형\n1% 캐시백",
+    "benefit_place": "대한항공형\n1,500원/1마일 적립",
+    "discount": "기프트옵션\n1회/연 제공",
+    "overseas": "해외겸용 202,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "바우처",
+            "content": "Gift Option Service"
+        },
+        {
+            "category": "선택형",
+            "content": "캐시백(캐시백형 선택 시)\n마일리지 적립(마일리지 적립형 선택 시)"
+        },
+        {
+            "category": "여행/숙박",
+            "content": "JEJU 할인"
+        },
+        {
+            "category": "공항라운지",
+            "content": "공항라운지"
+        },
+        {
+            "category": "카페",
+            "content": "커피 할인"
+        },
+        {
+            "category": "베이커리",
+            "content": "베이커리 할인"
+        },
+        {
+            "category": "쇼핑",
+            "content": "쇼핑 할인"
+        },
+        {
+            "category": "생활",
+            "content": "생활 할인"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "card_name": "국민행복카드 신용카드",
+    "company": "iM뱅크",
+    "cashback": "병/의원\n5% 할인",
+    "benefit_place": "어린이집/유치원\n5% 할인",
+    "discount": "스타벅스\n20% 할인",
+    "overseas": "국내전용 없음",
+    "performance": "전월실적 20만원 이상",
+    "benefit": [
+        {
+            "category": "국민행복",
+            "content": "국민행복카드 안내"
+        },
+        {
+            "category": "병원/약국",
+            "content": "One Card-Multi Service ( 3가지 중 택 1)\n(A type) For Baby"
+        },
+        {
+            "category": "교육/육아",
+            "content": "One Card-Multi Service ( 3가지 중 택 1)\n(B type) For Children"
+        },
+        {
+            "category": "적립",
+            "content": "One Card-Multi Service ( 3가지 중 택 1)\n(C type) For Greenren"
+        },
+        {
+            "category": "생활",
+            "content": "공통서비스 안내"
+        }
+    ]
+}

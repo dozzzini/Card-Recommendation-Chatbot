@@ -1,0 +1,31 @@
+{
+    "card_name": "LOCA Professional",
+    "company": "롯데카드",
+    "cashback": "국내・해외\n1% 캐시백",
+    "benefit_place": "즉시결제\n추가 1% 캐시백",
+    "discount": "정보없음",
+    "overseas": "국내전용 300,000원 / 해외겸용 300,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "국내외가맹점",
+            "content": "어디서나 1% 캐시백\n국내 모든 가맹점 1%, 해외 모든 이용금액 1%"
+        },
+        {
+            "category": "캐시백",
+            "content": "즉시결제 1% 추가 캐시백\n일시불 이용 후 5일 이내 즉시결제 시 1%"
+        },
+        {
+            "category": "기타",
+            "content": "LOCA 나누기 혜택"
+        },
+        {
+            "category": "바우처",
+            "content": "Special Gift 혜택"
+        },
+        {
+            "category": "프리미엄 서비스",
+            "content": "Master World 서비스"
+        }
+    ]
+}

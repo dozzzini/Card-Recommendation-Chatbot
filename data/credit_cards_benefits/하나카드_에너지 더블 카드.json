@@ -1,0 +1,23 @@
+{
+    "card_name": "에너지 더블 카드",
+    "company": "하나카드",
+    "cashback": "에너지 공과금\n10% 할인",
+    "benefit_place": "대형마트\n5% 할인",
+    "discount": "전기차 충전\n10% 할인",
+    "overseas": "국내전용 20,000원 / 해외겸용 20,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "공과금",
+            "content": "에너지 공과금 청구할인 서비스"
+        },
+        {
+            "category": "생활",
+            "content": "일상생활 청구할인 서비스"
+        },
+        {
+            "category": "무이자할부",
+            "content": "2~3개월 무이자 할부 서비스"
+        }
+    ]
+}

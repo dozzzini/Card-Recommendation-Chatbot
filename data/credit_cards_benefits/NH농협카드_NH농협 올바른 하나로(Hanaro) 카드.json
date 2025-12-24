@@ -1,0 +1,35 @@
+{
+    "card_name": "NH농협 올바른 하나로(Hanaro) 카드",
+    "company": "NH농협카드",
+    "cashback": "농협판매장\n5% 적립",
+    "benefit_place": "생활편의업종\n3% 적립",
+    "discount": "병원, 약국\n5% 할인",
+    "overseas": "국내전용 13,000원 / 해외겸용15,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "모든가맹점",
+            "content": "농협판매장 이용금액의 5% NH포인트 적립"
+        },
+        {
+            "category": "생활",
+            "content": "주요 생활편의업종 이용액의 3% NH포인트 적립"
+        },
+        {
+            "category": "테마파크",
+            "content": "전국 주요 놀이공원 할인"
+        },
+        {
+            "category": "병원/약국",
+            "content": "병원, 약국 5% 청구할인"
+        },
+        {
+            "category": "공항라운지",
+            "content": "국제공항 라운지 무료이용"
+        },
+        {
+            "category": "기타",
+            "content": "전자금융 수수료 면제\nOK Cashbag 제휴서비스"
+        }
+    ]
+}

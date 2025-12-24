@@ -1,0 +1,19 @@
+{
+    "card_name": "The Aureum",
+    "company": "Sh수협은행",
+    "cashback": "프리미엄 바우처\n4종 제공 (택 1)",
+    "benefit_place": "건강/생활/쇼핑/여행\n5% 할인 (패키지 택 1)",
+    "discount": "정보없음",
+    "overseas": "국내전용 190,000원 / 해외겸용 200,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "바우처",
+            "content": "[Premium Voucher] 4가지 중 1가지 선택"
+        },
+        {
+            "category": "선택형",
+            "content": "[할인 서비스] 라이프스타일 패키지 업종 5% 할인"
+        }
+    ]
+}

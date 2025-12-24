@@ -1,0 +1,23 @@
+{
+    "card_name": "skylife Ultra IBK카드",
+    "company": "IBK기업은행",
+    "cashback": "skylife서비스 최대\n1만원 할인",
+    "benefit_place": "마트, 대형할인점\n5% 할인",
+    "discount": "놀이공원 최대\n50% 할인",
+    "overseas": "국내전용 10,000원 / 해외겸용 10,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "생활",
+            "content": "[skylife 서비스] skylife서비스 자동이체시 청구할인"
+        },
+        {
+            "category": "쇼핑",
+            "content": "[쇼핑서비스] 마트, 대형 할인점 5% 할인(이마트, 홈플러스, 롯데마트, 농협하나로클럽)"
+        },
+        {
+            "category": "테마파크",
+            "content": "[놀이공원] 주요 놀이공원 무료입장 또는 입장료/자유이용권 최대 50% 할인"
+        }
+    ]
+}

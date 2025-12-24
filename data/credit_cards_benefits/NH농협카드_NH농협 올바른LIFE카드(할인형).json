@@ -1,0 +1,47 @@
+{
+    "card_name": "NH농협 올바른LIFE카드(할인형)",
+    "company": "NH농협카드",
+    "cashback": "온라인쇼핑\n3% 할인",
+    "benefit_place": "커피전문점\n5% 할인",
+    "discount": "이동통신요금\n2천원 할인",
+    "overseas": "해외겸용 10,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "온라인쇼핑",
+            "content": "온라인쇼핑 3% 청구할인"
+        },
+        {
+            "category": "대형마트",
+            "content": "대형마트 3% 청구할인"
+        },
+        {
+            "category": "병원/약국",
+            "content": "병원, 약국 3% 청구할인"
+        },
+        {
+            "category": "도서",
+            "content": "서점 3% 청구할인"
+        },
+        {
+            "category": "카페/디저트",
+            "content": "커피, 제과점 5% 청구할인"
+        },
+        {
+            "category": "영화",
+            "content": "영화 5% 청구할인"
+        },
+        {
+            "category": "편의점",
+            "content": "편의점 5% 청구할인"
+        },
+        {
+            "category": "통신",
+            "content": "이동통신요금 자동납부건 2천원 청구할인"
+        },
+        {
+            "category": "테마파크",
+            "content": "전국 주요 놀이공원 할인"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "card_name": "네이버페이 라인프렌즈 신한카드",
+    "company": "신한카드",
+    "cashback": "네이버 결제 시\n2% 적립",
+    "benefit_place": "네이버 외\n0.5% 적립",
+    "discount": "정보없음",
+    "overseas": "국내전용 7,000원 / 해외겸용 10,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "선택형",
+            "content": "플레이트 디자인 선택 가능"
+        },
+        {
+            "category": "네이버페이",
+            "content": "네이버에서 결제 시 2% 적립"
+        },
+        {
+            "category": "적립",
+            "content": "네이버 외 결제 시 0.5% 적립"
+        }
+    ]
+}

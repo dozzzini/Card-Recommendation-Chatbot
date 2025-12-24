@@ -1,0 +1,23 @@
+{
+    "card_name": "올바른OIL카드",
+    "company": "NH농협카드",
+    "cashback": "주유소/충전소\n100~150원/L 할인",
+    "benefit_place": "오토오아시스\n차량 경정비 현장할인",
+    "discount": "커피\n10% 적립",
+    "overseas": "해외겸용 15,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "주유",
+            "content": "GS칼텍스, 농협주유소 리터당 100원~150원 청구할인 (LPG충전소 포함)"
+        },
+        {
+            "category": "정비",
+            "content": "오토오아시스 차량 경정비 현장할인"
+        },
+        {
+            "category": "생활",
+            "content": "커피, 편의점, 교통 등 생활 적립서비스"
+        }
+    ]
+}

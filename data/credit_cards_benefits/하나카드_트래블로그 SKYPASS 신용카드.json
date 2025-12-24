@@ -1,0 +1,19 @@
+{
+    "card_name": "트래블로그 SKYPASS 신용카드",
+    "company": "하나카드",
+    "cashback": "1,500원 당\n1마일 적립",
+    "benefit_place": "해외 가맹점\n이용수수료 면제",
+    "discount": "해외 ATM\n인출 수수료 면제",
+    "overseas": "국내전용 48,000원 / 해외겸용 48,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "대한항공",
+            "content": "대한항공 마일리지 적립"
+        },
+        {
+            "category": "해외",
+            "content": "외화 하나머니 결제 혜택"
+        }
+    ]
+}

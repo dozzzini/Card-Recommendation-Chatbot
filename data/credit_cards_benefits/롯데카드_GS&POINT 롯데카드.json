@@ -1,0 +1,19 @@
+{
+    "card_name": "GS&POINT 롯데카드",
+    "company": "롯데카드",
+    "cashback": "GS SHOP\n5% 할인",
+    "benefit_place": "GS25\n5% 할인",
+    "discount": "GS 칼텍스\n3천원 할인",
+    "overseas": "국내전용 15,000원 / 해외겸용 15,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "쇼핑",
+            "content": "GS계열사 이용 시 결제일 청구 할인"
+        },
+        {
+            "category": "멤버십포인트",
+            "content": "L.POINT, GS&POINT"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "card_name": "D4카드의정석Ⅱ",
+    "company": "우리카드",
+    "cashback": "커피 4대 브랜드\n55% 청구할인",
+    "benefit_place": "시내버스・지하철・택시\n33% 청구할인",
+    "discount": "편의점\n11% 청구할인",
+    "overseas": "국내전용 12,000원 / 해외겸용 12,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "카페",
+            "content": "[Discount 4 서비스] 하나. Discount 55% 커피 4대 브랜드통합 스타벅스, 투썸플레이스, 커피빈, 폴바셋"
+        },
+        {
+            "category": "교통",
+            "content": "[Discount 4 서비스] 둘. Discount 33% 대중교통 시내버스/지하철 (후불 교통기능 선택 시 제공), 택시"
+        },
+        {
+            "category": "편의점",
+            "content": "[Discount 4 서비스] 셋. Discount 11% 편의점"
+        },
+        {
+            "category": "영화",
+            "content": "[Discount 4 서비스] 넷. Discount 5,500원 영화관"
+        }
+    ]
+}

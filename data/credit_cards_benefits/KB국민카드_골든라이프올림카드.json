@@ -1,0 +1,35 @@
+{
+    "card_name": "골든라이프올림카드",
+    "company": "KB국민카드",
+    "cashback": "병원 or 마트\n5% 할인",
+    "benefit_place": "생활편의서비스\n10% 할인",
+    "discount": "연간리워드\n1만점 적립",
+    "overseas": "국내전용 15,000원 / 해외겸용 20,000원",
+    "performance": "전월실적 30만원 이상",
+    "benefit": [
+        {
+            "category": "선택형",
+            "content": "병원,약국 / 주유 / 대형마트 中 택1"
+        },
+        {
+            "category": "적립",
+            "content": "골프/건강관리/여행/쇼핑/대중교통/이동통신 1~2% 적립"
+        },
+        {
+            "category": "할인",
+            "content": "골든라이프서비스, 반려동물 관련업종, 음식업종 5~10% 청구 할인"
+        },
+        {
+            "category": "해외",
+            "content": "해외 이용금액 2% 할인 캐시백"
+        },
+        {
+            "category": "기타",
+            "content": "연간 리워드 1만점 적립"
+        },
+        {
+            "category": "기타",
+            "content": "스마트 기능"
+        }
+    ]
+}

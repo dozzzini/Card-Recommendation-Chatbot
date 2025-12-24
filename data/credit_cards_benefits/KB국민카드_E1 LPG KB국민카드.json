@@ -1,0 +1,35 @@
+{
+    "card_name": "E1 LPG KB국민카드",
+    "company": "KB국민카드",
+    "cashback": "E1 LPG충전소\n100원/L 할인",
+    "benefit_place": "인터넷 쇼핑몰\n10% 할인",
+    "discount": "CGV\n10% 할인",
+    "overseas": "해외겸용 20,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "주유",
+            "content": "E1 LPG충전소 리터당 100원 청구할인"
+        },
+        {
+            "category": "레저/스포츠",
+            "content": "골프장, 골프연습장 이용금액 10% 청구할인"
+        },
+        {
+            "category": "쇼핑",
+            "content": "인터넷 쇼핑몰/소셜커머스 10% 청구할인"
+        },
+        {
+            "category": "푸드",
+            "content": "패밀리레스토랑 이용금액 10% 청구할인"
+        },
+        {
+            "category": "OTT/영화/문화",
+            "content": "CGV 영화관 이용금액 10% 청구할인"
+        },
+        {
+            "category": "교통",
+            "content": "대중교통 이용금액 10% 청구할인"
+        }
+    ]
+}

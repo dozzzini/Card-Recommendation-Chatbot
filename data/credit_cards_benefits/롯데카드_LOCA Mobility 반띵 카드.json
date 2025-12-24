@@ -1,0 +1,35 @@
+{
+    "card_name": "LOCA Mobility 반띵 카드",
+    "company": "롯데카드",
+    "cashback": "대중교통\n50% 할인",
+    "benefit_place": "로카모빌리티카드\n무료 제공",
+    "discount": "카페/미용실/쇼핑/스트리밍\n50% 할인",
+    "overseas": "국내전용 17,000원 / 해외겸용 17,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "대중교통",
+            "content": "대중교통 50% 할인"
+        },
+        {
+            "category": "카페",
+            "content": "커피 50% 할인"
+        },
+        {
+            "category": "헤어",
+            "content": "미용실 50% 할인"
+        },
+        {
+            "category": "온라인쇼핑",
+            "content": "온라인쇼핑 50% 할인"
+        },
+        {
+            "category": "디지털구독",
+            "content": "스트리밍 서비스 50% 할인\n멤버십 서비스 50% 할인"
+        },
+        {
+            "category": "교통",
+            "content": "LOCA Mobility 반띵 카드 발급 시, '로카모빌리티카드' 1매 무료 제공"
+        }
+    ]
+}

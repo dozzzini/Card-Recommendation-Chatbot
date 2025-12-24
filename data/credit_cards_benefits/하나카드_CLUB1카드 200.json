@@ -1,0 +1,35 @@
+{
+    "card_name": "CLUB1카드 200",
+    "company": "하나카드",
+    "cashback": "항공 마일리지\n대한항공/아시아나항공 적립",
+    "benefit_place": "대한항공 기내면세점\n10% 청구할인",
+    "discount": "trendy OPTION\n연 3개 선택",
+    "overseas": "해외겸용 2,000,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "항공마일리지",
+            "content": "대한항공 / 아시아나 항공 마일리지 적립\n항공 좌석 승급(비즈니스→퍼스트 또는 비즈니스 스위트) 또는 동반자 비즈니스석 무료 항공권 (택1)"
+        },
+        {
+            "category": "선택형",
+            "content": "trendy OPTION\n(개인 or 법인카드 연 3개/가족카드 연 1개 선택 가능)"
+        },
+        {
+            "category": "쇼핑",
+            "content": "HOTEL & Duty Free"
+        },
+        {
+            "category": "골프",
+            "content": "KLPGA 하나금융그룹 Championship\n홀인원 상금 지원 서비스 / 골프 상해보험 무료 가입 서비스"
+        },
+        {
+            "category": "생활",
+            "content": "가족카드 서비스"
+        },
+        {
+            "category": "기타",
+            "content": "Finance\n- 하나금융그룹 우대서비스"
+        }
+    ]
+}

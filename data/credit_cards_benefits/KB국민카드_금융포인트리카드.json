@@ -1,0 +1,19 @@
+{
+    "card_name": "금융포인트리카드",
+    "company": "KB국민카드",
+    "cashback": "금융포인트\n0.5~5% 적립",
+    "benefit_place": "대출금리\n연0.1~0.3% 할인",
+    "discount": "금융수수료\n면제 서비스",
+    "overseas": "해외겸용 5,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "금융",
+            "content": "금융포인트 0.5~5% 적립\nKB증권 매매수수료의 5% 금융포인트 적립"
+        },
+        {
+            "category": "기타",
+            "content": "다양한 KB금융 서비스 혜택"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "card_name": "KB국민 My WE:SH 카드",
+    "company": "KB국민카드",
+    "cashback": "KB Pay\n10% 할인",
+    "benefit_place": "음식점\n10% 할인",
+    "discount": "서비스팩 3개 중\n1개 선택할인",
+    "overseas": "국내전용 15,000원 / 해외겸용 15,000원",
+    "performance": "전월실적 40만원 이상",
+    "benefit": [
+        {
+            "category": "간편결제",
+            "content": "[나한테 진심 서비스] KB Pay 10% 할인"
+        },
+        {
+            "category": "푸드",
+            "content": "[나한테 진심 서비스] 음식점, 편의점 10% 할인"
+        },
+        {
+            "category": "통신",
+            "content": "[나한테 진심 서비스] 이동통신요금 10% 할인"
+        },
+        {
+            "category": "디지털구독",
+            "content": "[나한테 진심 서비스] OTT 30% 할인"
+        },
+        {
+            "category": "선택형",
+            "content": "[더욱 진심 서비스] 먹는데 진심-배달/커피 5% 할인"
+        },
+        {
+            "category": "선택형",
+            "content": "[더욱 진심 서비스] 노는데 진심-택시/커피 5%, 영화관 30% 할인"
+        },
+        {
+            "category": "선택형",
+            "content": "[더욱 진심 서비스] 관리에 진심-미용실, 스포츠, 온라인서점, 올리브영 5% 할인"
+        },
+        {
+            "category": "기타",
+            "content": "WE:SH 서비스"
+        },
+        {
+            "category": "선택형",
+            "content": "카드 플레이트 선택 가능"
+        }
+    ]
+}

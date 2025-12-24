@@ -1,0 +1,39 @@
+{
+    "card_name": "JADE First Centum",
+    "company": "하나카드",
+    "cashback": "바우처\n60만원 상당 제공",
+    "benefit_place": "전 세계 공항라운지\n연 10회, 일 3회 무료 이용",
+    "discount": "국내 가맹점\n최대 1.5% 하나머니 적립",
+    "overseas": "국내전용 995,000원 / 해외겸용 1,000,000원",
+    "performance": "전월실적 50만원 이상",
+    "benefit": [
+        {
+            "category": "바우처",
+            "content": "[PREMIUM VOUCHER] 바우처 2가지 중 1가지를 선택하여 이용 (연 1회)"
+        },
+        {
+            "category": "바우처",
+            "content": "[DINING VOUCHER] 특급호텔 레스토랑 20만원 현장 할인 (연 1회)"
+        },
+        {
+            "category": "바우처",
+            "content": "[BONUS VOUCHER] 연 누적 이용금액별 골프/프리미엄 아울렛 50% 청구 할인"
+        },
+        {
+            "category": "공항라운지",
+            "content": "[AIRPORT] 전세계 공항 라운지 무료 이용 (본인/가족/동반자 통합 연 10회, 일 3회)"
+        },
+        {
+            "category": "적립",
+            "content": "[REWARD] 국내 가맹점 1.5%~1.0% 하나머니 적립 제공・영역별 3.0% 하나머니 적립"
+        },
+        {
+            "category": "자동차",
+            "content": "[DRIVING] 주유(LPG) 리터당 200하나머니・EV충전 50% 하나머니 적립 제공\n・제휴 주차장 무료 주차 제공"
+        },
+        {
+            "category": "선택형",
+            "content": "[SPECIAL PLATE] 특수 소재 카드 신청 가능 (신청 건별 발급수수료 10만원)"
+        }
+    ]
+}

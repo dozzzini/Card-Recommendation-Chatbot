@@ -1,0 +1,23 @@
+{
+    "card_name": "GS리테일 NH농협카드",
+    "company": "NH농협카드",
+    "cashback": "GS리테일 점내\n2% 포인트적립",
+    "benefit_place": "국내 전가맹점\n1% 포인트적립",
+    "discount": "해외 전가맹점\n2% 포인트적립",
+    "overseas": "국내전용 12,000원 / 해외겸용 12,000원",
+    "performance": "전월실적 없음",
+    "benefit": [
+        {
+            "category": "멤버십포인트",
+            "content": "GS리테일 점내 이용 시 2% GS&POINT 적립"
+        },
+        {
+            "category": "모든가맹점",
+            "content": "국내 이용금액의 1%, 국외 이용금액의 2% NH포인트 적립"
+        },
+        {
+            "category": "공항라운지",
+            "content": "국제공항 라운지 무료이용 연 2회 제공"
+        }
+    ]
+}
