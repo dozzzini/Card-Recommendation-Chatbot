@@ -11,3 +11,12 @@ __pycache__/
 
 rag/rag_v1_0.ipynb
 rag/rag_v1_00.ipynb
+
+# ==============================
+# Vector DB / Chroma artifacts
+# ==============================
+data/test/card_vector_db/
+**/*.bin
+**/*.sqlite3
+**/*.sqlite
+**/*.parquet
